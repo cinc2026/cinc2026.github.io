@@ -1,0 +1,50 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+//@charset "utf-8";
+
+// Override theme variables BEFORE importing the theme
+$max-width: 1400px;     // Wider content area
+$content-padding: 1rem; // Less side padding
+
+// Reduce spacing between nav items (after theme import)
+.site-nav .page__link {
+  font-size: 0.9rem;
+  padding: 0 0.3rem;
+}
+
+.site-nav .page__item {
+  margin-right: 0.3rem;
+}
+
+//from now this is the original
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+html {
+  font-size: 14px;
+
+  @include breakpoint($medium) {
+    font-size: 16px;
+  }
+
+  @include breakpoint($large) {
+    font-size: 18px;
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 20px;
+  }
+}
+
+// make sure no collapse (maximum 600px)
+@media screen and (max-width: 600px) {
+  .site-nav {
+    display: none;
+  }
+  .nav-trigger {
+    display: block;
+  }
+}

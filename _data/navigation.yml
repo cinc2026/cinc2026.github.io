@@ -1,0 +1,27 @@
+# main links
+main:
+  #- title: "&#9776;"
+  # url: "/navigation/"
+  - title: "Calendar"
+    url: "/dates/"
+  - title: "Registration"
+    url: "/registration/"
+  - title: "Authors"
+    url: "/authors/"
+  - title: "Programme"
+    url: "/programme/"
+#  - title: "Venue"
+#    url: "/venue/"
+  - title: "Travel"
+    url: "/travel/"
+ # - title: "Sponsors"
+ #   url: "/sponsors/"
+  - title: "PhysioNet Challenge"
+    url: "/challenge/"
+  - title: "CinC Home"
+    url: "https://cinc.org/"
+    target: _blank
+    rel: noopener noreferrer
+  - title: "FAQ"
+    url: "/faq/"
+    
