@@ -29,7 +29,7 @@ The George B. Moody PhysioNet Challenge 2026 asks participants to develop and im
 <!--{: .text-justify}-->
 
 More information about current and past Challenges, including [important details](https://moody-challenge.physionet.org/faq/){: target="_blank"} about scoring and test data for previous Challenges are available at the George B. Moody PhysioNet Challenge website.
-{: .text-justify}-->
+{: .text-justify}
 
 [PhysioNet Challenge](https://physionetchallenges.org/){: .btn .btn--info .btn}{: target="_blank"}
 
