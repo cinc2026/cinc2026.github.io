@@ -23,8 +23,20 @@ Speakers (Tentative)
 
 <!--![Sunday Symposium Flyer](../assets/img/flyer_landscape.jpg)-->
 1. When: Sunday, Septembet 20, 2026 <!--at 12pm-5:30pm-->
-<!--1. Where: [Hospital San Carlos](https://www.urjc.es/grado/591-situacion-planos-campus-aranjuez){: target="_blank"},  Universidad Rey Juan Carlos - Aranjuez Campus-->
-<!--1. Address: [C/ Capitán Angosto Gómez Castrillón 91, 28300 Aranjuez-Madrid](https://maps.app.goo.gl/T84i8sHBrJ2vLaqx7){: target="_blank"}-->
+1. Where: [Hospital San Carlos](https://www.urjc.es/grado/591-situacion-planos-campus-aranjuez){: target="_blank"},  Universidad Rey Juan Carlos - Aranjuez Campus
+1. Address: [C/ Capitán Angosto Gómez Castrillón 91, 28300 Aranjuez-Madrid](https://maps.app.goo.gl/T84i8sHBrJ2vLaqx7){: target="_blank"}
+
+
+  <img src="/assets/img/cinc_2026/sunday_simp/hsc_1.jpg" alt="hsc 1" width="400" height="400"> <img src="/assets/img/cinc_2026/sunday_simp/hsc_2.jpg" alt="hsc 2" width="400" height="400">
+
+
+
+ 
+
+
+
+
+
 <!--1. Transportation: -->
 
 <!--* **CinC 2023 designated bus:** Transportation designated for the CinC 2023 Sunday Symposium will be provided to all conference attendees for the entire day. On the Emory [TransLoc.com](https://emory.transloc.com/m/){: target="_blank"} site or [TransLoc app](https://emory.transloc.com/info/mobile){: target="_blank"} go to search box and find **"Biomedical Informatics"** shuttle. This feature offers real-time location tracking and a concise map of the route for transportation to the Sunday Symposium venue. [CinC 2023 designated bus schedule](https://cinc2023.github.io/assets/img/sunday_transportation.pdf).-->
