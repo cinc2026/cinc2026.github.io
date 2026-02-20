@@ -22,7 +22,7 @@ Speakers (Tentative)
 
 
 <!--![Sunday Symposium Flyer](../assets/img/flyer_landscape.jpg)-->
-1. When: Sunday, Septembet 20, 2026 <!--at 12pm-5:30pm-->
+1. When: Sunday, September 20, 2026 <!--at 12pm-5:30pm-->
 1. Where: [Hospital San Carlos](https://www.urjc.es/grado/591-situacion-planos-campus-aranjuez){: target="_blank"},  Universidad Rey Juan Carlos - Aranjuez Campus
 1. Address: [C/ Capitán Angosto Gómez Castrillón 91, 28300 Aranjuez-Madrid](https://maps.app.goo.gl/T84i8sHBrJ2vLaqx7){: target="_blank"}
 
@@ -55,9 +55,11 @@ Speakers (Tentative)
 <script>
   document.addEventListener('DOMContentLoaded', function () {
     new Splide('#hospital-carousel', {
-      type: 'loop',
+      type: 'fade',
+      rewind: true,
       autoplay: true,
-      interval: 3000,
+      interval: 4000,
+      speed: 2500,
       pauseOnHover: true,
       pagination: true,
       arrows: true,
