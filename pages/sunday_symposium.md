@@ -57,7 +57,7 @@ Speakers (Tentative)
     new Splide('#hospital-carousel', {
       type: 'loop',
       autoplay: true,
-      interval: 1500,
+      interval: 2500,
       pauseOnHover: true,
       pagination: true,
       arrows: true,
