@@ -38,6 +38,15 @@ Speakers (Tentative)
       <li class="splide__slide">
         <img src="/assets/img/cinc_2026/sunday_simp/hsc_2.jpg" alt="Hospital San Carlos 2" style="width:100%; max-height:450px; object-fit:cover;">
       </li>
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/sunday_simp/hsc_3.jpg" alt="Hospital San Carlos 3" style="width:100%; max-height:450px; object-fit:cover;">
+      </li>
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/sunday_simp/hsc_4.jpg" alt="Hospital San Carlos 4" style="width:100%; max-height:450px; object-fit:cover;">
+      </li>
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/sunday_simp/hsc_5.jpg" alt="Hospital San Carlos 5" style="width:100%; max-height:450px; object-fit:cover;">
+      </li>
     </ul>
   </div>
 </div>
@@ -48,7 +57,7 @@ Speakers (Tentative)
     new Splide('#hospital-carousel', {
       type: 'loop',
       autoplay: true,
-      interval: 3000,
+      interval: 1500,
       pauseOnHover: true,
       pagination: true,
       arrows: true,
