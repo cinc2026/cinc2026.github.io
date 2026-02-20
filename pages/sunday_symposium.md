@@ -27,7 +27,34 @@ Speakers (Tentative)
 1. Address: [C/ Capitán Angosto Gómez Castrillón 91, 28300 Aranjuez-Madrid](https://maps.app.goo.gl/T84i8sHBrJ2vLaqx7){: target="_blank"}
 
 
-  <img src="/assets/img/cinc_2026/sunday_simp/hsc_1.jpg" alt="hsc 1" width="400" height="400"> <img src="/assets/img/cinc_2026/sunday_simp/hsc_2.jpg" alt="hsc 2" width="400" height="400">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css">
+
+<div id="hospital-carousel" class="splide" aria-label="Hospital San Carlos Photos">
+  <div class="splide__track">
+    <ul class="splide__list">
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/sunday_simp/hsc_1.jpg" alt="Hospital San Carlos 1" style="width:100%; max-height:450px; object-fit:cover;">
+      </li>
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/sunday_simp/hsc_2.jpg" alt="Hospital San Carlos 2" style="width:100%; max-height:450px; object-fit:cover;">
+      </li>
+    </ul>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    new Splide('#hospital-carousel', {
+      type: 'loop',
+      autoplay: true,
+      interval: 3000,
+      pauseOnHover: true,
+      pagination: true,
+      arrows: true,
+    }).mount();
+  });
+</script>
 
 
 
