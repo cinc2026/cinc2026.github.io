@@ -1,15 +1,22 @@
+# ============================================
+# SITIO GENERADO (JEKYLL)
+# ============================================
+# Esto ignora TODA la carpeta _site y subcarpetas
 _site/
+
+# ============================================
+# ARCHIVOS Y CARPETAS DE JEKYLL / RUBY
+# ============================================
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
 Gemfile.lock
 vendor/
 .bundle/
+
+# ============================================
+# SISTEMA OPERATIVO
+# ============================================
 *.ZoneIdentifier
-/_site
-/_site/accommodation
-/_site/activities
-/_site/assets/css
-/_site/assets/js
-/_site/assets/js/lunr
-/_site/assets/js/plugins
+.DS_Store
+Thumbs.db
