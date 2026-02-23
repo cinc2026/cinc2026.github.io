@@ -5,14 +5,44 @@ author_profile: true
 permalink: /
 ---
 
-<div style="text-align: center;">
-  <img src="{{'/assets/img/cinc_2026/royal_palace.jpg' | relative_url}}" alt="Royal Palace" style="width: 500px; height: auto;">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css">
+
+<div id="home-carousel" class="splide" aria-label="Madrid Photos">
+  <div class="splide__track">
+    <ul class="splide__list">
+      <li class="splide__slide">
+        <img src="{{'/assets/img/cinc_2026/banner_cinc_2026.jpg' | relative_url}}" alt="CinC 2026 Banner" style="width:100%; max-height:450px; object-fit:contain;">
+      </li>
+      <li class="splide__slide">
+        <img src="{{'/assets/img/cinc_2026/royal_palace.jpg' | relative_url}}" alt="Royal Palace" style="width:100%; max-height:450px; object-fit:cover;">
+      </li>
+      <li class="splide__slide">
+        <img src="{{'/assets/img/cinc_2026/plaza_mayor.jpg' | relative_url}}" alt="Plaza Mayor" style="width:100%; max-height:450px; object-fit:cover;">
+      </li>
+    </ul>
+  </div>
 </div>
 
+<script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    new Splide('#home-carousel', {
+      type: 'fade',
+      rewind: true,
+      autoplay: true,
+      interval: 4000,
+      speed: 2500,
+      pauseOnHover: true,
+      pagination: true,
+      arrows: true,
+    }).mount();
+  });
+</script>
 
-<div style="text-align: center;">
+
+<!-- <div style="text-align: center;">
   <img src="{{'/assets/img/cinc_2026/logo_completo.svg' | relative_url}}" alt="Texto alternativo" style="width: 450px; height: auto;">
-</div>
+</div> -->
 
 
 &nbsp;
@@ -28,9 +58,6 @@ We warmly invite you to the **53rd Computing in Cardiology conference** in **Mad
 
 ## Madrid, Spain
 Madrid, the host city of CinC 2026, is the capital of Spain and a natural meeting point at the heart of the Iberian Peninsula. It is a vibrant, inclusive, and remarkably safe city, where visitors can enjoy the full spectrum of what it has to offer simply by walking through its streets — from grand boulevards and historic plazas to lively neighborhoods full of character. 
-<div style="text-align: center;">
-  <img src="{{'/assets/img/cinc_2026/plaza_mayor.jpg' | relative_url}}" alt="Plaza Mayor" style="width: 500px; height: auto;">
-</div>
 {: .text-justify}
 
 ## CinC 2026 Organizing Committee
