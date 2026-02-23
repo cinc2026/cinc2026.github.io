@@ -7,3 +7,9 @@ vendor/
 .bundle/
 *.ZoneIdentifier
 /_site
+/_site/accommodation
+/_site/activities
+/_site/assets/css
+/_site/assets/js
+/_site/assets/js/lunr
+/_site/assets/js/plugins
