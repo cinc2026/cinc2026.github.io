@@ -6,3 +6,4 @@ Gemfile.lock
 vendor/
 .bundle/
 *.ZoneIdentifier
+/_site
