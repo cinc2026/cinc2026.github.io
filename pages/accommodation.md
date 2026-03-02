@@ -40,6 +40,46 @@ Please see the below options and walking distances.
 - Discount code: **CINC2026**
 - Booking link for the conference: [RESERVATION LINK for CinC](https://all.accor.com/lien_externe.svlt?goto=rech_resa&destination=9298&sourceid=FOODEU&dayIn=19&monthIn=09&yearIn=2026&nightNb=4&preferredCode=FOODEU&merchantid=par-accorFR){: .btn .btn--info .btn--small}{: target="_blank"}
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css">
+
+<div id="novotel-carousel" class="splide" aria-label="Novotel Madrid Center Photos" style="max-width:800px; margin:1em auto 2em;">
+  <div class="splide__track">
+    <ul class="splide__list">
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/accomodations/novotel/novotel_1.jpg" alt="Novotel Madrid Center - Photo 1" style="width:100%; height:340px; object-fit:contain;">
+      </li>
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/accomodations/novotel/novotel_2.jpg" alt="Novotel Madrid Center - Photo 2" style="width:100%; height:340px; object-fit:contain;">
+      </li>
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/accomodations/novotel/novotel_3.jpg" alt="Novotel Madrid Center - Photo 3" style="width:100%; height:340px; object-fit:contain;">
+      </li>
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/accomodations/novotel/novotel_4.jpg" alt="Novotel Madrid Center - Photo 4" style="width:100%; height:340px; object-fit:contain;">
+      </li>
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/accomodations/novotel/novotel_5.jpg" alt="Novotel Madrid Center - Photo 5" style="width:100%; height:340px; object-fit:contain;">
+      </li>
+    </ul>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    new Splide('#novotel-carousel', {
+      type: 'fade',
+      rewind: true,
+      autoplay: true,
+      interval: 4000,
+      speed: 2500,
+      pauseOnHover: true,
+      pagination: true,
+      arrows: true,
+    }).mount();
+  });
+</script>
+
 
 
 
