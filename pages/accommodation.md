@@ -35,10 +35,13 @@ Please see the below options and walking distances.
 
 
 **1. [Novotel Madrid Center - Conference Venue](https://www.novotelmadridcenter.com/?lang=en){: target="_blank"}<span style="font-size: 1.3em; color: #FFD700;">★★★★☆</span>**
-<!-- - Approximate price range: $240-$382/night-->
-<!--- Cancellation policy: 48 hours prior to arrival -->
 - Contact info: +34 912214060, Email: [info@novotelmadridcenter.com](info@novotelmadridcenter.com)
 - Address: [Calle de O’Donnell, 53. 28009 Madrid, Spain](https://maps.app.goo.gl/MqCXoid94n7VdXDaA){: target="_blank"}
+- Discount code: **CINC2026**
+- Booking link for the conference: [RESERVATION LINK for CinC](https://all.accor.com/lien_externe.svlt?goto=rech_resa&destination=9298&sourceid=FOODEU&dayIn=19&monthIn=09&yearIn=2026&nightNb=4&preferredCode=FOODEU&merchantid=par-accorFR){: .btn .btn--info .btn--small}{: target="_blank"}
+
+
+
 
 **2. [NeoMagna Madrid](https://www.neomagna.com/en/){:target="_blank"}<span style="font-size: 1.3em; color: #FFD700;">★★★☆☆</span>**
 - 13 minutes walking, 8-10 minutes by public transport (1 metro station Line 6 (gray):Manuel Becerra -> O'Donnel).
