@@ -40,6 +40,25 @@ Please see the below options and walking distances.
 - Discount code: **CINC2026**
 - Booking link for the conference: [RESERVATION LINK for CinC](https://all.accor.com/lien_externe.svlt?goto=rech_resa&destination=9298&sourceid=FOODEU&dayIn=19&monthIn=09&yearIn=2026&nightNb=4&preferredCode=FOODEU&merchantid=par-accorFR){: .btn .btn--info .btn--small}{: target="_blank"}
 
+<table style="width:auto; min-width:340px; max-width:620px; border-collapse:collapse; margin:1.2em auto 1.2em 5.75cm; font-size:0.9em;">
+  <thead>
+    <tr>
+      <th style="background-color:#b10019; color:#ffffff; padding:8px 16px; text-align:left; font-weight:600; border:1px solid #8a0014;">Single Room</th>
+      <th style="background-color:#b10019; color:#ffffff; padding:8px 16px; text-align:left; font-weight:600; border:1px solid #8a0014;">Double Room</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="background-color:#9b1a2a; color:#ffffff; padding:8px 16px; border:1px solid #7a1020;">225 €</td>
+      <td style="background-color:#9b1a2a; color:#ffffff; padding:8px 16px; border:1px solid #7a1020;">225 €</td>
+    </tr>
+    <tr>
+      <td style="background-color:#6b6b6b; color:#ffffff; padding:8px 16px; border:1px solid #555555;">Breakfast and Taxes Included</td>
+      <td style="background-color:#6b6b6b; color:#ffffff; padding:8px 16px; border:1px solid #555555;">Breakfast and Taxes Included</td>
+    </tr>
+  </tbody>
+</table>
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css">
 
 <div id="novotel-carousel" class="splide" aria-label="Novotel Madrid Center Photos" style="max-width:800px; margin:1em auto 2em;">
