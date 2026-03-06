@@ -40,24 +40,30 @@ Please see the below options and walking distances.
 - Discount code: **CINC2026**
 - Booking link for the conference: [RESERVATION LINK for CinC](https://all.accor.com/lien_externe.svlt?goto=rech_resa&destination=9298&sourceid=FOODEU&dayIn=19&monthIn=09&yearIn=2026&nightNb=4&preferredCode=FOODEU&merchantid=par-accorFR){: .btn .btn--info .btn--small}{: target="_blank"}
 
-<table style="width:auto; min-width:340px; max-width:620px; border-collapse:collapse; margin:1.2em auto 1.2em 5.75cm; font-size:0.9em;">
-  <thead>
-    <tr>
-      <th style="background-color:#b10019; color:#ffffff; padding:8px 16px; text-align:left; font-weight:600; border:1px solid #8a0014;">Single Room</th>
-      <th style="background-color:#b10019; color:#ffffff; padding:8px 16px; text-align:left; font-weight:600; border:1px solid #8a0014;">Double Room</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="background-color:#9b1a2a; color:#ffffff; padding:8px 16px; border:1px solid #7a1020;">225 €</td>
-      <td style="background-color:#9b1a2a; color:#ffffff; padding:8px 16px; border:1px solid #7a1020;">225 €</td>
-    </tr>
-    <tr>
-      <td style="background-color:#6b6b6b; color:#ffffff; padding:8px 16px; border:1px solid #555555;">Breakfast and Taxes Included</td>
-      <td style="background-color:#6b6b6b; color:#ffffff; padding:8px 16px; border:1px solid #555555;">Breakfast and Taxes Included</td>
-    </tr>
-  </tbody>
-</table>
+<div style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap; margin-bottom: 2em;">
+  <div>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14060.963369938123!2d-3.6920522612494957!3d40.417719469967864!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4228af0b1b000f%3A0xe81d868558cc9a3e!2sNovotel%20Madrid%20Center!5e0!3m2!1ses!2ses!4v1760524215579!5m2!1ses!2ses" width="400" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </div>
+
+  <table style="width:auto; min-width:340px; max-width:620px; border-collapse:collapse; margin:0; font-size:0.9em;">
+    <thead>
+      <tr>
+        <th style="background-color:#b10019; color:#ffffff; padding:8px 16px; text-align:left; font-weight:600; border:1px solid #8a0014;">Single Room</th>
+        <th style="background-color:#b10019; color:#ffffff; padding:8px 16px; text-align:left; font-weight:600; border:1px solid #8a0014;">Double Room</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="background-color:#9b1a2a; color:#ffffff; padding:8px 16px; border:1px solid #7a1020;">225 €</td>
+        <td style="background-color:#9b1a2a; color:#ffffff; padding:8px 16px; border:1px solid #7a1020;">225 €</td>
+      </tr>
+      <tr>
+        <td style="background-color:#6b6b6b; color:#ffffff; padding:8px 16px; border:1px solid #555555;">Breakfast and Taxes Included</td>
+        <td style="background-color:#6b6b6b; color:#ffffff; padding:8px 16px; border:1px solid #555555;">Breakfast and Taxes Included</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css">
 
