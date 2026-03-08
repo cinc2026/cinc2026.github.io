@@ -40,29 +40,31 @@ Please see the below options and walking distances.
 - Discount code: **CINC2026**
 - Booking link for the conference: [RESERVATION LINK for CinC](https://all.accor.com/lien_externe.svlt?goto=rech_resa&destination=9298&sourceid=FOODEU&dayIn=19&monthIn=09&yearIn=2026&nightNb=4&preferredCode=FOODEU&merchantid=par-accorFR){: .btn .btn--info .btn--small}{: target="_blank"}
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap; margin-bottom: 2em;">
-  <div>
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14060.963369938123!2d-3.6920522612494957!3d40.417719469967864!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4228af0b1b000f%3A0xe81d868558cc9a3e!2sNovotel%20Madrid%20Center!5e0!3m2!1ses!2ses!4v1760524215579!5m2!1ses!2ses" width="400" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div style="display: flex; justify-content: flex-start; align-items: flex-start; gap: 30px; flex-wrap: wrap; margin-bottom: 2em;">
+  <div style="flex: 0 0 auto;">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14060.963369938123!2d-3.6920522612494957!3d40.417719469967864!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4228af0b1b000f%3A0xe81d868558cc9a3e!2sNovotel%20Madrid%20Center!5e0!3m2!1ses!2ses!4v1760524215579!5m2!1ses!2ses" width="380" height="220" style="border:0; display:block;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div>
 
-  <table style="width:auto; min-width:340px; max-width:620px; border-collapse:collapse; margin:0; font-size:0.9em;">
-    <thead>
-      <tr>
-        <th style="background-color:#b10019; color:#ffffff; padding:8px 16px; text-align:left; font-weight:600; border:1px solid #8a0014;">Single Room</th>
-        <th style="background-color:#b10019; color:#ffffff; padding:8px 16px; text-align:left; font-weight:600; border:1px solid #8a0014;">Double Room</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="background-color:#9b1a2a; color:#ffffff; padding:8px 16px; border:1px solid #7a1020;">225 €</td>
-        <td style="background-color:#9b1a2a; color:#ffffff; padding:8px 16px; border:1px solid #7a1020;">225 €</td>
-      </tr>
-      <tr>
-        <td style="background-color:#6b6b6b; color:#ffffff; padding:8px 16px; border:1px solid #555555;">Breakfast and Taxes Included</td>
-        <td style="background-color:#6b6b6b; color:#ffffff; padding:8px 16px; border:1px solid #555555;">Breakfast and Taxes Included</td>
-      </tr>
-    </tbody>
-  </table>
+  <div style="flex: 0 0 auto; align-self: center;">
+    <table style="border-collapse:collapse; margin:0; font-size:0.82em;">
+      <thead>
+        <tr>
+          <th style="background-color:#b10019; color:#ffffff; padding:6px 14px; text-align:left; font-weight:600; border:1px solid #8a0014;">Single Room</th>
+          <th style="background-color:#b10019; color:#ffffff; padding:6px 14px; text-align:left; font-weight:600; border:1px solid #8a0014;">Double Room</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="background-color:#9b1a2a; color:#ffffff; padding:6px 14px; border:1px solid #7a1020;">225 €</td>
+          <td style="background-color:#9b1a2a; color:#ffffff; padding:6px 14px; border:1px solid #7a1020;">225 €</td>
+        </tr>
+        <tr>
+          <td style="background-color:#6b6b6b; color:#ffffff; padding:6px 14px; border:1px solid #555555;">Breakfast and Taxes Included</td>
+          <td style="background-color:#6b6b6b; color:#ffffff; padding:6px 14px; border:1px solid #555555;">Breakfast and Taxes Included</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 </div>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css">
@@ -105,22 +107,73 @@ Please see the below options and walking distances.
   });
 </script>
 
+**2. [H10 Puerta de Alcalá, Madrid](https://www.h10hotels.com/en/madrid-hotels/h10-puerta-de-alcala){: target="_blank"}<span style="font-size: 1.3em; color: #FFD700;">★★★★☆</span>**
+- 13 minutes walking, 8 minutes by public transport (Bus 28)
+<!--- Approximate price range: $240-$676/night-->
+<!--- Cancellation policy: 48 hours prior to arrival-->
+- Contact info: +34 914 351 060, Email: [h10.puerta.dealcala@h10hotels.com](h10.puerta.dealcala@h10hotels.com)
+- Addres: [C/ Alcalá, 66, 28009 - Barrio de Salamanca, Madrid](https://maps.app.goo.gl/uivvs3BXew9AisVz7){:target="_blank"}
+- Discount code 15%: **CINC2026**
+- Booking link for the conference: [RESERVATION LINK for CinC](https://www.h10hotels.com/en/madrid-hotels/h10-puerta-de-alcala?utm_source=google_my_business&utm_medium=boton_sitio_web&utm_campaign=hal){: .btn .btn--info .btn--small}{: target="_blank"}
+
+<div style="text-align:center; margin:1em auto 2em;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3037.3889197496737!2d-3.6792553383327316!3d40.42238625517593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0xd4228a2eb17a69f%3A0x8314cefdad2a83bb!2sH10%20Puerta%20de%20Alcal%C3%A1%2C%20C.%20Alcal%C3%A1%2C%2066%2C%20Salamanca%2C%2028009%20Madrid!3m2!1d40.4221919!2d-3.6811757!4m5!1s0xd4228af0b1b000f%3A0xe81d868558cc9a3e!2sNovotel%20Madrid%20Center%2C%20Calle%20de%20O&#39;Donnell%2C%2053%2C%20Salamanca%2C%2028009%20Madrid!3m2!1d40.4216398!2d-3.6722837999999998!5e0!3m2!1ses!2ses!4v1772980824454!5m2!1ses!2ses" width="680" height="300" style="border:0; display:inline-block;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
+<div id="h10alcala-carousel" class="splide" aria-label="H10 Puerta de Alcalá Photos" style="max-width:800px; margin:1em auto 2em;">
+  <div class="splide__track">
+    <ul class="splide__list">
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/accomodations/h_10_puerta_alcala/h10_alcala_1.jpg" alt="H10 Puerta de Alcalá - Photo 1" style="width:100%; height:340px; object-fit:contain;">
+      </li>
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/accomodations/h_10_puerta_alcala/h10_alcala_2.jpg" alt="H10 Puerta de Alcalá - Photo 2" style="width:100%; height:340px; object-fit:contain;">
+      </li>
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/accomodations/h_10_puerta_alcala/h10_alcala_3.jpg" alt="H10 Puerta de Alcalá - Photo 3" style="width:100%; height:340px; object-fit:contain;">
+      </li>
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/accomodations/h_10_puerta_alcala/h10_alcala_4.jpg" alt="H10 Puerta de Alcalá - Photo 4" style="width:100%; height:340px; object-fit:contain;">
+      </li>
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/accomodations/h_10_puerta_alcala/h10_alcala_5.jpg" alt="H10 Puerta de Alcalá - Photo 5" style="width:100%; height:340px; object-fit:contain;">
+      </li>
+    </ul>
+  </div>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    new Splide('#h10alcala-carousel', {
+      type: 'fade',
+      rewind: true,
+      autoplay: true,
+      interval: 4000,
+      speed: 2500,
+      pauseOnHover: true,
+      pagination: true,
+      arrows: true,
+    }).mount();
+  });
+</script>
 
 
 
-**2. [NeoMagna Madrid](https://www.neomagna.com/en/){:target="_blank"}<span style="font-size: 1.3em; color: #FFD700;">★★★☆☆</span>**
+
+**3. [NeoMagna Madrid](https://www.neomagna.com/en/){:target="_blank"}<span style="font-size: 1.3em; color: #FFD700;">★★★☆☆</span>**
 - 13 minutes walking, 8-10 minutes by public transport (1 metro station Line 6 (gray):Manuel Becerra -> O'Donnel).
 <!--- Approximate price range: $216-$265/night-->
 <!--- Cancellation policy: Flexible cancellation based on the room price selected. Please contact the hotel.-->
 - Contact info: +34 914016510, Email: [info@neomagna.com](info@neomagna.com)
 - Address: [Don Ramón de la Cruz 94, 28006, Madrid, Spain](https://maps.app.goo.gl/bdvHQ4DRyzKKqg4y9){: target="_blank"}
 
-**3. [Voco Madrid - Retiro by IHG](https://www.ihg.com/voco/hotels/us/en/madrid/madvo/hoteldetail){: target="_blank"}<span style="font-size: 1.3em; color: #FFD700;">★★★★☆</span>** 
+**4. [Voco Madrid - Retiro by IHG](https://www.ihg.com/voco/hotels/us/en/madrid/madvo/hoteldetail){: target="_blank"}<span style="font-size: 1.3em; color: #FFD700;">★★★★☆</span>** 
 - 20 minutes walking, 10 minutes by public transport (1 metro station Line 6 (gray): Sainz de Baranda -> O'Donnel).
 - Contact info: +34 900983177, Email: [reservations@vocomadridretiro.com](reservations@vocomadridretiro.com)
 - Address: [C. del Pez Volador, 11, Retiro, 28007 Madrid](https://maps.app.goo.gl/nK7tgZcCQXjKX26K6){: target="_blank"}
 
-**4. [Crowne Plaza Madrid - Centre Retiro by IHG](https://www.ihg.com/crowneplaza/hotels/us/en/madrid/madcr/hoteldetail){: target="_blank"}<span style="font-size: 1.3em; color: #FFD700;">★★★★☆</span>**
+**5. [Crowne Plaza Madrid - Centre Retiro by IHG](https://www.ihg.com/crowneplaza/hotels/us/en/madrid/madcr/hoteldetail){: target="_blank"}<span style="font-size: 1.3em; color: #FFD700;">★★★★☆</span>**
 - 20 minutes walking, 10 minutes by public transport (1 metro station Line 6 (gray): Sainz de Baranda -> O'Donnel).
 <!-- - Group rate: $164/night-->
 <!--- **Group rate room** [RESERVATION](https://www.ihg.com/hotelindigo/hotels/us/en/atlanta/atlfx/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99801505&icdv=99801505&qSlH=ATLFX&qGrpCd=CC3&setPMCookies=true&qSHBrC=IN&qDest=683+Peachtree+Street%2C+NE%2C+Atlanta%2C+GA%2C+US&srb_u=1){: .btn .btn--info .btn--small}{: target="_blank"} -->
@@ -130,7 +183,7 @@ Please see the below options and walking distances.
 - Address: [Calle Pez Volador 1 Madrid, 28007 Spain](https://maps.app.goo.gl/wqADPAa4Dhv8J54BA){: target="_blank"}
 <!--- **Note: 50 rooms/night blocked for CinC 2023 conference. Once the blocked rooms are fully reserved, market room rate will be applied.**-->
 
-**5. [Numa Goya Stays](https://numastays.com/locations/spain/madrid/goya/goya){:target="_blank"}**
+**6. [Numa Goya Stays](https://numastays.com/locations/spain/madrid/goya/goya){:target="_blank"}**
 - 11 minutes walking, 10 minutes by public transport (1 metro station Line 6 (gray): Manuel de Becerra -> O'Donnel).
 <!-- - Group rate: $249/night-->
 <!--- **Group rate room** [RESERVATION](https://www.marriott.com/event-reservations/reservation-link.mi?id=1675183539748&key=GRP&app=resvlink){: .btn .btn--info .btn--small}{: target="_blank"}-->
@@ -141,7 +194,7 @@ Please see the below options and walking distances.
 - Address: [C. de Montesa, 20, Barrio de Salamanca, 28006 Madrid, Spain](https://maps.app.goo.gl/dL19kc1ZHhTDqn116){:target="_blank"}
 
 
-**6. [Hotel Claridge Madrid](https://www.hotelclaridge.com/){:target="_blank"}<span style="font-size: 1.3em; color: #FFD700;">★★★★☆</span>**
+**7. [Hotel Claridge Madrid](https://www.hotelclaridge.com/){:target="_blank"}<span style="font-size: 1.3em; color: #FFD700;">★★★★☆</span>**
 - 29 minutes walking, 15 minutes by public transport (2 metro stations Line 6 (gray): Conde de Casal -> O'Donnel)
 <!-- - Group rate: $249/night-->
 <!--- **Group rate room** [RESERVATION](https://www.marriott.com/event-reservations/reservation-link.mi?id=1675183539748&key=GRP&app=resvlink){: .btn .btn--info .btn--small}{: target="_blank"}-->
@@ -151,12 +204,7 @@ Please see the below options and walking distances.
 - Contact info: +34 915519400, Email: [reservas@hotelclaridge.com](mailto:reservas@hotelclaridge.com)
 - Address: [Pl. del Conde de Casal, 6, Retiro, 28007 Madrid, Spain](https://goo.gl/maps/q4Dx5YC7WXmKjKR69){:target="_blank"}
 
-**7. [H10 Puerta de Alcalá, Madrid](https://www.h10hotels.com/en/madrid-hotels/h10-puerta-de-alcala){: target="_blank"}<span style="font-size: 1.3em; color: #FFD700;">★★★★☆</span>**
-- 13 minutes walking, 8 minutes by public transport (Bus 28)
-<!--- Approximate price range: $240-$676/night-->
-<!--- Cancellation policy: 48 hours prior to arrival-->
-- Contact info: +34 914 351 060, Email: [h10.puerta.dealcala@h10hotels.com](h10.puerta.dealcala@h10hotels.com)
-- Addres: [C/ Alcalá, 66, 28009 - Barrio de Salamanca, Madrid](https://maps.app.goo.gl/uivvs3BXew9AisVz7){:target="_blank"}
+
 
 
 **8. [Hotel Vincci Soma](https://www.vinccisoma.com/es/?partner=8221){: target="_blank"}<span style="font-size: 1.3em; color: #FFD700;">★★★★☆</span>**
