@@ -344,7 +344,7 @@ Please see the below options and walking distances.
 
 <div style="display: flex; justify-content: flex-start; align-items: flex-start; gap: 30px; flex-wrap: wrap; margin-bottom: 2em;">
   <div style="flex: 0 0 auto;">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3035.7889197496737!2d-3.6992553383327316!3d40.45238625517593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0xd4228f4eb17a69f%3A0x8314cefdad2a83bb!2sHotel%20Luze%20Castellana!3m2!1d40.4551312!2d-3.6965655!4m5!1s0xd4228af0b1b000f%3A0xe81d868558cc9a3e!2sNovotel%20Madrid%20Center!3m2!1d40.4216398!2d-3.6722838!5e0!3m2!1sen!2ses!4v1710000000002" width="380" height="220" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <iframe src="https://www.google.com/maps/dir/?api=1&origin=Hotel+Luze+Castellana,Madrid&destination=Novotel+Madrid+Center,Madrid&travelmode=walking" width="380" height="220" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div>
 
   <div style="flex: 0 0 auto; align-self: center;">
