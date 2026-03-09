@@ -235,33 +235,225 @@ Please see the below options and walking distances.
 <hr style="border: none; border-top: 2px solid #d0d0d0; margin: 2rem 0;">
 
 **4. [Hotel NeoMagna Madrid](https://www.neomagna.com/en/){:target="_blank"}<span style="font-size: 1.3em; color: #FFD700;">★★★☆☆</span>**
-- 13 minutes walking, 8-10 minutes by public transport (1 metro station Line 6 (gray):Manuel Becerra -> O'Donnel).
-<!--- Approximate price range: $216-$265/night-->
-<!--- Cancellation policy: Flexible cancellation based on the room price selected. Please contact the hotel.-->
-- Contact info: +34 914016510, Email: [info@neomagna.com](info@neomagna.com)
+- 13 minutes walking, 8-10 minutes by public transport (1 metro station Line 6 (gray): Manuel Becerra -> O'Donnell).
+- Contact info: +34 914016510, Email: [reservas@neomagna.com](mailto:reservas@neomagna.com)
 - Address: [Don Ramón de la Cruz 94, 28006, Madrid, Spain](https://maps.app.goo.gl/bdvHQ4DRyzKKqg4y9){: target="_blank"}
+- **Booking**: To make a reservation, please email **reservas@neomagna.com** or call **+34 914 016 510** mentioning **CINC 2026**.
+
+<div style="display: flex; justify-content: flex-start; align-items: flex-start; gap: 30px; flex-wrap: wrap; margin-bottom: 2em;">
+  <div style="flex: 0 0 auto;">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1518.361517594738!2d-3.6749924845117188!3d40.4283712!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0xd4228bb9948483b%3A0xe5426916548773e3!2sHotel%20NeoMagna%2C%20Don%20Ram%C3%B3n%20de%20la%20Cruz%2094%2C%2028006%20Madrid!3m2!1d40.4296711!2d-3.6746813!4m5!1s0xd4228af0b1b000f%3A0xe81d868558cc9a3e!2sNovotel%20Madrid%20Center%2C%20Calle%20de%20O&#39;Donnell%2C%2053!3m2!1d40.4216398!2d-3.6722838!5e0!3m2!1sen!2ses!4v1710000000000" width="380" height="220" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </div>
+
+  <div style="flex: 0 0 auto; align-self: center;">
+    <table style="border-collapse:collapse; margin:0; font-size:0.82em;">
+      <thead>
+        <tr>
+          <th style="background-color:#b10019; color:#ffffff; padding:6px 14px; text-align:left; font-weight:600; border:1px solid #8a0014;">Single Room</th>
+          <th style="background-color:#b10019; color:#ffffff; padding:6px 14px; text-align:left; font-weight:600; border:1px solid #8a0014;">Double Room</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="background-color:#9b1a2a; color:#ffffff; padding:6px 14px; border:1px solid #7a1020;">200 €</td>
+          <td style="background-color:#9b1a2a; color:#ffffff; padding:6px 14px; border:1px solid #7a1020;">200 €</td>
+        </tr>
+        <tr>
+          <td style="background-color:#6b6b6b; color:#ffffff; padding:6px 14px; border:1px solid #555555;">Breakfast and Taxes Included</td>
+          <td style="background-color:#6b6b6b; color:#ffffff; padding:6px 14px; border:1px solid #555555;">Breakfast and Taxes Included</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div id="neomagna-carousel" class="splide" aria-label="Hotel NeoMagna Photos" style="max-width:800px; margin:1em auto 2em;">
+  <div class="splide__track">
+    <ul class="splide__list">
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/accomodations/neo_magna/neo_magna_1.jpg" alt="Hotel NeoMagna - Photo 1" style="width:100%; height:340px; object-fit:contain;">
+      </li>
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/accomodations/neo_magna/neo_magna_2.jpg" alt="Hotel NeoMagna - Photo 2" style="width:100%; height:340px; object-fit:contain;">
+      </li>
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/accomodations/neo_magna/neo_magna_3.jpg" alt="Hotel NeoMagna - Photo 3" style="width:100%; height:340px; object-fit:contain;">
+      </li>
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/accomodations/neo_magna/neo_magna_4.jpg" alt="Hotel NeoMagna - Photo 4" style="width:100%; height:340px; object-fit:contain;">
+      </li>
+    </ul>
+  </div>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    new Splide('#neomagna-carousel', {
+      type: 'fade', rewind: true, autoplay: true, interval: 4000, speed: 2500, pauseOnHover: true, pagination: true, arrows: true,
+    }).mount();
+  });
+</script>
 
 <hr style="border: none; border-top: 2px solid #d0d0d0; margin: 2rem 0;">
 
 **5. [Hotel Vincci Soma](https://www.vinccisoma.com/es/?partner=8221){: target="_blank"}<span style="font-size: 1.3em; color: #FFD700;">★★★★☆</span>** 
-<!--- - 20 minutes walking, 10 minutes by public transport (1 metro station Line 6 (gray): Sainz de Baranda -> O'Donnel).-->
-<!--- - Contact info: +34 900983177, Email: [reservations@vocomadridretiro.com](reservations@vocomadridretiro.com)-->
-<!--- - Address: [C. del Pez Volador, 11, Retiro, 28007 Madrid](https://maps.app.goo.gl/nK7tgZcCQXjKX26K6){: target="_blank"}-->
+- 11 minutes walking, 5-7 minutes by public transport (Metro Line 6 (gray): Goya -> O'Donnell).
+- Contact info: +34 917 580 040
+- Address: [Calle de Goya, 79, Salamanca, 28001 Madrid](https://maps.app.goo.gl/95wAbU5B448uD3vU6){: target="_blank"}
+- Discount code: **CINC2026** (activated until 18/09/2026)
+- Booking link for the conference: [RESERVATION LINK (EN)](https://en.vinccihoteles.com/?cp=CINC2026){: .btn .btn--info .btn--small}{: target="_blank"} [RESERVATION LINK (ES)](https://www.vinccihoteles.com/?cp=CINC2026){: .btn .btn--info .btn--small}{: target="_blank"}
+
+<div style="text-align:center; margin:1em auto 2em;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1518.575027894738!2d-3.6769924845117188!3d40.4233712!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0xd4228bb9948483b%3A0xe5426916548773e3!2sHotel%20Vincci%20Soma%2C%20Calle%20de%20Goya%2079%2C%2028001%20Madrid!3m2!1d40.4246711!2d-3.6766813!4m5!1s0xd4228af0b1b000f%3A0xe81d868558cc9a3e!2sNovotel%20Madrid%20Center%2C%20Calle%20de%20O&#39;Donnell%2C%2053!3m2!1d40.4216398!2d-3.6722838!5e0!3m2!1sen!2ses!4v1710000000001" width="680" height="300" style="border:0; display:inline-block;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div id="vinccisoma-carousel" class="splide" aria-label="Hotel Vincci Soma Photos" style="max-width:800px; margin:1em auto 2em;">
+  <div class="splide__track">
+    <ul class="splide__list">
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/accomodations/vincci_soma/vincci_soma_1.jpg" alt="Hotel Vincci Soma - Photo 1" style="width:100%; height:340px; object-fit:contain;">
+      </li>
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/accomodations/vincci_soma/vincci_soma_2.jpg" alt="Hotel Vincci Soma - Photo 2" style="width:100%; height:340px; object-fit:contain;">
+      </li>
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/accomodations/vincci_soma/vincci_soma_3.jpg" alt="Hotel Vincci Soma - Photo 3" style="width:100%; height:340px; object-fit:contain;">
+      </li>
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/accomodations/vincci_soma/vincci_soma_4.jpg" alt="Hotel Vincci Soma - Photo 4" style="width:100%; height:340px; object-fit:contain;">
+      </li>
+    </ul>
+  </div>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    new Splide('#vinccisoma-carousel', {
+      type: 'fade', rewind: true, autoplay: true, interval: 4000, speed: 2500, pauseOnHover: true, pagination: true, arrows: true,
+    }).mount();
+  });
+</script>
 
 <hr style="border: none; border-top: 2px solid #d0d0d0; margin: 2rem 0;">
 
 **6. [Hotel Luze Castellana](https://www.luzehoteles.com/luze-castellana/){: target="_blank"}<span style="font-size: 1.3em; color: #FFD700;">★★★☆☆</span>** 
+- 25 minutes by public transport (Metro Line 13 (gray): Cuzco/Manuel Becerra route or Metro L10/L6 combo).
+- Address: [C. de Julián Besteiro, 37, Tetuán, 28020 Madrid](https://maps.app.goo.gl/uXv4B79Cezm9H1VWA){: target="_blank"}
+- Discount code: **CINC2026**
+- Booking link for the conference: [RESERVATION LINK](https://www.luzehoteles.com/luze-castellana/){: .btn .btn--info .btn--small}{: target="_blank"}
 
-<!--- - 20 minutes walking, 10 minutes by public transport (1 metro station Line 6 (gray): Sainz de Baranda -> O'Donnel).-->
-<!--- - Contact info: +34 900983177, Email: [reservations@vocomadridretiro.com](reservations@vocomadridretiro.com)-->
-<!--- - Address: [C. del Pez Volador, 11, Retiro, 28007 Madrid](https://maps.app.goo.gl/nK7tgZcCQXjKX26K6){: target="_blank"} -->
+<div style="display: flex; justify-content: flex-start; align-items: flex-start; gap: 30px; flex-wrap: wrap; margin-bottom: 2em;">
+  <div style="flex: 0 0 auto;">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3035.7889197496737!2d-3.6992553383327316!3d40.45238625517593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0xd4228f4eb17a69f%3A0x8314cefdad2a83bb!2sHotel%20Luze%20Castellana!3m2!1d40.4551312!2d-3.6965655!4m5!1s0xd4228af0b1b000f%3A0xe81d868558cc9a3e!2sNovotel%20Madrid%20Center!3m2!1d40.4216398!2d-3.6722838!5e0!3m2!1sen!2ses!4v1710000000002" width="380" height="220" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </div>
+
+  <div style="flex: 0 0 auto; align-self: center;">
+    <table style="border-collapse:collapse; margin:0; font-size:0.82em;">
+      <thead>
+        <tr>
+          <th style="background-color:#b10019; color:#ffffff; padding:6px 14px; text-align:left; font-weight:600; border:1px solid #8a0014;">Single Room</th>
+          <th style="background-color:#b10019; color:#ffffff; padding:6px 14px; text-align:left; font-weight:600; border:1px solid #8a0014;">Double Room</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="background-color:#9b1a2a; color:#ffffff; padding:6px 14px; border:1px solid #7a1020;">168,80 €</td>
+          <td style="background-color:#9b1a2a; color:#ffffff; padding:6px 14px; border:1px solid #7a1020;">180,20 €</td>
+        </tr>
+        <tr>
+          <td style="background-color:#6b6b6b; color:#ffffff; padding:6px 14px; border:1px solid #555555;">Breakfast and Taxes Included</td>
+          <td style="background-color:#6b6b6b; color:#ffffff; padding:6px 14px; border:1px solid #555555;">Breakfast and Taxes Included</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div id="luzecastellana-carousel" class="splide" aria-label="Hotel Luze Castellana Photos" style="max-width:800px; margin:1em auto 2em;">
+  <div class="splide__track">
+    <ul class="splide__list">
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/accomodations/luze_castellana/luze_castellana_1.jpg" alt="Hotel Luze Castellana - Photo 1" style="width:100%; height:340px; object-fit:contain;">
+      </li>
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/accomodations/luze_castellana/luze_castellana_2.jpg" alt="Hotel Luze Castellana - Photo 2" style="width:100%; height:340px; object-fit:contain;">
+      </li>
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/accomodations/luze_castellana/luze_castellana_3.jpg" alt="Hotel Luze Castellana - Photo 3" style="width:100%; height:340px; object-fit:contain;">
+      </li>
+    </ul>
+  </div>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    new Splide('#luzecastellana-carousel', {
+      type: 'fade', rewind: true, autoplay: true, interval: 4000, speed: 2500, pauseOnHover: true, pagination: true, arrows: true,
+    }).mount();
+  });
+</script>
 
 <hr style="border: none; border-top: 2px solid #d0d0d0; margin: 2rem 0;">
 
 **7. [Hotel Infanta Mercedes](https://www.hotelinfantamercedes.es/en/){: target="_blank"}<span style="font-size: 1.3em; color: #FFD700;">★★☆☆☆</span>** 
-<!--- - 20 minutes walking, 10 minutes by public transport (1 metro station Line 6 (gray): Sainz de Baranda -> O'Donnel).-->
-<!--- - Contact info: +34 900983177, Email: [reservations@vocomadridretiro.com](reservations@vocomadridretiro.com)-->
-<!--- - Address: [C. del Pez Volador, 11, Retiro, 28007 Madrid](https://maps.app.goo.gl/nK7tgZcCQXjKX26K6){: target="_blank"}-->
+- 30 minutes by public transport (Metro Line 1 (blue) and Line 6 (gray) combo).
+- Contact info: +34 915 70 33 33, Email: [info@hotelinfantamercedes.es](mailto:info@hotelinfantamercedes.es)
+- Address: [Calle de Huesca, 21, Tetuán, 28020 Madrid](https://maps.app.goo.gl/P2A73PXUfJ8A9YPX6){: target="_blank"}
+- **Booking**: To make a reservation, please email **info@hotelinfantamercedes.es** or call **+34 915 70 33 33** mentioning **CINC 2026 Conference**.
+
+<div style="display: flex; justify-content: flex-start; align-items: flex-start; gap: 30px; flex-wrap: wrap; margin-bottom: 2em;">
+  <div style="flex: 0 0 auto;">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3035.5889197496737!2d-3.7022553383327316!3d40.45538625517593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0xd4228f4eb17a69f%3A0x8314cefdad2a83bb!2sHotel%20Infanta%20Mercedes!3m2!1d40.4581312!2d-3.6995655!4m5!1s0xd4228af0b1b000f%3A0xe81d868558cc9a3e!2sNovotel%20Madrid%20Center!3m2!1d40.4216398!2d-3.6722838!5e0!3m2!1sen!2ses!4v1710000000003" width="380" height="220" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </div>
+
+  <div style="flex: 0 0 auto; align-self: center;">
+    <table style="border-collapse:collapse; margin:0; font-size:0.82em;">
+      <thead>
+        <tr>
+          <th style="background-color:#b10019; color:#ffffff; padding:6px 14px; text-align:left; font-weight:600; border:1px solid #8a0014;">Single Room</th>
+          <th style="background-color:#b10019; color:#ffffff; padding:6px 14px; text-align:left; font-weight:600; border:1px solid #8a0014;">Double Room</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="background-color:#9b1a2a; color:#ffffff; padding:6px 14px; border:1px solid #7a1020;">90 €</td>
+          <td style="background-color:#9b1a2a; color:#ffffff; padding:6px 14px; border:1px solid #7a1020;">110 €</td>
+        </tr>
+        <tr>
+          <td style="background-color:#6b6b6b; color:#ffffff; padding:6px 14px; border:1px solid #555555;">Breakfast and Taxes Included</td>
+          <td style="background-color:#6b6b6b; color:#ffffff; padding:6px 14px; border:1px solid #555555;">Breakfast and Taxes Included</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div id="infantamercedes-carousel" class="splide" aria-label="Hotel Infanta Mercedes Photos" style="max-width:800px; margin:1em auto 2em;">
+  <div class="splide__track">
+    <ul class="splide__list">
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/accomodations/infanta_mercedes/inf_mercedes_1.jpg" alt="Hotel Infanta Mercedes - Photo 1" style="width:100%; height:340px; object-fit:contain;">
+      </li>
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/accomodations/infanta_mercedes/inf_mercedes_2.jpg" alt="Hotel Infanta Mercedes - Photo 2" style="width:100%; height:340px; object-fit:contain;">
+      </li>
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/accomodations/infanta_mercedes/inf_mercedes_3.jpg" alt="Hotel Infanta Mercedes - Photo 3" style="width:100%; height:340px; object-fit:contain;">
+      </li>
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/accomodations/infanta_mercedes/inf_mercedes_4.jpg" alt="Hotel Infanta Mercedes - Photo 4" style="width:100%; height:340px; object-fit:contain;">
+      </li>
+    </ul>
+  </div>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    new Splide('#infantamercedes-carousel', {
+      type: 'fade', rewind: true, autoplay: true, interval: 4000, speed: 2500, pauseOnHover: true, pagination: true, arrows: true,
+    }).mount();
+  });
+</script>
 
 <hr style="border: none; border-top: 2px solid #d0d0d0; margin: 2rem 0;">
 
