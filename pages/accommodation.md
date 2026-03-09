@@ -162,7 +162,7 @@ Please see the below options and walking distances.
 
 <hr style="border: none; border-top: 2px solid #d0d0d0; margin: 2rem 0;">
 
-**3. [Hotel VP Madroño](https://www.novotelmadridcenter.com/?lang=en){: target="_blank"}<span style="font-size: 1.3em; color: #FFD700;">★★★☆☆</span>**
+**3. [Hotel VP Madroño](https://www.madrono-hotel.com/){: target="_blank"}<span style="font-size: 1.3em; color: #FFD700;">★★★☆☆</span>**
 - Contact info: +34 915625292, Email: [md@vphoteles.com](md@vphoteles.com)
 - Address: [Calle del General Díaz Porlier, 101, Barrio Salamanca, 28006 Madrid.](https://maps.app.goo.gl/YFaq2p7z6rbp1RP88){: target="_blank"}
 - Discount code: **CINC2026**
@@ -211,9 +211,6 @@ Please see the below options and walking distances.
       </li>
       <li class="splide__slide">
         <img src="/assets/img/cinc_2026/accomodations/vp_madronho/vp_mad_4.jpg" alt="Novotel Madrid Center - Photo 4" style="width:100%; height:340px; object-fit:contain;">
-      </li>
-      <li class="splide__slide">
-        <img src="/assets/img/cinc_2026/accomodations/vp_madronho/vp_mad_5.jpg" alt="Novotel Madrid Center - Photo 5" style="width:100%; height:340px; object-fit:contain;">
       </li>
     </ul>
   </div>
