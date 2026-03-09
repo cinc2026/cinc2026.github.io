@@ -42,7 +42,7 @@ Please see the below options and walking distances.
 
 <div style="display: flex; justify-content: flex-start; align-items: flex-start; gap: 30px; flex-wrap: wrap; margin-bottom: 2em;">
   <div style="flex: 0 0 auto;">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14060.963369938123!2d-3.6920522612494957!3d40.417719469967864!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4228af0b1b000f%3A0xe81d868558cc9a3e!2sNovotel%20Madrid%20Center!5e0!3m2!1ses!2ses!4v1760524215579!5m2!1ses!2ses" width="380" height="220" style="border:0; display:block;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14060.963369938123!2d-3.6920522612494957!3d40.417719469967864!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4228af0b1b000f%3A0xe81d868558cc9a3e!2sNovotel%20Madrid%20Center!5e0!3m2!1ses!2ses!4v1760524215579!5m2!1ses!2ses" width="440" height="280" style="border:0; display:block;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div>
 
   <div style="flex: 0 0 auto; align-self: center;">
@@ -170,7 +170,7 @@ Please see the below options and walking distances.
 
 <div style="display: flex; justify-content: flex-start; align-items: flex-start; gap: 30px; flex-wrap: wrap; margin-bottom: 2em;">
   <div style="flex: 0 0 auto;">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d6074.237331507978!2d-3.679489097490021!3d40.42837120273619!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0xd4228c74141c1f9%3A0x621f29e26929ab8e!2sVP%20Madro%C3%B1o%2C%20Calle%20del%20General%20D%C3%ADaz%20Porlier%2C%20101%2C%20Salamanca%2C%2028006%20Madrid!3m2!1d40.435131299999995!2d-3.6765654999999997!4m5!1s0xd4228af0b1b000f%3A0xe81d868558cc9a3e!2sNovotel%20Madrid%20Center%2C%20Calle%20de%20O&#39;Donnell%2C%2053%2C%20Salamanca%2C%2028009%20Madrid!3m2!1d40.4216398!2d-3.6722837999999998!5e0!3m2!1ses!2ses!4v1773045529695!5m2!1ses!2ses" width="380" height="220" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d6074.237331507978!2d-3.679489097490021!3d40.42837120273619!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0xd4228c74141c1f9%3A0x621f29e26929ab8e!2sVP%20Madro%C3%B1o%2C%20Calle%20del%20General%20D%C3%ADaz%20Porlier%2C%20101%2C%20Salamanca%2C%2028006%20Madrid!3m2!1d40.435131299999995!2d-3.6765654999999997!4m5!1s0xd4228af0b1b000f%3A0xe81d868558cc9a3e!2sNovotel%20Madrid%20Center%2C%20Calle%20de%20O&#39;Donnell%2C%2053%2C%20Salamanca%2C%2028009%20Madrid!3m2!1d40.4216398!2d-3.6722837999999998!5e0!3m2!1ses!2ses!4v1773045529695!5m2!1ses!2ses" width="440" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downdowngrade"></iframe>
   </div>
 
   <div style="flex: 0 0 auto; align-self: center;">
@@ -242,7 +242,7 @@ Please see the below options and walking distances.
 
 <div style="display: flex; justify-content: flex-start; align-items: flex-start; gap: 30px; flex-wrap: wrap; margin-bottom: 2em;">
   <div style="flex: 0 0 auto;">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1518.361517594738!2d-3.6749924845117188!3d40.4283712!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0xd4228bb9948483b%3A0xe5426916548773e3!2sHotel%20NeoMagna%2C%20Don%20Ram%C3%B3n%20de%20la%20Cruz%2094%2C%2028006%20Madrid!3m2!1d40.4296711!2d-3.6746813!4m5!1s0xd4228af0b1b000f%3A0xe81d868558cc9a3e!2sNovotel%20Madrid%20Center%2C%20Calle%20de%20O&#39;Donnell%2C%2053!3m2!1d40.4216398!2d-3.6722838!5e0!3m2!1sen!2ses!4v1710000000000" width="380" height="220" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1518.361517594738!2d-3.6749924845117188!3d40.4283712!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0xd4228bb9948483b%3A0xe5426916548773e3!2sHotel%20NeoMagna%2C%20Don%20Ram%C3%B3n%20de%20la%20Cruz%2094%2C%2028006%20Madrid!3m2!1d40.4296711!2d-3.6746813!4m5!1s0xd4228af0b1b000f%3A0xe81d868558cc9a3e!2sNovotel%20Madrid%20Center%2C%20Calle%20de%20O&#39;Donnell%2C%2053!3m2!1d40.4216398!2d-3.6722838!5e0!3m2!1sen!2ses!4v1710000000000" width="440" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div>
 
   <div style="flex: 0 0 auto; align-self: center;">
@@ -344,7 +344,7 @@ Please see the below options and walking distances.
 
 <div style="display: flex; justify-content: flex-start; align-items: flex-start; gap: 30px; flex-wrap: wrap; margin-bottom: 2em;">
   <div style="flex: 0 0 auto;">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3035.7889197496737!2d-3.6992553383327316!3d40.45238625517593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0xd4228f4eb17a69f%3A0x8314cefdad2a83bb!2sHotel%20Luze%20Castellana!3m2!1d40.4551312!2d-3.6965655!4m5!1s0xd4228af0b1b000f%3A0xe81d868558cc9a3e!2sNovotel%20Madrid%20Center!3m2!1d40.4216398!2d-3.6722838!5e0!3m2!1sen!2ses!4v1710000000002" width="380" height="220" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+   <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d24292.3940907621!2d-3.70683028909449!3d40.440978626335415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0xd4229037edfc255%3A0xcdda9db71c34f3f4!2sHotel%20Luze%20Castellana%2C%20C.%20de%20Juli%C3%A1n%20Besteiro%2C%2037%2C%20Tetu%C3%A1n%2C%2028020%20Madrid!3m2!1d40.4586608!2d-3.6952852!4m5!1s0xd4228af0b1b000f%3A0xe81d868558cc9a3e!2sNovotel%20Madrid%20Center%2C%20Calle%20de%20O&#39;Donnell%2C%2053%2C%20Salamanca%2C%2028009%20Madrid!3m2!1d40.4216398!2d-3.6722837999999998!5e0!3m2!1ses!2ses!4v1773076024294!5m2!1ses!2ses" width="440" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div>
 
   <div style="flex: 0 0 auto; align-self: center;">
@@ -403,7 +403,7 @@ Please see the below options and walking distances.
 
 <div style="display: flex; justify-content: flex-start; align-items: flex-start; gap: 30px; flex-wrap: wrap; margin-bottom: 2em;">
   <div style="flex: 0 0 auto;">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1518.583!2d-3.693!3d40.463!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4228e1d532a76b%3A0x52485303a7465666!2sHotel%20Infanta%20Mercedes!5e0!3m2!1sen!2ses!4v1710000000005" width="380" height="220" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+   <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d30063.69490786175!2d-3.717594437809491!3d40.4401604707212!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0xd42290145acfcb9%3A0xa108506d7133fdc6!2sHotel%20Infanta%20Mercedes%2C%20C.%20de%20Huesca%2C%2021%2C%20Tetu%C3%A1n%2C%2028020%20Madrid!3m2!1d40.4580208!2d-3.6986038!4m5!1s0xd4228af0b1b000f%3A0xe81d868558cc9a3e!2sNovotel%20Madrid%20Center%2C%20Calle%20de%20O&#39;Donnell%2C%2053%2C%20Salamanca%2C%2028009%20Madrid!3m2!1d40.4216398!2d-3.6722837999999998!5e0!3m2!1ses!2ses!4v1773076131227!5m2!1ses!2ses" width="440" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div>
 
   <div style="flex: 0 0 auto; align-self: center;">
@@ -457,66 +457,48 @@ Please see the below options and walking distances.
 
 <hr style="border: none; border-top: 2px solid #d0d0d0; margin: 2rem 0;">
 
+<!--
 **8. [Crowne Plaza Madrid - Centre Retiro by IHG](https://www.ihg.com/crowneplaza/hotels/us/en/madrid/madcr/hoteldetail){: target="_blank"}<span style="font-size: 1.3em; color: #FFD700;">★★★★☆</span>**
 - 20 minutes walking, 10 minutes by public transport (1 metro station Line 6 (gray): Sainz de Baranda -> O'Donnel).
-<!-- - Group rate: $164/night-->
-<!--- **Group rate room** [RESERVATION](https://www.ihg.com/hotelindigo/hotels/us/en/atlanta/atlfx/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99801505&icdv=99801505&qSlH=ATLFX&qGrpCd=CC3&setPMCookies=true&qSHBrC=IN&qDest=683+Peachtree+Street%2C+NE%2C+Atlanta%2C+GA%2C+US&srb_u=1){: .btn .btn--info .btn--small}{: target="_blank"} -->
-<!--- Approximate price range: $192-$220/night -->
-<!--- Cancellation policy: 72 hours prior to arrival -->
-- Contact info: +34 900973122, Email: [reservations@cpmadridcentreretiro.com](reservations@cpmadridcentreretiro.com)
-- Address: [Calle Pez Volador 1 Madrid, 28007 Spain](https://maps.app.goo.gl/wqADPAa4Dhv8J54BA){: target="_blank"}
-<!--- **Note: 50 rooms/night blocked for CinC 2023 conference. Once the blocked rooms are fully reserved, market room rate will be applied.**-->
+- Group rate: $164/night
+- Contact info: +34 900973122, Email: reservations@cpmadridcentreretiro.com
+- Address: Calle Pez Volador 1 Madrid, 28007 Spain
 
 <hr style="border: none; border-top: 2px solid #d0d0d0; margin: 2rem 0;">
 
 **9. [Numa Goya Stays](https://numastays.com/locations/spain/madrid/goya/goya){:target="_blank"}**
 - 11 minutes walking, 10 minutes by public transport (1 metro station Line 6 (gray): Manuel de Becerra -> O'Donnel).
-<!-- - Group rate: $249/night-->
-<!--- **Group rate room** [RESERVATION](https://www.marriott.com/event-reservations/reservation-link.mi?id=1675183539748&key=GRP&app=resvlink){: .btn .btn--info .btn--small}{: target="_blank"}-->
-<!--- Cut off date: **August 31, 2023**-->
-<!--- Approximate price range: $283-$569/night-->
-<!--- Cancellation policy: 7 days prior to arrival -->
 - Contact info: +34 932713107 or +49 3031196117
-- Address: [C. de Montesa, 20, Barrio de Salamanca, 28006 Madrid, Spain](https://maps.app.goo.gl/dL19kc1ZHhTDqn116){:target="_blank"}
+- Address: C. de Montesa, 20, Barrio de Salamanca, 28006 Madrid, Spain
 
 <hr style="border: none; border-top: 2px solid #d0d0d0; margin: 2rem 0;">
 
 **10. [Hotel Claridge Madrid](https://www.hotelclaridge.com/){:target="_blank"}<span style="font-size: 1.3em; color: #FFD700;">★★★★☆</span>**
 - 29 minutes walking, 15 minutes by public transport (2 metro stations Line 6 (gray): Conde de Casal -> O'Donnel)
-<!-- - Group rate: $249/night-->
-<!--- **Group rate room** [RESERVATION](https://www.marriott.com/event-reservations/reservation-link.mi?id=1675183539748&key=GRP&app=resvlink){: .btn .btn--info .btn--small}{: target="_blank"}-->
-<!--- Cut off date: **August 31, 2023**-->
-<!--- Approximate price range: $291-$500/night-->
-<!--- Cancellation policy: 7 days prior to arrival --> 
-- Contact info: +34 915519400, Email: [reservas@hotelclaridge.com](mailto:reservas@hotelclaridge.com)
-- Address: [Pl. del Conde de Casal, 6, Retiro, 28007 Madrid, Spain](https://goo.gl/maps/q4Dx5YC7WXmKjKR69){:target="_blank"}
+- Contact info: +34 915519400, Email: reservas@hotelclaridge.com
+- Address: Pl. del Conde de Casal, 6, Retiro, 28007 Madrid, Spain
 
 <hr style="border: none; border-top: 2px solid #d0d0d0; margin: 2rem 0;">
 
 **11. [Catalonia Goya - Madrid](https://www.cataloniahotels.com/en/hotel/catalonia-goya?mb=1%3Futm_source%3Dgooglemaps){: target="_blank"}<span style="font-size: 1.3em; color: #FFD700;">★★★★☆</span>**
 - 16 minutes walking, 14 minutes by public transport (Bus or Metro)
-<!--- Approximate price range: $163-$304/night-->
-<!--- Cancellation policy: 48 hours prior to arrival-->
-- Contact info: +34 917814949, Email:[goya@cataloniahotels.com](goya@cataloniahotels.com).
-- Address:  [Calle de Goya, 49, 28001, Madrid, Spain](https://goo.gl/maps/RTwL26e3iCyC7Qyo7){: target="_blank"}
+- Contact info: +34 917814949, Email: goya@cataloniahotels.com
+- Address: Calle de Goya, 49, 28001, Madrid, Spain
 
 <hr style="border: none; border-top: 2px solid #d0d0d0; margin: 2rem 0;">
 
 **12. [Icon Wipton Hotel](https://www.iconwipton.com/en/?origin_source=google&origin_medium=organic&origin_campaign=MyBusiness){:target="_blank"}<span style="font-size: 1.3em; color: #FFD700;">★★★★☆</span>**
 - 18 minutes walking, 15-20 minutes by public transport (Bus or Metro).
-<!--- Approximate price range: $216-$265/night-->
-<!--- Cancellation policy: Flexible cancellation based on the room price selected. Please contact the hotel.-->
-- Contact info: +34 914355411 or +44 2034995871, Email: [wipton@petitpalace.com](wipton@petitpalace.com)
-- Address: [Calle de Jorge Juan, 17, 28001 Madrid, Spain](https://maps.app.goo.gl/AcvTXPC5gHCq2pyT9){: target="_blank"}
+- Contact info: +34 914355411 or +44 2034995871, Email: wipton@petitpalace.com
+- Address: Calle de Jorge Juan, 17, 28001 Madrid, Spain
 
 <hr style="border: none; border-top: 2px solid #d0d0d0; margin: 2rem 0;">
 
-**13. [Hotel Petit Palace Savoy Alfonso XII]([petitpalacesavoyalfonsoxii.com/en/?utm_source=google&utm_medium=organic&utm_campaign=MyBusiness&utm_content=ALF&origin_source=google&origin_medium=organic&origin_campaign=MyBusiness](https://www.petitpalacesavoyalfonsoxii.com/en/?origin_source=google&origin_medium=organic&origin_campaign=MyBusiness)){:target="_blank"}<span style="font-size: 1.3em; color: #FFD700;">★★★★☆</span>**
+**13. [Hotel Petit Palace Savoy Alfonso XII](https://www.petitpalacesavoyalfonsoxii.com/en/?origin_source=google&origin_medium=organic&origin_campaign=MyBusiness){:target="_blank"}<span style="font-size: 1.3em; color: #FFD700;">★★★★☆</span>**
 - 25 minutes walking, 15-20 minutes by public transport (Bus -28- or Metro).
-<!--- Approximate price range: $216-$265/night-->
-<!--- Cancellation policy: Flexible cancellation based on the room price selected. Please contact the hotel.-->
-- Contact info: +34 918004994 or (Wathsapp) +34 606979629, Email: [alfonsoxii@petitpalace.com](alfonsoxii@petitpalace.com)
-- Address: [Calle de Alfonso XII, 18, 28014 Madrid, Spain](https://maps.app.goo.gl/DTWMTRe3nh5J7bg99){: target="_blank"}
+- Contact info: +34 918004994 or (Wathsapp) +34 606979629, Email: alfonsoxii@petitpalace.com
+- Address: Calle de Alfonso XII, 18, 28014 Madrid, Spain
+-->
 
 <!--### Conference venue and nearby hotels-->
 <!--<iframe src="https://www.google.com/maps/d/u/0/embed?mid=11WBQ7ozqdQVXEyWtqc3jimenW54kY2M&ehbc=2E312F" width="640" height="480"></iframe>-->
