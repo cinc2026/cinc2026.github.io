@@ -244,23 +244,24 @@ Please see the below options and walking distances.
 <hr style="border: none; border-top: 2px solid #d0d0d0; margin: 2rem 0;">
 
 **5. [Hotel Vincci Soma](https://www.vinccisoma.com/es/?partner=8221){: target="_blank"}<span style="font-size: 1.3em; color: #FFD700;">★★★★☆</span>** 
-- 20 minutes walking, 10 minutes by public transport (1 metro station Line 6 (gray): Sainz de Baranda -> O'Donnel).
-- Contact info: +34 900983177, Email: [reservations@vocomadridretiro.com](reservations@vocomadridretiro.com)
-- Address: [C. del Pez Volador, 11, Retiro, 28007 Madrid](https://maps.app.goo.gl/nK7tgZcCQXjKX26K6){: target="_blank"}
+<!--- - 20 minutes walking, 10 minutes by public transport (1 metro station Line 6 (gray): Sainz de Baranda -> O'Donnel).-->
+<!--- - Contact info: +34 900983177, Email: [reservations@vocomadridretiro.com](reservations@vocomadridretiro.com)-->
+<!--- - Address: [C. del Pez Volador, 11, Retiro, 28007 Madrid](https://maps.app.goo.gl/nK7tgZcCQXjKX26K6){: target="_blank"}-->
 
 <hr style="border: none; border-top: 2px solid #d0d0d0; margin: 2rem 0;">
 
 **6. [Hotel Luze Castellana](https://www.luzehoteles.com/luze-castellana/){: target="_blank"}<span style="font-size: 1.3em; color: #FFD700;">★★★☆☆</span>** 
-- 20 minutes walking, 10 minutes by public transport (1 metro station Line 6 (gray): Sainz de Baranda -> O'Donnel).
-- Contact info: +34 900983177, Email: [reservations@vocomadridretiro.com](reservations@vocomadridretiro.com)
-- Address: [C. del Pez Volador, 11, Retiro, 28007 Madrid](https://maps.app.goo.gl/nK7tgZcCQXjKX26K6){: target="_blank"}
+
+<!--- - 20 minutes walking, 10 minutes by public transport (1 metro station Line 6 (gray): Sainz de Baranda -> O'Donnel).-->
+<!--- - Contact info: +34 900983177, Email: [reservations@vocomadridretiro.com](reservations@vocomadridretiro.com)-->
+<!--- - Address: [C. del Pez Volador, 11, Retiro, 28007 Madrid](https://maps.app.goo.gl/nK7tgZcCQXjKX26K6){: target="_blank"} -->
 
 <hr style="border: none; border-top: 2px solid #d0d0d0; margin: 2rem 0;">
 
 **7. [Hotel Infanta Mercedes](https://www.hotelinfantamercedes.es/en/){: target="_blank"}<span style="font-size: 1.3em; color: #FFD700;">★★☆☆☆</span>** 
-- 20 minutes walking, 10 minutes by public transport (1 metro station Line 6 (gray): Sainz de Baranda -> O'Donnel).
-- Contact info: +34 900983177, Email: [reservations@vocomadridretiro.com](reservations@vocomadridretiro.com)
-- Address: [C. del Pez Volador, 11, Retiro, 28007 Madrid](https://maps.app.goo.gl/nK7tgZcCQXjKX26K6){: target="_blank"}
+<!--- - 20 minutes walking, 10 minutes by public transport (1 metro station Line 6 (gray): Sainz de Baranda -> O'Donnel).-->
+<!--- - Contact info: +34 900983177, Email: [reservations@vocomadridretiro.com](reservations@vocomadridretiro.com)-->
+<!--- - Address: [C. del Pez Volador, 11, Retiro, 28007 Madrid](https://maps.app.goo.gl/nK7tgZcCQXjKX26K6){: target="_blank"}-->
 
 <hr style="border: none; border-top: 2px solid #d0d0d0; margin: 2rem 0;">
 
