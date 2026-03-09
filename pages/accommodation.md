@@ -301,7 +301,7 @@ Please see the below options and walking distances.
 - Contact info: +34 917 580 040
 - Address: [Calle de Goya, 79, Salamanca, 28001 Madrid](https://maps.app.goo.gl/95wAbU5B448uD3vU6){: target="_blank"}
 - Discount code: **CINC2026** (activated until 18/09/2026)
-- Booking link for the conference: [RESERVATION LINK (EN)](https://en.vinccihoteles.com/?cp=CINC2026){: .btn .btn--info .btn--small}{: target="_blank"} [RESERVATION LINK (ES)](https://www.vinccihoteles.com/?cp=CINC2026){: .btn .btn--info .btn--small}{: target="_blank"}
+- Booking link for the conference: [RESERVATION LINK (EN) for CinC](https://en.vinccihoteles.com/?cp=CINC2026){: .btn .btn--info .btn--small}{: target="_blank"} [RESERVATION LINK (ES) for CinC](https://www.vinccihoteles.com/?cp=CINC2026){: .btn .btn--info .btn--small}{: target="_blank"}
 
 <div style="text-align:center; margin:1em auto 2em;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1518.575027894738!2d-3.6769924845117188!3d40.4233712!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0xd4228bb9948483b%3A0xe5426916548773e3!2sHotel%20Vincci%20Soma%2C%20Calle%20de%20Goya%2079%2C%2028001%20Madrid!3m2!1d40.4246711!2d-3.6766813!4m5!1s0xd4228af0b1b000f%3A0xe81d868558cc9a3e!2sNovotel%20Madrid%20Center%2C%20Calle%20de%20O&#39;Donnell%2C%2053!3m2!1d40.4216398!2d-3.6722838!5e0!3m2!1sen!2ses!4v1710000000001" width="680" height="300" style="border:0; display:inline-block;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -340,7 +340,7 @@ Please see the below options and walking distances.
 - 25 minutes by public transport (Metro Line 13 (gray): Cuzco/Manuel Becerra route or Metro L10/L6 combo).
 - Address: [C. de Julián Besteiro, 37, Tetuán, 28020 Madrid](https://maps.app.goo.gl/uXv4B79Cezm9H1VWA){: target="_blank"}
 - Discount code: **CINC2026**
-- Booking link for the conference: [RESERVATION LINK](https://www.luzehoteles.com/luze-castellana/){: .btn .btn--info .btn--small}{: target="_blank"}
+- Booking link for the conference: [RESERVATION LINK for CinC](https://www.luzehoteles.com/luze-castellana/){: .btn .btn--info .btn--small}{: target="_blank"}
 
 <div style="display: flex; justify-content: flex-start; align-items: flex-start; gap: 30px; flex-wrap: wrap; margin-bottom: 2em;">
   <div style="flex: 0 0 auto;">
@@ -403,7 +403,7 @@ Please see the below options and walking distances.
 
 <div style="display: flex; justify-content: flex-start; align-items: flex-start; gap: 30px; flex-wrap: wrap; margin-bottom: 2em;">
   <div style="flex: 0 0 auto;">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3035.5889197496737!2d-3.7022553383327316!3d40.45538625517593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0xd4228f4eb17a69f%3A0x8314cefdad2a83bb!2sHotel%20Infanta%20Mercedes!3m2!1d40.4581312!2d-3.6995655!4m5!1s0xd4228af0b1b000f%3A0xe81d868558cc9a3e!2sNovotel%20Madrid%20Center!3m2!1d40.4216398!2d-3.6722838!5e0!3m2!1sen!2ses!4v1710000000003" width="380" height="220" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3035.5841022204484!2d-3.7021319233845015!3d40.45549297143283!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4228f4eb17a69f%3A0x8314cefdad2a83bb!2sHotel%20Infanta%20Mercedes!5e0!3m2!1sen!2ses!4v1710000000004" width="380" height="220" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div>
 
   <div style="flex: 0 0 auto; align-self: center;">
