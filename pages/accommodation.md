@@ -403,7 +403,7 @@ Please see the below options and walking distances.
 
 <div style="display: flex; justify-content: flex-start; align-items: flex-start; gap: 30px; flex-wrap: wrap; margin-bottom: 2em;">
   <div style="flex: 0 0 auto;">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3035.5841022204484!2d-3.7021319233845015!3d40.45549297143283!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4228f4eb17a69f%3A0x8314cefdad2a83bb!2sHotel%20Infanta%20Mercedes!5e0!3m2!1sen!2ses!4v1710000000004" width="380" height="220" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1518.583!2d-3.693!3d40.463!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4228e1d532a76b%3A0x52485303a7465666!2sHotel%20Infanta%20Mercedes!5e0!3m2!1sen!2ses!4v1710000000005" width="380" height="220" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div>
 
   <div style="flex: 0 0 auto; align-self: center;">
