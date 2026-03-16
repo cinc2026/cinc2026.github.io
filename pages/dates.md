@@ -9,14 +9,16 @@ permalink: /dates/
 **For important dates for authors and registration, please visit [CinC main website](https://cinc.org/inf_authors/){: target="_blank"}.** 
 {: .text-justify}
 
-<!--* March 18, 2024 Special session proposal deadline.-->
+* <span style="color: #999; text-decoration: line-through;">March 15, 2026. Special session submission proposal.</span>
 * April 15, 2026. **Abstract and early paper submission deadline.**
-<!-- * Aug 1, 2024 Early bird registration deadline (tentative)-->
-<!-- * Sep 1, 2024 Preprint submission deadline (tentative)-->
-<!-- *Sep 8, 2024 Pre-conference Workshop and Hackathon-->
-* Sep 20, 2026, Sunday Symposium.
-* Sep 21-23, 2026. 53rd Computing in Cardiology Conference.
-<!-- *Oct 3, 2024 Final paper submission deadline (tentative)-->
+* From June 15, 2026. **Acceptance notificacion**
+* To Sept 20 (two weeks before for presenters, see [details](https://cinc.org/inf_authors/){: target="_blank"})  **[Register with SoftConf](https://softconf.com/p/cinc2026/login/){: target="_blank"}**
+* Sept 1. **Submit the 4 pages preprint version of your contribution.**
+* Sep 20, 2026, **Sunday Symposium.**
+* Sep 21-23, 2026. **53rd Computing in Cardiology Conference.**
+* Oct. 10. **Submit the final version of your 4 pages paper.**
+* Proceedings released on [www.cinc.org](https://www.cinc.org/){: target="_blank"} (limited to papers effectively presented at the conference).
+
 
 
 <!-- ## CinC 2023 Program Overview-->

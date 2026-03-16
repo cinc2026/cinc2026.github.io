@@ -13,7 +13,7 @@ The annual [George B. Moody PhysioNet Challenges](https://physionetchallenges.or
 
 ## 2026 George B. Moody PhysioNet Challenge
 
-[The George B. Moody PhysioNet Challenge 2026](https://moody-challenge.physionet.org/2026/){: target="_blank"} invites to develop algorithms for using polysomnograms (PSGs) to predict cognitive impairment from sleep studies.
+[The George B. Moody PhysioNet Challenge 2026](https://moody-challenge.physionet.org/2026/){: target="_blank"} invites teams to develop algorithms for using polysomnograms (PSGs) to predict cognitive impairment from sleep studies.
 {: .text-justify}
 
 The George B. Moody PhysioNet Challenge 2026 asks participants to develop and implement open-source algorithms for using PSGs to predict future diagnoses of cognitive impairment. The winners of the Challenge will be the team with the highest score on the hidden test set.
@@ -22,6 +22,14 @@ The George B. Moody PhysioNet Challenge 2026 asks participants to develop and im
  > **2026 Challenge**
 
 "Screening for Cognitive Impairment During Sleep Studies"
+
+### Data
+The 2026 Challenge data are from the [Human Sleep Project database](https://bdsp.io/content/hsp/2.0/){: target="_blank"} and include clinical PSG data from five different U.S. institutions: Beth Israel Deaconess Medical Center (BIDMC), Emory University, Kaiser Permanente, Massachusetts General Brigham (MGB), and Stanford University. Each study includes synchronized physiological signals and human and automated annotations of sleep stages, arousals, and respiratory and limb movement events.
+
+## Announcements
+* **February 18, 2026**: We are now accepting submissions to the unofficial phase of the Challenge. Please read the [submission instructions](https://moody-challenge.physionet.org/2026/submissions/){: target="_blank"}, double check your code, and [submit](https://docs.google.com/forms/d/e/1FAIpQLSc7J89Dx-pRdZNB7eS4S5Hhrto7yvdqzSZrLCUDNBpeu2m-vQ/viewform){: target="_blank"} it for evaluation on the validation set when ready.
+
+* **February 10, 2026**: The NIH-funded George B. Moody PhysioNet Challenge 2026 is [now open](https://groups.google.com/g/physionet-challenges/c/bP-KMy4I1Bo){: target="_blank"}! Please read this website for details and share questions and comments on [Challenge forum](https://groups.google.com/g/physionet-challenges/){: target="_blank"}.
 
 <!-- > **June 9, 2023**-->
 
