@@ -52,6 +52,14 @@ permalink: /
 We warmly invite you to the **53rd Computing in Cardiology conference** in **Madrid, Spain** on **20th - 23rd September 2026**.
 {: .text-justify}
 
+<div style="background-color: #fff3cd; border-left: 5px solid #ffc107; padding: 15px; margin-bottom: 30px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  <h3 style="margin-top: 0; color: #856404; font-size: 1.3em;">📰 Latest News &amp; Updates</h3>
+  <ul style="margin-bottom: 0;">
+    <li><strong>[March 15, 2026]</strong>: Submission site for abstracts and 4-page papers is <a href="http://softconf.com/p/cinc2026/login" target="_blank"><strong>now open</strong></a>. <strong>Deadline April 15, 2026</strong> </li>
+    <!-- <li><strong>[Date]</strong>: Second important news placeholder here.</li> -->
+  </ul>
+</div>
+
 ## Computing in Cardiology
 [Computing in Cardiology (CinC)](https://cinc.org/){: target="_blank"} is an international scientific conference for computing in clinical cardiology and cardiovascular physiology. CinC 2026 is the 53rd CinC conference, which has been held annually since 1974.
 {: .text-justify}
