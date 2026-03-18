@@ -457,6 +457,67 @@ Please see the below options and walking distances.
 
 <hr style="border: none; border-top: 2px solid #d0d0d0; margin: 2rem 0;">
 
+**8. [Hotel Crowne Plaza Madrid Centre Retiro](https://www.ihg.com/crowneplaza/hotels/es/es/madrid/madcr/hoteldetail){: target="_blank"}<span style="font-size: 1.3em; color: #FFD700;">★★★★☆</span>** 
+- 20 minutes walking, 10 minutes by public transport (1 metro station Line 6 (gray): Sainz de Baranda -> O'Donnell).
+- Address: [C. del Pez Volador, 1, Retiro, 28007 Madrid](https://maps.app.goo.gl/4fW8z2kLGRSjta9UA){: target="_blank"}
+- Booking link for the conference: [RESERVATION LINK for CinC](https://www.ihg.com/redirect?path=asearch&brandCode=CP&localeCode=es&regionCode=1&hotelCode=MADCR&checkInDate=19&checkInMonthYear=082026&checkOutDate=24&checkOutMonthYear=082026&rateCode=6CBARC&_PMID=99801505&GPC=CCN&cn=no&adjustMonth=false&showApp=true&monthIndex=00){: .btn .btn--info .btn--small}{: target="_blank"}.
+
+<div style="display: flex; justify-content: flex-start; align-items: flex-start; gap: 30px; flex-wrap: wrap; margin-bottom: 2em;">
+  <div style="flex: 0 0 auto;">
+   <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d6075.1760245778605!2d-3.67560024749721!3d40.417976754005004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0xd4226026f361355%3A0x8acfecb6850cf07b!2sCrowne%20Plaza%20Madrid%20-%20Centre%20Retiro%20by%20IHG%2C%20C.%20del%20Pez%20Volador%2C%201%2C%20Retiro%2C%2028007%20Madrid!3m2!1d40.4130323!2d-3.6692229999999997!4m5!1s0xd4228af0b1b000f%3A0xe81d868558cc9a3e!2sNovotel%20Madrid%20Center%2C%20Calle%20de%20O&#39;Donnell%2C%2053%2C%20Salamanca%2C%2028009%20Madrid!3m2!1d40.4216398!2d-3.6722837999999998!5e0!3m2!1ses!2ses!4v1773831453514!5m2!1ses!2ses" width="440" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </div>
+
+  <div style="flex: 0 0 auto; align-self: center;">
+    <table style="border-collapse:collapse; margin:0; font-size:0.82em;">
+      <thead>
+        <tr>
+          <th style="background-color:#b10019; color:#ffffff; padding:6px 14px; text-align:left; font-weight:600; border:1px solid #8a0014;">Single Room</th>
+          <th style="background-color:#b10019; color:#ffffff; padding:6px 14px; text-align:left; font-weight:600; border:1px solid #8a0014;">Double Room</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="background-color:#9b1a2a; color:#ffffff; padding:6px 14px; border:1px solid #7a1020;">210 €</td>
+          <td style="background-color:#9b1a2a; color:#ffffff; padding:6px 14px; border:1px solid #7a1020;">233 €</td>
+        </tr>
+        <tr>
+          <td style="background-color:#6b6b6b; color:#ffffff; padding:6px 14px; border:1px solid #555555;">Breakfast and Taxes Included</td>
+          <td style="background-color:#6b6b6b; color:#ffffff; padding:6px 14px; border:1px solid #555555;">Breakfast and Taxes Included</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div id="crowneplaza-carousel" class="splide" aria-label="Hotel Crowne Plaza Madrid Centre Retiro Photos" style="max-width:800px; margin:1em auto 2em;">
+  <div class="splide__track">
+    <ul class="splide__list">
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/accomodations/crowne_plaza/cp_1.jpg" alt="Hotel Crowne Plaza Madrid Centre Retiro - Photo 1" style="width:100%; height:340px; object-fit:contain;">
+      </li>
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/accomodations/crowne_plaza/cp_2.avif" alt="Hotel Crowne Plaza Madrid Centre Retiro - Photo 2" style="width:100%; height:340px; object-fit:contain;">
+      </li>
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/accomodations/crowne_plaza/cp_3.avif" alt="Hotel Crowne Plaza Madrid Centre Retiro - Photo 3" style="width:100%; height:340px; object-fit:contain;">
+      </li>
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/accomodations/crowne_plaza/cp_4.avif" alt="Hotel Crowne Plaza Madrid Centre Retiro - Photo 4" style="width:100%; height:340px; object-fit:contain;">
+      </li>
+    </ul>
+  </div>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    new Splide('#crowneplaza-carousel', {
+      type: 'fade', rewind: true, autoplay: true, interval: 4000, speed: 2500, pauseOnHover: true, pagination: true, arrows: true,
+    }).mount();
+  });
+</script>
+
+<hr style="border: none; border-top: 2px solid #d0d0d0; margin: 2rem 0;">
+
 <!--
 **8. [Crowne Plaza Madrid - Centre Retiro by IHG](https://www.ihg.com/crowneplaza/hotels/us/en/madrid/madcr/hoteldetail){: target="_blank"}<span style="font-size: 1.3em; color: #FFD700;">★★★★☆</span>**
 - 20 minutes walking, 10 minutes by public transport (1 metro station Line 6 (gray): Sainz de Baranda -> O'Donnel).
