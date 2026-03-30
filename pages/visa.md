@@ -52,8 +52,13 @@ As a part of completing a visa application form, you might be required to provid
 ## <a name="letter"></a>Request for Letter of Invitation
 If you need an invitation letter to apply for your visa, please fill this form. Make sure to clearly state your name exactly as it is written in the passport and mention any CinC 2026 contributions that you coauthored.
 
-<p><font size="4"><center><a href= "https://forms.gle/nkBjGPDbAfRa4x9Y6" target="_blank">Invitation Letter Request Form</a></center></font></p>
+<p><font size="4"><center><a href= "https://forms.gle/nkBjGPDbAfRa4x9Y6" target="_blank">Invitation Letter Request Form for Authors</a></center></font></p>
 {: .text-justify}
+
+<p><font size="4"><center><a href= "https://docs.google.com/forms/d/e/1FAIpQLSf-ZAI5D0p9xCIIhSsgRRN5JyHHeJs0Gmd6yYSE9bYo_Wek7g/viewform?usp=publish-editor" target="_blank">Invitation Letter Request Form for Non-Authors</a></center></font></p>
+{: .text-justify}
+
+
 
 *Please allow 7-10 business days for the local organizers to process your request.*
 

@@ -35,7 +35,8 @@ Detailed information for abstract submission is available on **[CinC webpage inf
 * The session chairpersons need to know who will present each scheduled paper. Help them by introducing yourself, and letting them know which paper you will present. 
 * There will also be a local person available to provide technical assistance. 
 
-### Poster Presentation - <!--**[Poster upload instructions](../instructions/)**-->
+### Poster Presentation
+<!--**[Poster upload instructions](../instructions/)**-->
 <!-- * All presenters (remote and onsite) will upload their poster as a PDF or image files to the conference hosting site, Whova, and have the option of also uploading a 3-minute video presenting the poster.-->
 <!--* Each poster will have a chat/mailbox for communicating with the authors on Whova. -->
 <!--In-person presenters will come to their poster session and present and discuss their study with conference attendees. -->

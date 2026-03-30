@@ -17,7 +17,8 @@ permalink: /dates/
 * Sep 20, 2026, **Sunday Symposium.**
 * Sep 21-23, 2026. **53rd Computing in Cardiology Conference.**
 * Oct. 10, 2026 **Submit the final version of your 4 pages paper.**
-* Proceedings released on [www.cinc.org](https://www.cinc.org/){: target="_blank"} (limited to papers effectively presented at the conference).
+
+Proceedings released on [www.cinc.org](https://www.cinc.org/){: target="_blank"} (limited to papers effectively presented at the conference).
 
 
 

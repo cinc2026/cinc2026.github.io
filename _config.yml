@@ -128,7 +128,7 @@ author:
     - label: "Programme"
       icon: "fas fa-fw fa-list"
       url: "/programme/"
-    - label: "Travel Info"
+    - label: "Travel"
       icon: "fas fa-fw fa-globe-americas"
       url: "/travel/"
    # - label: "Maps"

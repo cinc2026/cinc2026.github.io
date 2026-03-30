@@ -5,7 +5,7 @@ author_profile: true
 permalink: /registration/
 ---
 <a name="top"></a>
-This page will provide information about registration.
+This page provides information about registration.
 
 **Onsite registration** includes participation to all scientific sessions, catering during the coffee breaks and lunches, networking events on Monday afternoon, the gala dinner on Monday evening, the participant bag, access to the conference app, and of course stimulating time with the Computing in Cardiology community. A coffee break (coffee, tea, water, pastry) is included on Sunday, Monday, Tuesday and Wednesday. Lunch (including vegan options) is included on Monday (box lunch), Tuesday and Wednesday. Dinner is included on Monday.
 
@@ -14,6 +14,8 @@ This page will provide information about registration.
 <!--**Online registration** -->
 
 Each person who will attend CinC must register as a participant one time, even if you will present more than one submission. The cost of attending the conference is the same regardless of whether you are presenting or not.
+
+<span style="color: #8B0000;">**NEW: Starting this year and for practical reasons, all presenters will be required to register at least two weeks before the Sunday Symposium. Failure to comply with this rule will result in withdrawal from the program, and the corresponding paper will not be published. In case of any difficulties, please contact program@cinc.org.**</span>
 
 ## Provisional Registration Fees 2026 (subject to change) in €
 
@@ -44,12 +46,10 @@ Each person who will attend CinC must register as a participant one time, even i
 | REMOTE participation *(access to online oral sessions, posters and Q&A)* | €375 |
 
 
-In addition to registering to the conference you will also need to arrange your travel and accommodation. You will find a wealth of general information on the CinC 2026 local site. Please [click here](https://cinc2026.org/travel/){: target="_blank"}.
+In addition to registering to the conference you will also need to arrange your travel and accommodation. You will find a wealth of general information on the CinC 2026 local site for travel info by [clicking here](https://cinc2026.org/travel/){: target="_blank"}.
 
-More details [here](https://cinc.org/registration_fees_2025/){: target="_blank"}
+More details about registration fees on the main CinC website [www.cinc.org/registration_fees_2025/](https://cinc.org/registration_fees_2025/){: target="_blank"}
 
-
-<span style="color: #8B0000;">**NEW: Starting this year and for practical reasons, all presenters will be required to register at least two weeks before the Sunday Symposium. Failure to comply with this rule will result in withdrawal from the program, and the corresponding paper will not be published. In case of any difficulties, please contact program@cinc.org.**</span>
 
 To register [click here](https://softconf.com/p/cinc2026/login/){: target="_blank"}
 

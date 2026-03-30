@@ -18,10 +18,9 @@ main:
  #   url: "/sponsors/"
   - title: "PhysioNet Challenge"
     url: "/challenge/"
+  - title: "FAQ"
+    url: "/faq/"
   - title: "CinC Home"
     url: "https://cinc.org/"
     target: _blank
     rel: noopener noreferrer
-  - title: "FAQ"
-    url: "/faq/"
-    
