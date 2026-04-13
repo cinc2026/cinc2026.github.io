@@ -39,6 +39,11 @@ Please see the below options and walking distances.
 - Address: [Calle de O’Donnell, 53. 28009 Madrid, Spain](https://maps.app.goo.gl/MqCXoid94n7VdXDaA){: target="_blank"}
 - Discount code: **CINC2026**
 - Booking link for the conference: [RESERVATION LINK for CinC](https://all.accor.com/lien_externe.svlt?goto=rech_resa&destination=9298&sourceid=FOODEU&dayIn=19&monthIn=09&yearIn=2026&nightNb=4&preferredCode=FOODEU&merchantid=par-accorFR){: .btn .btn--info .btn--small}{: target="_blank"}
+- **Extra nights:** If you want to book extra nights, before or after the event, at the hotel at the agreed conference rate, please contact the hotel directly and mention **CINC** and the extra nights desired, using the following contacts:
+- Reservation email: [reservas@novotelmadridcenter.com](mailto:reservas@novotelmadridcenter.com)  
+- Phone: +34 91 221 40 60.
+
+
 
 <div style="display: flex; justify-content: flex-start; align-items: flex-start; gap: 30px; flex-wrap: wrap; margin-bottom: 2em;">
   <div style="flex: 0 0 auto;">
