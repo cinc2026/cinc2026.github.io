@@ -12,12 +12,103 @@ The Sunday Symposium will address **arrhythmias and cardiovascular challenges in
 
 ## Program
 
-Speakers (Tentative)
+## Speakers
 
-* Dr. Ramon Brugada.
-* Dr. Josep Brugada.
-* Dr. Julián Pérez-Villacastín.
-* Dr. Manuel Marina and PhD Eng. José María Lillo [Idoven](https://es.idoven.ai/){: target="_blank"}.
+<style>
+.speaker-card {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  border-left: 4px solid #8b1a1a;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  transition: box-shadow 0.3s ease;
+}
+.speaker-card:hover {
+  box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+}
+.speaker-photo {
+  flex-shrink: 0;
+  width: 160px;
+  height: 200px;
+  border-radius: 6px;
+  object-fit: cover;
+  border: 2px solid #8b1a1a;
+}
+.speaker-info {
+  flex: 1;
+}
+.speaker-info h3 {
+  margin-top: 0;
+  margin-bottom: 0.3rem;
+  color: #8b1a1a;
+  font-size: 1.25rem;
+}
+.speaker-info .speaker-affiliation {
+  font-size: 0.9rem;
+  color: #555;
+  margin-bottom: 0.7rem;
+  line-height: 1.4;
+}
+.speaker-info .talk-title {
+  font-weight: 600;
+  font-size: 1rem;
+  color: #333;
+  margin-bottom: 0.4rem;
+}
+.speaker-info .talk-summary {
+  font-size: 0.92rem;
+  color: #444;
+  line-height: 1.55;
+  text-align: justify;
+}
+.speaker-info .speaker-contact {
+  font-size: 0.85rem;
+  color: #666;
+  margin-top: 0.6rem;
+}
+.speaker-info .speaker-contact a {
+  color: #8b1a1a;
+}
+@media (max-width: 700px) {
+  .speaker-card {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .speaker-info .talk-summary {
+    text-align: left;
+  }
+}
+</style>
+
+<div class="speaker-card">
+  <img class="speaker-photo" src="/assets/img/cinc_2026/sunday_simp/speakers/yoram_rudy.jpg" alt="Dr. Yoram Rudy">
+  <div class="speaker-info">
+    <h3>Dr. Yoram Rudy</h3>
+    <div class="speaker-affiliation">
+      Distinguished Professor Emeritus · Washington University in St. Louis, USA<br>
+      Member, US National Academy of Engineering · Fellow, US National Academy of Inventors
+    </div>
+    <div class="talk-title">Multi-Scale Integration from Molecular Structure to Whole-Cell Function — Examples from Cardiac Electrophysiology</div>
+    <div class="talk-summary">
+      Mutations and many disease-causing processes occur at the molecular scale, but their manifestation (e.g., cardiac arrhythmias) occurs at the cellular, tissue, organ and organism levels. Integration across scales and understanding of processes that determine emergent behaviors at higher scales are essential for mechanism-based "precision medicine". Examples from cardiac electrophysiology will be shown, where computer modeling has been used to relate an ion-channel protein structure/function to the whole-cell action potential. The presentation will focus on I<sub>Ks</sub>, an ionic current that underlies rate dependence of the cardiac action potential.
+    </div>
+    <div class="speaker-contact">
+      <a href="https://rudylab.wustl.edu/" target="_blank">rudylab.wustl.edu</a> · <a href="http://cbac.wustl.edu" target="_blank">cbac.wustl.edu</a>
+    </div>
+  </div>
+</div>
+
+### Other Speakers (Tentative)
+
+* Dr. Ramon Brugada
+* Dr. Josep Brugada
+* Dr. Julián Pérez-Villacastín
+* Dr. Manuel Marina and PhD Eng. José María Lillo — [Idoven](https://es.idoven.ai/){: target="_blank"}
 
 
 
