@@ -106,7 +106,6 @@ The Sunday Symposium will address **arrhythmias and cardiovascular challenges in
 ### Other Speakers (Tentative)
 
 * Dr. Ramon Brugada
-* Dr. Josep Brugada
 * Dr. Julián Pérez-Villacastín
 * Dr. Manuel Marina and PhD Eng. José María Lillo — [Idoven](https://es.idoven.ai/){: target="_blank"}
 
