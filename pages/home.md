@@ -77,29 +77,121 @@ blockquote {
     border: none!;
     padding-left: 10px;
 }
+.committee-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px 20px;
+    max-width: 750px;
+    margin: 20px auto;
+}
+.committee-member {
+    text-align: center;
+}
+.committee-member img {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #ddd;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.committee-member img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+}
+.committee-member .name {
+    margin-top: 10px;
+    font-weight: 600;
+    font-size: 0.95em;
+}
+.committee-member .name a {
+    color: #333;
+    text-decoration: none;
+}
+.committee-member .name a:hover {
+    color: #6a0c3a;
+    text-decoration: underline;
+}
+.committee-member .affiliation {
+    font-size: 0.82em;
+    color: #666;
+    margin-top: 3px;
+}
+@media (max-width: 600px) {
+    .committee-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px 10px;
+    }
+    .committee-member img {
+        width: 100px;
+        height: 100px;
+    }
+}
 </style>
 
-
-&nbsp;
-
-| <img src="{{'/assets/img/cinc_2026/obp.jpg' | relative_url}}" width="120" height="120"> | <img src="{{'/assets/img/cinc_2026/jlra.jpg' | relative_url}}" width="120" height="120"> | <img src="{{'/assets/img/cinc_2026/rge.jpg' | relative_url}}" width="120" height="120"> |
-|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| **<a href="https://servicios.urjc.es/pdi/ver/oscar.barquero" target="_blank">Óscar Barquero</a>** | **<a href="https://servicios.urjc.es/pdi/ver/joseluis.rojo" target="_blank">José Luis Rojo</a>** | **<a href="https://servicios.urjc.es/pdi/ver/rebeca.goyaesteban" target="_blank">Rebeca Goya</a>** |
-| University Rey Juan Carlos                                                | University Rey Juan Carlos                                                 | University Rey Juan Carlos                                               |
-
-| <img src="{{'/assets/img/cinc_2026/agm.jpg' | relative_url}}" width="120" height="120"> | <img src="{{'/assets/img/cinc_2026/acf.jpg' | relative_url}}" width="120" height="120"> | <img src="{{'/assets/img/cinc_2026/lmm.jpg' | relative_url}}" width="120" height="120"> |
-|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| **<a href="https://servicios.urjc.es/pdi/ver/antonio.garcia.marques" target="_blank">Antonio Marqués</a>** | **<a href="https://servicios.urjc.es/pdi/ver/antonio.caamano" target="_blank">Antonio Caamaño</a>** | **<a href="https://servicios.urjc.es/pdi/ver/laura.martinez.mateu" target="_blank">Laura Martínez</a>** |
-| University Rey Juan Carlos                                                 | University Rey Juan Carlos                                                 | University Rey Juan Carlos                                                |
-
-| <img src="{{'/assets/img/cinc_2026/csr.jpg' | relative_url}}" width="120" height="120"> | <img src="{{'/assets/img/cinc_2026/imj.jpg' | relative_url}}" width="120" height="120"> | <img src="{{'/assets/img/cinc_2026/fmm.jpg' | relative_url}}" width="120" height="120"> |
-|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| **<a href="https://servicios.urjc.es/pdi/ver/cristina.soguero" target="_blank">Cristina Soguero</a>** | **<a href="https://servicios.urjc.es/pdi/ver/inmaculada.mora" target="_blank">Inmaculada Mora</a>** | **<a href="https://servicios.urjc.es/pdi/ver/francisco.melgarejo" target="_blank">Francisco Melgarejo</a>** |
-| University Rey Juan Carlos                                                | University Rey Juan Carlos                                                 | University Rey Juan Carlos                                                |
-| <img src="{{'/assets/img/cinc_2026/mgfc.jpg' | relative_url}}" width="120" height="120"> | <img src="{{'/assets/img/cinc_2026/sre.jpg' | relative_url}}" width="120" height="120"> | <img src="{{'/assets/img/cinc_2026/srd.jpeg' | relative_url}}" width="120" height="120"> |
-|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| **<a href="https://www.vicomtech.org/es/vicomtech/equipo/1347" target="_blank">Miriam Gutiérrez</a>** | **<a href="mailto:samuel.rey.escudero@urjc.es" target="_blank">Samuel Rey</a>** | **<a href="https://servicios.urjc.es/pdi/ver/sergio.rozada" target="_blank">Sergio Rozada</a>** |
-| Vicomtech Foundation                                                             | University Rey Juan Carlos                                              | University Rey Juan Carlos                                                 |
+<div class="committee-grid">
+  <div class="committee-member">
+    <img src="{{'/assets/img/cinc_2026/obp.jpg' | relative_url}}" alt="Óscar Barquero">
+    <div class="name"><a href="https://servicios.urjc.es/pdi/ver/oscar.barquero" target="_blank">Óscar Barquero</a></div>
+    <div class="affiliation">University Rey Juan Carlos</div>
+  </div>
+  <div class="committee-member">
+    <img src="{{'/assets/img/cinc_2026/jlra.jpg' | relative_url}}" alt="José Luis Rojo">
+    <div class="name"><a href="https://servicios.urjc.es/pdi/ver/joseluis.rojo" target="_blank">José Luis Rojo</a></div>
+    <div class="affiliation">University Rey Juan Carlos</div>
+  </div>
+  <div class="committee-member">
+    <img src="{{'/assets/img/cinc_2026/rge.jpg' | relative_url}}" alt="Rebeca Goya">
+    <div class="name"><a href="https://servicios.urjc.es/pdi/ver/rebeca.goyaesteban" target="_blank">Rebeca Goya</a></div>
+    <div class="affiliation">University Rey Juan Carlos</div>
+  </div>
+  <div class="committee-member">
+    <img src="{{'/assets/img/cinc_2026/agm.jpg' | relative_url}}" alt="Antonio Marqués">
+    <div class="name"><a href="https://servicios.urjc.es/pdi/ver/antonio.garcia.marques" target="_blank">Antonio Marqués</a></div>
+    <div class="affiliation">University Rey Juan Carlos</div>
+  </div>
+  <div class="committee-member">
+    <img src="{{'/assets/img/cinc_2026/acf.jpg' | relative_url}}" alt="Antonio Caamaño">
+    <div class="name"><a href="https://servicios.urjc.es/pdi/ver/antonio.caamano" target="_blank">Antonio Caamaño</a></div>
+    <div class="affiliation">University Rey Juan Carlos</div>
+  </div>
+  <div class="committee-member">
+    <img src="{{'/assets/img/cinc_2026/lmm.jpg' | relative_url}}" alt="Laura Martínez">
+    <div class="name"><a href="https://servicios.urjc.es/pdi/ver/laura.martinez.mateu" target="_blank">Laura Martínez</a></div>
+    <div class="affiliation">University Rey Juan Carlos</div>
+  </div>
+  <div class="committee-member">
+    <img src="{{'/assets/img/cinc_2026/csr.jpg' | relative_url}}" alt="Cristina Soguero">
+    <div class="name"><a href="https://servicios.urjc.es/pdi/ver/cristina.soguero" target="_blank">Cristina Soguero</a></div>
+    <div class="affiliation">University Rey Juan Carlos</div>
+  </div>
+  <div class="committee-member">
+    <img src="{{'/assets/img/cinc_2026/imj.jpg' | relative_url}}" alt="Inmaculada Mora">
+    <div class="name"><a href="https://servicios.urjc.es/pdi/ver/inmaculada.mora" target="_blank">Inmaculada Mora</a></div>
+    <div class="affiliation">University Rey Juan Carlos</div>
+  </div>
+  <div class="committee-member">
+    <img src="{{'/assets/img/cinc_2026/fmm.jpg' | relative_url}}" alt="Francisco Melgarejo">
+    <div class="name"><a href="https://servicios.urjc.es/pdi/ver/francisco.melgarejo" target="_blank">Francisco Melgarejo</a></div>
+    <div class="affiliation">University Rey Juan Carlos</div>
+  </div>
+  <div class="committee-member">
+    <img src="{{'/assets/img/cinc_2026/mgfc.jpg' | relative_url}}" alt="Miriam Gutiérrez">
+    <div class="name"><a href="https://www.vicomtech.org/es/vicomtech/equipo/1347" target="_blank">Miriam Gutiérrez</a></div>
+    <div class="affiliation">Vicomtech Foundation</div>
+  </div>
+  <div class="committee-member">
+    <img src="{{'/assets/img/cinc_2026/sre.jpg' | relative_url}}" alt="Samuel Rey">
+    <div class="name"><a href="mailto:samuel.rey.escudero@urjc.es" target="_blank">Samuel Rey</a></div>
+    <div class="affiliation">University Rey Juan Carlos</div>
+  </div>
+  <div class="committee-member">
+    <img src="{{'/assets/img/cinc_2026/srd.jpeg' | relative_url}}" alt="Sergio Rozada">
+    <div class="name"><a href="https://servicios.urjc.es/pdi/ver/sergio.rozada" target="_blank">Sergio Rozada</a></div>
+    <div class="affiliation">University Rey Juan Carlos</div>
+  </div>
+</div>
 
 
 ## Organizers
