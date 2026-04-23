@@ -8,7 +8,7 @@ permalink: /accommodation/
 
 There are several hotels within walking distance of the conference venue. 
 
-Here you can find different accommodation options for your stay during **CINC 2026 (Computing in Cardiology Conference)**. The official conference venue is the Novotel Madrid Center, where special rates have been negotiated for CINC 2026 participants.
+Here you can find different accommodation options for your stay during **CINC 2026 (Computing in Cardiology Conference)**. The official conference venue is the **Novotel Madrid Center**, where special rates have been negotiated for CINC 2026 participants.
 We strongly encourage you to book your stay at the conference hotel to enjoy the most convenient and complete conference experience.
 {: .text-justify}
 
