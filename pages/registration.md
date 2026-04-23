@@ -17,7 +17,7 @@ Each person who will attend CinC must register as a participant one time, even i
 
 <span style="color: #8B0000;">**NEW: Starting this year and for practical reasons, all presenters will be required to register at least two weeks before the Sunday Symposium. Failure to comply with this rule will result in withdrawal from the program, and the corresponding paper will not be published. In case of any difficulties, please contact program@cinc.org.**</span>
 
-## Provisional Registration Fees 2026 (subject to change) in €
+## Registration Fees 2026 in €
 
 ### Early bird rates (until July 31)
 
