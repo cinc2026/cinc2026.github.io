@@ -23,12 +23,12 @@ Each person who will attend CinC must register as a participant one time, even i
 
 | Registration type | Early bird (until July 31) |
 |---|---:|
-| Standard IN PERSON registration | €725 |
-| Reduced Fee Registration (RFR) | €365 |
-| One day IN PERSON (Sun / Tue / Wed) | €200 |
-| One day IN PERSON (Monday only) | €350 |
-| Guest IN PERSON *(Monday Social Event & Gala Dinner only, not scientific sessions)* | €160 |
-| REMOTE participation *(access to online oral sessions, posters and Q&A)* | €375 |
+| Standard IN PERSON registration | €750 |
+| Reduced Fee Registration (RFR) | €380 |
+| One day IN PERSON (Sun / Tue / Wed) | €210 |
+| One day IN PERSON (Monday only) | €360 |
+| Guest IN PERSON *(Monday Social Event & Gala Dinner only, not scientific sessions)* | €170 |
+| REMOTE participation *(access to online oral sessions, posters and Q&A)* | €390 |
 
 
 **RFR** Reduced-Fee-Registration is usually for young researcher who otherwise qualify for the Young Investigator Competition (see the page [here](https://cinc.org/rosanna-degani-young-investigator-award/){: target="_blank"}) or who submitted a 4-page paper and applied for the RFR in April. Other criteria could be also applied. Check all the criteria [here](https://cinc.org/participating-computing-in-cardiology-conferences/){: target="_blank"}. They must also register before August 1
@@ -39,11 +39,27 @@ Each person who will attend CinC must register as a participant one time, even i
 
 | Registration type | Late (from August 1) |
 |---|---:|
-| Standard IN PERSON registration | €850 |
-| One day IN PERSON (Sun / Tue / Wed) | €200 |
-| One day IN PERSON (Monday only) | €350 |
-| Guest IN PERSON *(Monday Social Event & Gala Dinner only, not scientific sessions)* | €160 |
-| REMOTE participation *(access to online oral sessions, posters and Q&A)* | €375 |
+| Standard IN PERSON registration | €880 |
+| One day IN PERSON (Sun / Tue / Wed) | €210 |
+| One day IN PERSON (Monday only) | €360 |
+| Guest IN PERSON *(Monday Social Event & Gala Dinner only, not scientific sessions)* | €170 |
+| REMOTE participation *(access to online oral sessions, posters and Q&A)* | €390 |
+
+### Health Care Professionals (until July 31)
+
+| Registration type | Early bird (until July 31) |
+|---|---:|
+| Standard-No social events | €725 |
+| Social event | €155 |
+| Single Day-No social events | €205 |
+
+### Health Care Professionals (from August 1)
+
+| Registration type | Late (from August 1) |
+|---|---:|
+| Standard-No social events | €850 |
+| Social event | €180 |
+| Single Day-No social events | €205 |
 
 
 In addition to registering to the conference you will also need to arrange your travel and accommodation. You will find a wealth of general information on the CinC 2026 local site for travel info by [clicking here](https://cinc2026.org/travel/){: target="_blank"}.
