@@ -28,7 +28,19 @@ Spain has one of the most extensive and modern high-speed rail networks in Europ
 Madrid is connected by Spain’s extensive high-speed rail network, offering multiple operators with competitive fares, frequent departures, and modern services. Book your ticket directly through the official platforms below:
 {: .text-justify}
 
-* [Renfe](https://www.renfe.com){: target="_blank"}: High-speed and regional and commuter train services.
+* <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 10px;">
+    <a href="https://www.renfe.com" target="_blank">
+      <img src="{{'/assets/img/cinc_2026/renfe-logo-rosa.png' | relative_url}}" alt="Renfe Logo" style="width: 120px; height: auto;">
+    </a>
+    <div>
+      High-speed and regional and commuter train services.
+      <hr style="margin: 8px 0; border: 0; border-top: 1px solid #ccc;">
+      <span style="background-color: #6B2D8B; color: white; padding: 3px 10px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">🎫 5% Discount</span> 
+      <em>available for CinC 2026 registered attendees.</em> 
+      <a href="../renfe/" style="font-weight: bold;">Claim your discount</a>
+    </div>
+  </div>
+
 * [Iryo](https://www.iryo.es){: target="_blank"}: High-speed trains.
 * [Ouigo](https://www.ouigo.com){: target="_blank"}: High-speed trains.
   
