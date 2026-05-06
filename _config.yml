@@ -144,7 +144,7 @@ author:
       icon: "fas fa-fw fa-question"
       url: "/faq/"
     - label: "X (Twitter)"
-      icon: "fab fa-fw fa-x-twitter"
+      image: "assets/img/x-logo.svg"
       url: "https://x.com/2026CinC_madrid"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
