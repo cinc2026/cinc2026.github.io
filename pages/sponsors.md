@@ -65,7 +65,7 @@ Your company, known for its commitment to innovation and research in healthcare,
 We offer several sponsorship levels designed to align with your marketing and visibility goals, including opportunities to promote your company during scientific sessions, in official conference materials, and in the exhibition space.
 
 **For detailed sponsorship information and packages, please download our sponsorship document:**
-[**📋 Sponsorship Opportunities (PDF)**]({{'/assets/ppt/sponsor.pdf' | relative_url}}){: target="_blank" .btn}
+[**📋 Sponsorship Opportunities (PDF)**]({{'/assets/ppt/sponsors.pdf' | relative_url}}){: target="_blank" .btn}
 
 ### CinC 2026 - 53rd annual edition of CinC - in brief:
 - **The leading conference** in technology applied to cardiology
