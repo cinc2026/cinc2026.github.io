@@ -200,14 +200,56 @@ blockquote {
 
 <!-- | <img src="/assets/img/urjc.jpg" alt="" height=150 width=150/> || <img src="/assets/img/eif.jpg" alt="" height=150 width=150/> | -->
 
+
+
 &nbsp;
 
-<!-- ## Sponsors -->
+## Sponsors
 
-<!-- | <img src="/assets/img/baxter.png" alt="" height=150 width=150/> || <img src="/assets/img/alivecor.png" alt="" height=170 width=170/> || <img src="/assets/img/mathworks.png" alt="" height=170 width=170/> || <img src="/assets/img/moore.png" alt="" height=150 width=150/> | -->
+We gratefully acknowledge the support of our sponsors and partners:
+
+<style>
+.sponsors-section {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 30px;
+    align-items: center;
+    justify-items: center;
+    margin: 30px 0;
+}
+.sponsor-logo-item {
+    max-height: 150px;
+    max-width: 100%;
+    object-fit: contain;
+}
+.sponsor-item {
+    position: relative;
+    text-align: center;
+}
+.sponsor-badge {
+    background: linear-gradient(135deg, #d4af37 0%, #c99c29 100%);
+    color: white;
+    padding: 8px 16px;
+    border-radius: 4px;
+    font-size: 0.85em;
+    font-weight: 600;
+    margin-top: 10px;
+    letter-spacing: 0.5px;
+    box-shadow: 0 2px 8px rgba(212, 175, 55, 0.3);
+}
+</style>
+
+<div class="sponsors-section">
+  <div class="sponsor-item">
+    <a href="https://corify.es/" target="_blank" title="Corify"><img src="{{'/assets/img/cinc_2026/sponsors/corify.jpg' | relative_url}}" alt="Corify" class="sponsor-logo-item" style="height: 120px;"></a>
+    <div class="sponsor-badge">Gold Sponsor</div>
+  </div>
+</div>
+
+[**View all sponsors and sponsorship opportunities**](../sponsors/){: .btn}
 
 &nbsp;
 
 ---
 
-[Calendar](../dates/) &#9632; [Registration](../registration) &#9632; [Authors](../authors) &#9632; [Programme](../programme/) &#9632; [Travel](../travel/) &#9632; [PhysioNet Challenge](../challenge/) &#9632; [FAQ](../faq/)
+[Calendar](../dates/) &#9632; [Registration](../registration) &#9632; [Authors](../authors) &#9632; [Programme](../programme/) &#9632; [Travel](../travel/) &#9632; [Sponsors](../sponsors/) &#9632; [PhysioNet Challenge](../challenge/) &#9632; [FAQ](../faq/)
