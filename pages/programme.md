@@ -20,7 +20,7 @@ This page will provide useful information on the Scientific Program, Special Ses
 <!--[PhysioNet Challenge Hackathon](../hackathon){: .btn .btn--x-large}-->
 
 [Special Sessions](../special){: .btn .btn--x-large}\
-<!--[Monday Social Activities](../activities){: .btn .btn--x-large}\-->
+[Monday Social Activities](../activities){: .btn .btn--x-large}
 <!--[Monday Evening Gala](../gala){: .btn .btn--x-large}\-->
 <!--[CinC 2023 Booklet](../assets/img/booklet website.pdf){: .btn .btn--x-large}-->
 
