@@ -26,6 +26,10 @@ Enjoy a unique guided tour along the **Tagus River as it flows through the Royal
 
 <div style="clear: both;"></div>
 
+<div style="background-color: #e8f5e9; border-left: 4px solid #66bb6a; padding: 0.8em 1.2em; border-radius: 4px;">
+<strong>👕 What to wear:</strong> Please bring comfortable clothing suitable for water activities — swimwear or sport shorts, a light t-shirt, flip-flops or water shoes, and a change of clothes for afterwards. Changing rooms, lockers, and waterproof containers are available on site.
+</div>
+
 
 
 
