@@ -132,7 +132,7 @@ The Sunday Symposium will address **arrhythmias and cardiovascular challenges in
 </div>
 
 <div class="speaker-card">
-  <img class="speaker-photo" src="/assets/img/cinc_2026/sunday_simp/speakers/ramon_brugada.jpg" alt="Dr. Ramon Brugada Terradellas">
+  <img class="speaker-photo" src="/assets/img/cinc_2026/sunday_simp/speakers/ramon_brugada.png" alt="Dr. Ramon Brugada Terradellas">
   <div class="speaker-info">
     <h3>Dr. Ramon Brugada Terradellas</h3>
     <div class="speaker-affiliation">
