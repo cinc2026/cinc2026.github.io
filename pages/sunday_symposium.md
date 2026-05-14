@@ -94,12 +94,28 @@ The Sunday Symposium will address **arrhythmias and cardiovascular challenges in
       Member, US National Academy of Engineering · Fellow, US National Academy of Inventors
     </div>
     <div class="talk-title">Multi-Scale Integration from Molecular Structure to Whole-Cell Function — Examples from Cardiac Electrophysiology</div>
-    <div class="talk-summary">
-      Mutations and many disease-causing processes occur at the molecular scale, but their manifestation (e.g., cardiac arrhythmias) occurs at the cellular, tissue, organ and organism levels. Integration across scales and understanding of processes that determine emergent behaviors at higher scales are essential for mechanism-based "precision medicine". Examples from cardiac electrophysiology will be shown, where computer modeling has been used to relate an ion-channel protein structure/function to the whole-cell action potential. The presentation will focus on I<sub>Ks</sub>, an ionic current that underlies rate dependence of the cardiac action potential.
-    </div>
+    <!-- talk-summary: Mutations and many disease-causing processes occur at the molecular scale, but their manifestation (e.g., cardiac arrhythmias) occurs at the cellular, tissue, organ and organism levels. Integration across scales and understanding of processes that determine emergent behaviors at higher scales are essential for mechanism-based "precision medicine". Examples from cardiac electrophysiology will be shown, where computer modeling has been used to relate an ion-channel protein structure/function to the whole-cell action potential. The presentation will focus on I<sub>Ks</sub>, an ionic current that underlies rate dependence of the cardiac action potential. -->
     <div class="speaker-contact">
       <a href="https://rudylab.wustl.edu/" target="_blank">rudylab.wustl.edu</a> · <a href="http://cbac.wustl.edu" target="_blank">cbac.wustl.edu</a>
     </div>
+  </div>
+</div>
+
+<div class="speaker-card">
+  <img class="speaker-photo" src="/assets/img/cinc_2026/sunday_simp/speakers/elena_arbelo.jpg" alt="Dr. Elena Arbelo">
+  <div class="speaker-info">
+    <h3>Dr. Elena Arbelo</h3>
+    <div class="speaker-affiliation">
+      Cardiac Electrophysiologist · Hospital Clínic of Barcelona<br>
+      Coordinator, Cardiac Genetic Diseases and Sudden Arrhythmic Death Unit<br>
+      Cardiovascular Institute Coordinator for Quality and Safety<br>
+      Clinical Professor · Universitat de Barcelona<br>
+      Recognised Researcher · IDIBAPS<br>
+      Committee Member · ESC · EHRA · HRS<br>
+      Working Group on Atrial Fibrillation · ICHOM
+    </div>
+    <div class="talk-title">Cardiomyopathy with arrhythmic risk: when can sport be resumed?</div>
+    <!-- talk-summary: TBD -->
   </div>
 </div>
 
