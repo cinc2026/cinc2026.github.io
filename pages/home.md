@@ -56,6 +56,7 @@ We warmly invite you to the **53rd Computing in Cardiology conference** in **Mad
   <h3 style="margin-top: 0; color: #856404; font-size: 1.3em;">📰 Latest News &amp; Updates</h3>
   <ul style="margin-bottom: 0;">
     <li><strong>[March 15, 2026]</strong>: Submission site for abstracts and 4-page papers is <a href="http://softconf.com/p/cinc2026/login" target="_blank"><strong>now open</strong></a>. <strong>Deadline April 15, 2026</strong> </li>
+    <li>🎫 <strong>Exclusive discounts available</strong> on <a href="../accommodation/"><strong>hotels</strong></a> and <a href="../midtown/#train"><strong>train tickets</strong></a> for registered attendees. Check them out!</li>
     <!-- <li><strong>[Date]</strong>: Second important news placeholder here.</li> -->
   </ul>
 </div>

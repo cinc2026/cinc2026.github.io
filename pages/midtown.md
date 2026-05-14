@@ -19,15 +19,34 @@ Adolfo Suárez Madrid-Barajas International Airport is the primary international
 
 ## <a name="train"></a>Arrival by Train
 
+
+<p class="notice--success">
+  🎫 <strong>Train discounts available!</strong> CinC 2026 registered attendees can benefit from exclusive discounts on train tickets to Madrid. See the operators below to claim yours.
+</p>
+
 Spain has one of the most extensive and modern high-speed rail networks in Europe. The network exceeds 4,000 kilometers of operational high-speed track with Madrid as main hub with more than 100 daily high-speed train connections with the rest of Spain
 
 <div style="text-align: center;">
   <img src="{{'/assets/img/cinc_2026/ave.png' | relative_url}}" alt="Texto alternativo" style="width: 450px; height: auto;">
 </div>
 
+
 Madrid is connected by Spain’s extensive high-speed rail network, offering multiple operators with competitive fares, frequent departures, and modern services. Book your ticket directly through the official platforms below:
 {: .text-justify}
 
+
+* <div style="display: flex; align-items: center; gap: 15px; margin-top: 50px; margin-bottom: 40px;">
+    <a href="https://iryo.eu" target="_blank">
+      <img src="{{'/assets/img/cinc_2026/logo_iryo_new_0.png' | relative_url}}" alt="Iryo Logo" style="width: 120px; height: auto;">
+    </a>
+    <div>
+      High-speed train services.
+      <hr style="margin: 8px 0; border: 0; border-top: 1px solid #ccc;">
+      <span style="background-color: #c00; color: white; padding: 3px 10px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">🎫 Discount</span>
+      <em>available for CinC 2026 registered attendees.</em>
+      <a href="../iryo/" style="font-weight: bold;">Claim your discount</a>
+    </div>
+  </div>
 * <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 10px;">
     <a href="https://www.renfe.com" target="_blank">
       <img src="{{'/assets/img/cinc_2026/renfe-logo-rosa.png' | relative_url}}" alt="Renfe Logo" style="width: 120px; height: auto;">
@@ -41,7 +60,6 @@ Madrid is connected by Spain’s extensive high-speed rail network, offering mul
     </div>
   </div>
 
-* [Iryo](https://www.iryo.es){: target="_blank"}: High-speed trains.
 * [Ouigo](https://www.ouigo.com){: target="_blank"}: High-speed trains.
   
 All services provide direct high-speed connections to major Spanish cities, including Barcelona, Seville, Valencia, Málaga, and Zaragoza. For route comparisons and real-time scheduling, visit [Trainline](https://www.thetrainline.com/es/trenes/alta-velocidad){: target="_blank"}.
