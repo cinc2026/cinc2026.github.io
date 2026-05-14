@@ -7,7 +7,7 @@ permalink: /iryo/
 <a name="top"></a>
 
 <div style="text-align: center; margin-bottom: 20px;">
-  <img src="{{'/assets/img/cinc_2026/Banner_Cinc2026_sin_codigo.jpg' | relative_url}}" alt="Iryo Banner" style="width: 100%; max-width: 900px; height: auto; border-radius: 6px;">
+  <img src="{{'/assets/img/cinc_2026/Banner_Cinc2026_english.jpg' | relative_url}}" alt="Iryo Banner" style="width: 100%; max-width: 900px; height: auto; border-radius: 6px;">
 </div>
 
 ## 🎫 Exclusive Discount on Iryo Tickets for CinC 2026 Attendees
