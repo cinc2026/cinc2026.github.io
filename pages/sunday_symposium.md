@@ -110,24 +110,47 @@ The Sunday Symposium will address **arrhythmias and cardiovascular challenges in
       Coordinator, Cardiac Genetic Diseases and Sudden Arrhythmic Death Unit<br>
       Cardiovascular Institute Coordinator for Quality and Safety<br>
       Clinical Professor · Universitat de Barcelona<br>
-      Recognised Researcher · IDIBAPS<br>
       Committee Member · ESC · EHRA · HRS<br>
-      Working Group on Atrial Fibrillation · ICHOM
     </div>
     <div class="talk-title">Cardiomyopathy with arrhythmic risk: when can sport be resumed?</div>
     <!-- talk-summary: TBD -->
   </div>
 </div>
 
+<div class="speaker-card">
+  <img class="speaker-photo" src="/assets/img/cinc_2026/sunday_simp/speakers/manuel_marina.jpg" alt="Dr. Manuel Marina Breysse">
+  <div class="speaker-info">
+    <h3>Dr. Manuel Marina Breysse</h3>
+    <div class="speaker-affiliation">
+      CEO &amp; Co-founder · <a href="https://es.idoven.ai/" target="_blank">Idoven</a><br>
+      Cardiologist · Specialized in Signal Processing, Arrhythmias &amp; Sports Cardiology<br>
+      Former Researcher · Centro Nacional de Investigaciones Cardiovasculares Carlos III (CNIC), Spain
+    </div>
+    <div class="talk-title">AI-Powered ECG Analysis for Arrhythmia Detection and Cardiovascular Risk Assessment in Athletes</div>
+    <!-- talk-summary: TBD -->
+  </div>
+</div>
+
+<div class="speaker-card">
+  <img class="speaker-photo" src="/assets/img/cinc_2026/sunday_simp/speakers/ramon_brugada.jpg" alt="Dr. Ramon Brugada Terradellas">
+  <div class="speaker-info">
+    <h3>Dr. Ramon Brugada Terradellas</h3>
+    <div class="speaker-affiliation">
+      MD PhD · FACC · FESC<br>
+      Chief of Cardiology · Hospital Universitari Josep Trueta &amp; Hospital Santa Caterina, Girona<br>
+      Director, Cardiovascular Genetics Center · Institut d'Investigació Biomèdica Girona (IdIBGi)<br>
+      Full Professor of Medicine · Chair in Cardiovascular Diseases · Universitat de Girona<br>
+      Past President · Catalan Society of Cardiology
+    </div>
+    <!-- talk-title: TBD -->
+    <!-- talk-summary: TBD -->
+  </div>
+</div>
+
 ### Other Speakers (Tentative)
 
-* Dr. Ramon Brugada
-* Dr. Julián Pérez-Villacastín
-* Dr. Manuel Marina and PhD Eng. José María Lillo — [Idoven](https://es.idoven.ai/){: target="_blank"}
 
 
-
-<!--![Sunday Symposium Flyer](../assets/img/flyer_landscape.jpg)-->
 1. When: Sunday, September 20, 2026 <!--at 12pm-5:30pm-->
 1. Where: [Hospital San Carlos](https://www.urjc.es/grado/591-situacion-planos-campus-aranjuez){: target="_blank"},  Universidad Rey Juan Carlos - Aranjuez Campus
 1. Address: [C/ Capitán Angosto Gómez Castrillón 91, 28300 Aranjuez-Madrid](https://maps.app.goo.gl/T84i8sHBrJ2vLaqx7){: target="_blank"}
