@@ -86,7 +86,7 @@ The Sunday Symposium will address **arrhythmias and cardiovascular challenges in
 </style>
 
 <div class="speaker-card">
-  <img class="speaker-photo" src="/assets/img/cinc_2026/sunday_simp/speakers/yoram_rudy.jpg" alt="Dr. Yoram Rudy">
+  <img class="speaker-photo" src="/assets/img/cinc_2026/sunday_simp/speakers/yoram_rudy.jpg" alt="Prof. Yoram Rudy">
   <div class="speaker-info">
     <h3>Dr. Yoram Rudy</h3>
     <div class="speaker-affiliation">
@@ -132,7 +132,7 @@ The Sunday Symposium will address **arrhythmias and cardiovascular challenges in
 </div>
 
 <div class="speaker-card">
-  <img class="speaker-photo" src="/assets/img/cinc_2026/sunday_simp/speakers/ramon_brugada.png" alt="Dr. Ramon Brugada Terradellas">
+  <img class="speaker-photo" src="/assets/img/cinc_2026/sunday_simp/speakers/ramon_brugada.webp" alt="Dr. Ramón Brugada Terradellas">
   <div class="speaker-info">
     <h3>Dr. Ramon Brugada Terradellas</h3>
     <div class="speaker-affiliation">
@@ -142,12 +142,11 @@ The Sunday Symposium will address **arrhythmias and cardiovascular challenges in
       Full Professor of Medicine · Chair in Cardiovascular Diseases · Universitat de Girona<br>
       Past President · Catalan Society of Cardiology
     </div>
-    <!-- talk-title: TBD -->
+    <div class="talk-title">Inherited Arrhythmia Syndromes and Sudden Cardiac Death</div>
     <!-- talk-summary: TBD -->
   </div>
 </div>
 
-### Other Speakers (Tentative)
 
 
 
