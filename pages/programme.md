@@ -21,8 +21,8 @@ This page will provide useful information on the Scientific Program, Special Ses
 
 [Special Sessions](../special){: .btn .btn--x-large}\
 [Monday Social Activities](../activities){: .btn .btn--x-large}\
-[Tuesday Social Activities](../tuesday){: .btn .btn--x-large}
-<!--[Monday Evening Gala](../gala){: .btn .btn--x-large}\-->
+[Tuesday Social Activities](../tuesday){: .btn .btn--x-large}\
+[Gala Dinner](../gala){: .btn .btn--x-large}
 <!--[CinC 2023 Booklet](../assets/img/booklet website.pdf){: .btn .btn--x-large}-->
 
 ---
