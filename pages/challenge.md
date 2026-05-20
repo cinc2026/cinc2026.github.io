@@ -6,6 +6,8 @@ permalink: /challenge/
 ---
 <a name="top"></a>
 
+[![PhysioNet Challenge 2026](/assets/img/cinc_2026/physionet_challenge.gif){: .align-center}](https://moody-challenge.physionet.org/2026/){: target="_blank"}
+
 ## Overview
 
 The annual [George B. Moody PhysioNet Challenges](https://physionetchallenges.org/){: target="_blank"} invite participants to develop algorithmic approaches tackling clinically interesting questions that remain unsolved. Since the launch of PhysioNet in 1999, PhysioNet has co-hosted these Challenges in collaboration with [Computing in Cardiology](https://cinc.org/){: target="_blank"}.
@@ -31,15 +33,10 @@ The 2026 Challenge data are from the [Human Sleep Project database](https://bdsp
 
 * **February 10, 2026**: The NIH-funded George B. Moody PhysioNet Challenge 2026 is [now open](https://groups.google.com/g/physionet-challenges/c/bP-KMy4I1Bo){: target="_blank"}! Please read this website for details and share questions and comments on [Challenge forum](https://groups.google.com/g/physionet-challenges/){: target="_blank"}.
 
-<!-- > **June 9, 2023**-->
-
-<!--The official phase of the George B. Moody PhysionNet Challenge 2023 has begun.-->
-<!--{: .text-justify}-->
-
-More information about current and past Challenges, including [important details](https://moody-challenge.physionet.org/faq/){: target="_blank"} about scoring and test data for previous Challenges are available at the George B. Moody PhysioNet Challenge website.
+All details about the 2026 Challenge are available on the official website:
 {: .text-justify}
 
-[PhysioNet Challenge](https://physionetchallenges.org/){: .btn .btn--info .btn}{: target="_blank"}
+[PhysioNet Challenge 2026](https://moody-challenge.physionet.org/2026/){: .btn .btn--info .btn--large}{: target="_blank"}
 
 [Top of page](#top){: .btn}
 
