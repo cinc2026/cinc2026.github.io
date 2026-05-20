@@ -6,16 +6,18 @@ permalink: /venue/
 ---
 <a name="top"></a>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: nowrap;">
+<!--<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: nowrap;">
   <img src="{{'/assets/img/cinc_2026/palacio_cristal.jpg' | relative_url}}" alt="Palacio de Cristal" style="width: 450px; height: auto;">
   <img src="{{'/assets/img/cinc_2026/retiro.jpg' | relative_url}}" alt="Retiro" style="width: 450px; height: auto;">
 </div>
 
 
-<br><br>
+<br><br>-->
 
-CinC 2026 will be mostly held in the Retiro district of Madrid, located very close to the center of Madrid, takes its name from the iconic Retiro Park—one of the city’s most beloved green spaces—and is just steps away from the Prado Museum, making it a premier destination for culture and nature, and it is easily accesible from [Adolfo Suárez - Barajas Airport and Main Train Stations](../midtown/#publicTransport). 
+CinC 2026 will be mostly held in the Retiro district of Madrid, located very close to the center of Madrid,  and it is easily accesible from [Adolfo Suárez - Barajas Airport and Main Train Stations](../midtown/#publicTransport). 
 {: .text-justify} 
+
+<!--takes its name from the iconic Retiro Park—one of the city’s most beloved green spaces—and is just steps away from the Prado Museum, making it a premier destination for culture and nature,-->
 
 * [CinC 2026 main Venue Conference](../venue/#venue)
 * [Sunday Symposium Venue](../venue/#ssvenue)

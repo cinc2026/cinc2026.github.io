@@ -4,6 +4,10 @@ layout: single
 author_profile: true
 permalink: /activities/
 ---
+
+[Madrid Tourism Information](https://www.esmadrid.com/)
+
+
 <a name="top"></a>
 You will find information about Monday afternoon activities. CinC 2026 Madrid. 
 {: .text-justify}
@@ -12,11 +16,13 @@ You will find information about Monday afternoon activities. CinC 2026 Madrid.
 
 ## For Activists
 
-### 🥾 Sierra de Guadarrama Hike
+<!-- ### 🥾 Sierra de Guadarrama Hike -->
+### Hike
 
-**Breathe the mountain air above Madrid!** - *limited to 50 participants*
+<!--**Breathe the mountain air above Madrid!** - *limited to 50 participants* -->
+*limited to 50 participants*
 
-<div id="sierra-carousel" class="splide" aria-label="Sierra de Guadarrama" style="max-width: 600px; margin: 1em 0;">
+<!--<div id="sierra-carousel" class="splide" aria-label="Sierra de Guadarrama" style="max-width: 600px; margin: 1em 0;">
   <div class="splide__track">
     <ul class="splide__list">
       <li class="splide__slide">
@@ -27,9 +33,10 @@ You will find information about Monday afternoon activities. CinC 2026 Madrid.
       </li>
     </ul>
   </div>
-</div>
+</div> -->
 
-<script>
+
+<!--<script>
   document.addEventListener('DOMContentLoaded', function () {
     new Splide('#sierra-carousel', {
       type: 'fade',
@@ -42,13 +49,18 @@ You will find information about Monday afternoon activities. CinC 2026 Madrid.
       arrows: true,
     }).mount();
   });
-</script>
+</script>-->
 
-Escape the city and discover the stunning landscapes of the **Sierra de Guadarrama**, just an hour from Madrid. Two routes are on offer:
-{: .text-justify}
+<!--Escape the city and discover the stunning landscapes of the **Sierra de Guadarrama**, just an hour from Madrid. Two routes are on offer:
+{: .text-justify}-->
+Two routes are on offer:
 
-- **Puerto de La Morcuera** *(1,796 m)*: A scenic mountain pass with sweeping panoramic views over the valleys of Madrid and Guadalajara. The surrounding area offers gentle woodland trails through oak and pine forests, ideal for all fitness levels.
-- **Puerto de Navacerrada** *(1,860 m)*: One of the most iconic high-altitude passes in the range, offering dramatic ridgeline scenery and access to the classic trails of the Siete Picos area.
+- **Puerto de La Morcuera** *(1,796 m)*: 
+
+<!--A scenic mountain pass with sweeping panoramic views over the valleys of Madrid and Guadalajara. The surrounding area offers gentle woodland trails through oak and pine forests, ideal for all fitness levels.-->
+- **Puerto de Navacerrada** *(1,860 m)*: 
+
+<!--One of the most iconic high-altitude passes in the range, offering dramatic ridgeline scenery and access to the classic trails of the Siete Picos area.-->
 
 <div style="background-color: #e8f5e9; border-left: 4px solid #66bb6a; padding: 0.8em 1.2em; border-radius: 4px;">
 <strong>👟 What to wear:</strong> Comfortable walking or hiking shoes, layered clothing (mountain temperatures can be cool even in September), sunscreen, and a water bottle.
@@ -56,20 +68,25 @@ Escape the city and discover the stunning landscapes of the **Sierra de Guadarra
 
 ---
 
-### 🛶 [Tajo River Kayak Tour in Aranjuez](https://www.piraguismoaranjuez.com/){: target='blank'} 
+<!--### 🛶 [Tajo River Kayak Tour in Aranjuez](https://www.piraguismoaranjuez.com/){: target='blank'} -->
+
+### 🛶 [Kayak in Aranjuez](https://www.piraguismoaranjuez.com/){: target='blank'} 
+
 
 <img src="/assets/img/cinc_2026/activities/logo_cepa.jpg" alt="CEPA Logo" style="max-width: 200px; display: block; margin-bottom: 1em;">
 
-**Discover the Tagus River from the water!** - *limited to 50 participants*
+<!--**Discover the Tagus River from the water!** - -->
 
-<img src="/assets/img/cinc_2026/activities/kayak_aranjuez.jpg" alt="Kayak Aranjuez" style="float: left; max-width: 50%; margin: 0 1.5em 1em 0;">
+*limited to 50 participants*
 
-Enjoy a unique guided tour along the **Tagus River as it flows through the Royal Site of Aranjuez, a UNESCO World Heritage landscape**. Navigate the calm waters surrounded by lush riverside gardens and the iconic royal palaces, while expert guides share the rich history and natural heritage of this exceptional setting. This is a perfect way to experience Aranjuez from a completely different perspective.
-{: .text-justify}
+<!--<img src="/assets/img/cinc_2026/activities/kayak_aranjuez.jpg" alt="Kayak Aranjuez" style="float: left; max-width: 50%; margin: 0 1.5em 1em 0;">-->
 
-<div style="clear: both;"></div>
+<!--Enjoy a unique guided tour along the **Tagus River as it flows through the Royal Site of Aranjuez, a UNESCO World Heritage landscape**. Navigate the calm waters surrounded by lush riverside gardens and the iconic royal palaces, while expert guides share the rich history and natural heritage of this exceptional setting. This is a perfect way to experience Aranjuez from a completely different perspective.
+{: .text-justify}-->
 
-<div style="background-color: #e8f5e9; border-left: 4px solid #66bb6a; padding: 0.8em 1.2em; border-radius: 4px;">
+<!--<div style="clear: both;"></div>
+
+<div style="background-color: #e8f5e9; border-left: 4px solid #66bb6a; padding: 0.8em 1.2em; border-radius: 4px;">-->
 <strong>👕 What to wear:</strong> Please bring comfortable clothing suitable for water activities — swimwear or sport shorts, a light t-shirt, flip-flops or water shoes, and a change of clothes for afterwards. Changing rooms, lockers, and waterproof containers are available on site.
 </div>
 
@@ -78,24 +95,31 @@ Enjoy a unique guided tour along the **Tagus River as it flows through the Royal
 
 ## **For Passivists**
 
-### ⚽ Visit to Cívitas Metropolitano Stadium
+<!--### ⚽ Visit to Cívitas Metropolitano Stadium-->
 
-**Experience one of Europe's finest football cathedrals!** - *limited to 50 participants*
+### Visit to Metropolitano Stadium
 
-<img src="/assets/img/cinc_2026/activities/metropolitano.jpg" alt="Cívitas Metropolitano Stadium" style="float: left; max-width: 50%; margin: 0 1.5em 1em 0;">
 
-Discover **Cívitas Metropolitano**, the home of Atlético de Madrid and one of the most impressive football stadiums in Europe, with a capacity of over 68,000 spectators. The guided stadium tour takes you through the players' tunnel, the dressing rooms, the press room, and the pitch side, offering an unforgettable behind-the-scenes experience. The stadium also hosted the 2019 UEFA Champions League Final.
-{: .text-justify}
+<!--**Experience one of Europe's finest football cathedrals!** - -->
+*limited to 50 participants*
+
+<!--<img src="/assets/img/cinc_2026/activities/metropolitano.jpg" alt="Cívitas Metropolitano Stadium" style="float: left; max-width: 50%; margin: 0 1.5em 1em 0;"> -->
+
+<!-- Discover **Cívitas Metropolitano**, the home of Atlético de Madrid and one of the most impressive football stadiums in Europe, with a capacity of over 68,000 spectators. The guided stadium tour takes you through the players' tunnel, the dressing rooms, the press room, and the pitch side, offering an unforgettable behind-the-scenes experience. The stadium also hosted the 2019 UEFA Champions League Final.
+{: .text-justify} -->
 
 <div style="clear: both;"></div>
 
 ---
 
-### 🏛️ Walking Tour: Habsburg Madrid
+<!-- ### 🏛️ Walking Tour: Habsburg Madrid -->
+### Walking Tour
 
-**Step back into the Golden Age of Spain!**
+Madrid walking tour.
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css">
+<!-- **Step back into the Golden Age of Spain!** -->
+
+<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css">
 
 <div id="austrias-carousel" class="splide" aria-label="Habsburg Madrid Photos" style="max-width: 600px; margin: 1em 0;">
   <div class="splide__track">
@@ -127,7 +151,7 @@ Discover **Cívitas Metropolitano**, the home of Atlético de Madrid and one of 
 </script>
 
 Explore the historic heart of Madrid on a guided walking tour through the **Habsburg quarter**, one of the best-preserved Renaissance and Baroque urban ensembles in Europe. Stroll through the iconic **Plaza Mayor**, wander the narrow streets of the old city, and admire the grandeur of the **Royal Palace**, official residence of the Spanish Crown. Your guide will bring to life the fascinating stories of the Spanish Empire and the monarchs who shaped the city's identity during the 16th and 17th centuries.
-{: .text-justify}
+{: .text-justify} -->
 
 &nbsp;
 

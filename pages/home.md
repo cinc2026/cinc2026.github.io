@@ -13,12 +13,12 @@ permalink: /
       <li class="splide__slide">
         <img src="{{'/assets/img/cinc_2026/banner_cinc_2026.jpg' | relative_url}}" alt="CinC 2026 Banner" style="width:100%; max-height:450px; object-fit:contain;">
       </li>
-      <li class="splide__slide">
+      <!-- <li class="splide__slide">
         <img src="{{'/assets/img/cinc_2026/royal_palace.jpg' | relative_url}}" alt="Royal Palace" style="width:100%; max-height:450px; object-fit:cover;">
       </li>
       <li class="splide__slide">
         <img src="{{'/assets/img/cinc_2026/plaza_mayor.jpg' | relative_url}}" alt="Plaza Mayor" style="width:100%; max-height:450px; object-fit:cover;">
-      </li>
+      </li> -->
     </ul>
   </div>
 </div>
@@ -66,7 +66,8 @@ We warmly invite you to the **53rd Computing in Cardiology conference** in **Mad
 {: .text-justify}
 
 ## Madrid, Spain
-Madrid, the host city of CinC 2026, is the capital of Spain and a natural meeting point at the heart of the Iberian Peninsula. It is a vibrant, inclusive, and remarkably safe city, where visitors can enjoy the full spectrum of what it has to offer simply by walking through its streets — from grand boulevards and historic plazas to lively neighborhoods full of character. 
+<!--Madrid, the host city of CinC 2026, is the capital of Spain and a natural meeting point at the heart of the Iberian Peninsula. It is a vibrant, inclusive, and remarkably safe city, where visitors can enjoy the full spectrum of what it has to offer simply by walking through its streets — from grand boulevards and historic plazas to lively neighborhoods full of character. -->
+Madrid, the host city of CinC 2026, is the capital of Spain and a natural meeting point at the heart of the Iberian Peninsula.
 {: .text-justify}
 
 ## CinC 2026 Organizing Committee
