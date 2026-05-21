@@ -1,5 +1,5 @@
 ---
-title: "Social Activities"
+title: "Networking Social Activities"
 layout: single
 author_profile: true
 permalink: /activities/
@@ -9,7 +9,7 @@ permalink: /activities/
 
 
 <a name="top"></a>
-You will find information about Monday afternoon activities. CinC 2026 Madrid. 
+You will find information about Monday networking afternoon activities. CinC 2026 Madrid. 
 {: .text-justify}
 <p class="notice--warning">
 	<strong>Note:</strong> <strong>Every activity will have limit number of participants</strong>. Once the participant count reaches the limit, you will not be able to join the activity. The <strong>"first-come first-served"</strong> rule will be applied for all activities.</p>
