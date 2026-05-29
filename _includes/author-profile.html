@@ -282,4 +282,20 @@
     </div>
   </div>
   {% endif %}
+
+  {% if author.support %}
+  <div class="author__support" style="margin-top: 0.5em;">
+    <h4 style="margin-bottom: 1em; font-weight: bold; font-size: 0.9em; color: #9b4254;">
+      Supported by</h4>
+    <div
+      style="display: flex; flex-direction: column; align-items: flex-start; gap: 1.5em; margin-bottom: 1.5em; padding-left: 0.5em;">
+      {% for sup in author.support %}
+      <a href="{{ sup.url }}" target="_blank" rel="noopener noreferrer">
+        <img src="{{ sup.image | relative_url }}" alt="{{ sup.name }}"
+          style="max-width: 90%; width: 180px; height: auto;">
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
 </div>

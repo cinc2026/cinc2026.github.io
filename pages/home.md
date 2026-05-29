@@ -194,6 +194,11 @@ blockquote {
     <div class="name"><a href="https://servicios.urjc.es/pdi/ver/sergio.rozada" target="_blank">Sergio Rozada</a></div>
     <div class="affiliation">University Rey Juan Carlos</div>
   </div>
+  <div class="committee-member">
+    <img src="{{'/assets/img/cinc_2026/fsc.jpg' | relative_url}}" alt="Francisco Suárez">
+    <div class="name"><a href="https://servicios.urjc.es/pdi/ver/francisco.suarez" target="_blank">Francisco Suárez Castro</a></div>
+    <div class="affiliation">University Rey Juan Carlos</div>
+  </div>
 </div>
 
 
@@ -204,6 +209,16 @@ blockquote {
 <!-- | <img src="/assets/img/urjc.jpg" alt="" height=150 width=150/> || <img src="/assets/img/eif.jpg" alt="" height=150 width=150/> | -->
 
 
+
+&nbsp;
+
+## Supported by
+
+<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap; margin: 20px 0;">
+  <a href="https://www.physoc.org/" target="_blank">
+    <img src="{{'/assets/img/cinc_2026/endorsement/psl_logo.jpg' | relative_url}}" alt="The Physiological Society" style="height: 100px; width: auto;">
+  </a>
+</div>
 
 &nbsp;
 

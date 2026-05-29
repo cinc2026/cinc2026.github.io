@@ -159,6 +159,10 @@ author:
     - name: "MICCAI"
       image: "assets/img/cinc_2026/endorsement/MICCAI-Logo-Vert_Light.png"
       url: "https://miccai.org/"
+  support:
+    - name: "The Physiological Society"
+      image: "assets/img/cinc_2026/endorsement/psl_logo.jpg"
+      url: "https://www.physoc.org/"
   #  - label: "Contacts"
   #    icon: "fas fa-fw fa-envelope"
   #    url: "/contact/"
