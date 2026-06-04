@@ -11,6 +11,8 @@ permalink: /activities/
 <a name="top"></a>
 You will find information about Monday networking afternoon activities. CinC 2026 Madrid. 
 {: .text-justify}
+<p class="notice--info">
+	<strong>Important:</strong> Attendees must <strong>select one of the following activities during the registration process</strong>. Please review the options below and choose the one you prefer when completing your registration</a>.</p>
 <p class="notice--warning">
 	<strong>Note:</strong> <strong>Every activity will have limit number of participants</strong>. Once the participant count reaches the limit, you will not be able to join the activity. The <strong>"first-come first-served"</strong> rule will be applied for all activities.</p>
 
