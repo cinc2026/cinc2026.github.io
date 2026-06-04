@@ -40,6 +40,8 @@ permalink: /gala/
 </script>
 
 The **CinC 2026 Gala Dinner** will be held at **Hotel Meliá Castilla Madrid** — an ideal setting for scientific networking with colleagues from around the world.
+
+<!--Join us for the CinC 2026 Gala Dinner at the prestigious Hotel Meliá Castilla Madrid, one of Madrid’s landmark hotels. An elegant evening of fine dining, music, and celebration awaits — the perfect occasion to connect with colleagues from around the world in a truly memorable setting.--> 
 {: .text-justify}
 
 ---
