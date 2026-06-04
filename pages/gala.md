@@ -50,7 +50,7 @@ The **CinC 2026 Gala Dinner** will be held at **Hotel Meliá Castilla Madrid** �
 
 | | |
 |---|---|
-| **When** |Monday, September 20, 2026 <!--time TBD--> |
+| **When** |Monday, September 21, 2026 <!--time TBD--> |
 | **Where** | [Hotel Meliá Castilla](https://www.melia.com/en/hotels/spain/madrid/melia-castilla/index.htm){: target="_blank"}, Madrid |
 | **Address** | [Calle del Poeta Joan Maragall, 43, 28020 Madrid](https://maps.app.goo.gl/){: target="_blank"} |
 
