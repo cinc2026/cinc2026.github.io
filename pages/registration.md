@@ -7,7 +7,9 @@ permalink: /registration/
 <a name="top"></a>
 This page provides information about registration.
 
-**Onsite registration** includes participation to all scientific sessions, catering during the coffee breaks and lunches, networking events on Monday afternoon, the gala dinner on Monday evening, the participant bag, access to the conference app, and of course stimulating time with the Computing in Cardiology community. A coffee break (coffee, tea, water, pastry) is included on Sunday, Monday, Tuesday and Wednesday. Lunch (including vegan options) is included on Monday (box lunch), Tuesday and Wednesday. Dinner is included on Monday.
+**Onsite registration** *(standard / non-HCP)* includes participation to all scientific sessions, catering during the coffee breaks and lunches, networking events on Monday afternoon, the gala dinner on Monday evening, the participant bag, access to the conference app, and of course stimulating time with the Computing in Cardiology community. A coffee break (coffee, tea, water, pastry) is included on Sunday, Monday, Tuesday and Wednesday. Lunch (including vegan options) is included on Monday (box lunch), Tuesday and Wednesday.
+
+**Onsite registration** *(HCP — Health Care Professionals)* includes participation to all scientific sessions, coffee breaks and lunches (same as above), the participant bag, and access to the conference app. Social events (Monday afternoon networking and the gala dinner on Monday evening) are **not** included in the standard HCP fee but can be added separately.
 
 <!--Drinks and nibbles are included during the Sunday Welcome Reception and the Tuesday reception at the City Hall. Dinner is included on Monday.-->
 
