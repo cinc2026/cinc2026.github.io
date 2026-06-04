@@ -20,6 +20,7 @@ permalink: /faq/
 * [LGBTQ+](#lgbtq)
 <!--* [Room for prayers](#prayer-room)-->
 * [Is Madrid a safe place?](#safety)
+* [Still have questions?](#contact)
 <!--* [Why is the Chair Person listed as presenter for my talk / poster?](/#chair-as-presenter)-->
 <!--* [Why does my poster show up as (remote) presentation?](#poster-remote)-->
 
@@ -69,7 +70,10 @@ The [Foreign Tourist Assistance Service](https://www.esmadrid.com/en/tourist-inf
 {: .text-justify}
 
 
+## <a name="contact"></a>Still have questions?
 
+If your question is not answered above, please do not hesitate to contact us at [cinc2026@eventsgb.com](mailto:cinc2026@eventsgb.com). We will be happy to help you.
+{: .text-justify}
 
 [TOP of Page](#top){: .btn}
 
