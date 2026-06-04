@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"\\\\\\\\wsl.localhost\\\\Ubuntu\\\\home\\\\obarquero\\\\cinc2026.github.io\" remote -v)"
+    ]
+  }
+}
