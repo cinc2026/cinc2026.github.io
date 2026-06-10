@@ -12,17 +12,19 @@ permalink: /activities/
 You will find information about Monday networking afternoon activities. CinC 2026 Madrid. 
 {: .text-justify}
 <p class="notice--info">
-	<strong>Important:</strong> Attendees must <strong>select one of the following activities during the registration process</strong>. Please review the options below and choose the one you prefer when completing your registration</a>.</p>
+	<strong>Important:</strong> Attendees must <strong>select one of the following activities during the registration process</strong>. Please review the options below and choose the one you prefer when completing your registration. <strong>Social activities are not included in the HCP registration, see <a href="https://cinc.org/registration_fees_2025/">registration fees site</a>.</strong></p>
 <p class="notice--warning">
-	<strong>Note:</strong> <strong>Every activity will have limit number of participants</strong>. Once the participant count reaches the limit, you will not be able to join the activity. The <strong>"first-come first-served"</strong> rule will be applied for all activities.</p>
+	<strong>Note:</strong> <strong>Some of the activities have a limit on the number of participants</strong>. Once the participant count reaches the limit, you will not be able to join the activity. The <strong>"first-come first-served"</strong> rule will be applied for these activities.</p>
 
 ## For Activists
 
 <!-- ### 🥾 Sierra de Guadarrama Hike -->
-### Hike
+### Option 1. Hike
 
 <!--**Breathe the mountain air above Madrid!** - *limited to 50 participants* -->
-*limited to 50 participants*
+*limited to 100 participants: 50 each route*.
+
+Select one of the following routes.
 
 <!--<div id="sierra-carousel" class="splide" aria-label="Sierra de Guadarrama" style="max-width: 600px; margin: 1em 0;">
   <div class="splide__track">
@@ -55,12 +57,22 @@ You will find information about Monday networking afternoon activities. CinC 202
 
 <!--Escape the city and discover the stunning landscapes of the **Sierra de Guadarrama**, just an hour from Madrid. Two routes are on offer:
 {: .text-justify}-->
-Two routes are on offer:
 
-- **Puerto de La Morcuera** *(1,796 m)*: 
 
-<!--A scenic mountain pass with sweeping panoramic views over the valleys of Madrid and Guadalajara. The surrounding area offers gentle woodland trails through oak and pine forests, ideal for all fitness levels.-->
-- **Puerto de Navacerrada** *(1,860 m)*: 
+**Puerto de La Morcuera** *(1,796 m)*: Two route options are available:
+
+#### Option 1-Route A:
+From Puerto de la Morcuera, a steep ascent to Pico Najarra (2,120 m). Traverse along Cuerda Larga to the Najarra refuge.
+<!--Magnificent views on both sides of the ridge: Madrid to the south, the Peñalara massif to the north. Descent to Collado de la Najarra and a moderate ascent to Pico Bailanderos (2,130 m). Return to the pass via the valley on an easy and fast traverse.-->
+
+#### Option 1-Route B:
+From Puerto de la Morcuera, a gentle ascending traverse to Collado de la Najarra.
+
+<!-- Spectacular views of the rocky formations above the Hueco de San Blas and of the foothills of the Sierra. Continued ascent to the top of Cuerda Larga toward the Najarra refuge. Flat traverse to Pico Najarra with time for photos. Impressive views of the Ayllón and Peñalara mountain ranges. Steep descent back to Puerto de la Morcuera.-->
+
+*Bus time: 1.5 hours each way — Estimated hiking time: 3 hours*
+
+<!--A scenic mountain pass with sweeping panoramic views over the valleys of Madrid and Guadalajara. The surrounding area : 
 
 <!--One of the most iconic high-altitude passes in the range, offering dramatic ridgeline scenery and access to the classic trails of the Siete Picos area.-->
 
@@ -72,7 +84,7 @@ Two routes are on offer:
 
 <!--### 🛶 [Tajo River Kayak Tour in Aranjuez](https://www.piraguismoaranjuez.com/){: target='blank'} -->
 
-### 🛶 [Kayak in Aranjuez](https://www.piraguismoaranjuez.com/){: target='blank'} 
+### Option 2. 🛶 [Kayak in Aranjuez](https://www.piraguismoaranjuez.com/){: target='blank'} 
 
 
 <img src="/assets/img/cinc_2026/activities/logo_cepa.jpg" alt="CEPA Logo" style="max-width: 200px; display: block; margin-bottom: 1em;">
@@ -86,9 +98,9 @@ Two routes are on offer:
 <!--Enjoy a unique guided tour along the **Tagus River as it flows through the Royal Site of Aranjuez, a UNESCO World Heritage landscape**. Navigate the calm waters surrounded by lush riverside gardens and the iconic royal palaces, while expert guides share the rich history and natural heritage of this exceptional setting. This is a perfect way to experience Aranjuez from a completely different perspective.
 {: .text-justify}-->
 
-<!--<div style="clear: both;"></div>
+<!--<div style="clear: both;"></div>-->
 
-<div style="background-color: #e8f5e9; border-left: 4px solid #66bb6a; padding: 0.8em 1.2em; border-radius: 4px;">-->
+<div style="background-color: #e8f5e9; border-left: 4px solid #66bb6a; padding: 0.8em 1.2em; border-radius: 4px;">
 <strong>👕 What to wear:</strong> Please bring comfortable clothing suitable for water activities — swimwear or sport shorts, a light t-shirt, flip-flops or water shoes, and a change of clothes for afterwards. Changing rooms, lockers, and waterproof containers are available on site.
 </div>
 
@@ -99,11 +111,14 @@ Two routes are on offer:
 
 <!--### ⚽ Visit to Cívitas Metropolitano Stadium-->
 
-### Visit to Metropolitano Stadium
+### Option 3. Visit to Metropolitano Stadium
+
+A guided stadium tour.
+
 
 
 <!--**Experience one of Europe's finest football cathedrals!** - -->
-*limited to 50 participants*
+
 
 <!--<img src="/assets/img/cinc_2026/activities/metropolitano.jpg" alt="Cívitas Metropolitano Stadium" style="float: left; max-width: 50%; margin: 0 1.5em 1em 0;"> -->
 
@@ -115,9 +130,19 @@ Two routes are on offer:
 ---
 
 <!-- ### 🏛️ Walking Tour: Habsburg Madrid -->
-### Walking Tour
+### Option 4. Walking Tour
 
-Madrid walking tour.
+Madrid walking tour. Select one of the following routes.
+
+#### Option 4-Route A:
+Madrid de los Austrias Walking Tour. 
+
+
+#### Option 4-Route B:
+Madrid Highlights: A walking tour from Royal Palace to Prado.
+
+
+
 
 <!-- **Step back into the Golden Age of Spain!** -->
 
@@ -154,6 +179,14 @@ Madrid walking tour.
 
 Explore the historic heart of Madrid on a guided walking tour through the **Habsburg quarter**, one of the best-preserved Renaissance and Baroque urban ensembles in Europe. Stroll through the iconic **Plaza Mayor**, wander the narrow streets of the old city, and admire the grandeur of the **Royal Palace**, official residence of the Spanish Crown. Your guide will bring to life the fascinating stories of the Spanish Empire and the monarchs who shaped the city's identity during the 16th and 17th centuries.
 {: .text-justify} -->
+
+### Option 5. Prado Museum Highlights Tour
+
+Limited to 19 people.  Duration: 2 hours
+
+Meet at the North Entrance (Puerta de Goya).
+
+
 
 &nbsp;
 
