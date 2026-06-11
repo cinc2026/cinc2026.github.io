@@ -67,9 +67,9 @@ All services provide direct high-speed connections to major Spanish cities, incl
 
 Madrid has two main railway stations for high-speed train services:
 
-* **Madrid-Atocha**: The largest and busiest station, connecting Madrid to southern and eastern Spain—including cities like Seville, Málaga, Córdoba, Valencia, and Alicante—as well as international destinations such as France. It also provides connections to regional commuter trains and the metro
+* **Madrid-Atocha**: The largest and busiest station, connecting Madrid mainly to southern Spain—including cities like Seville, Málaga, Córdoba, northeast (Barcelona, Zaragoza) and as well as international destinations such as France. It also provides connections to regional commuter trains and the metro
 {: .text-justify}
-* **Madrid-Chamartín**: The primary hub for northern and northwestern routes, serving Barcelona, Zaragoza, Galicia, Asturias, and other cities in northern Spain. It also provides connections to regional commuter trains and the metro.
+* **Madrid-Chamartín**: Recently renovated, this station is the main hub for northern and northwestern routes (Galicia, Asturias, Pais Vasco). It also serves as a major stop for high-speed trains to the east (Valencia, Alicante, Murcia). It also provides connections to regional commuter trains and the metro.
 {: .text-justify}
 
 Both stations are well-integrated into Madrid’s public transport network via metro and bus lines, making transfers easy and efficient for travelers arriving from or departing to any part of the city.
