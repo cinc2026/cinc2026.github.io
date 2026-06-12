@@ -54,9 +54,9 @@ The **CinC 2026 Gala Dinner** will be held at **Hotel Meliá Castilla Madrid** �
 | **Where** | [Hotel Meliá Castilla](https://www.melia.com/en/hotels/spain/madrid/melia-castilla/index.htm){: target="_blank"}, Madrid |
 | **Address** | [Calle del Poeta Joan Maragall, 43, 28020 Madrid](https://maps.app.goo.gl/){: target="_blank"} |
 
-<!--<p class="notice--info">
-  <strong>Note:</strong> Attendance at the Gala Dinner is included for all registered CinC 2026 participants.
-</p>-->
+<p class="notice--warning">
+  <strong>Note for Health Care Professionals (HCP):</strong> The Gala Dinner is <strong>not</strong> included in the standard HCP registration fee. See the <a href="/registration/">Registration page</a> for details.
+</p>
 
 ---
 
