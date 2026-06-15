@@ -19,7 +19,9 @@ Each person who will attend CinC must register as a participant one time, even i
 
 <span style="color: #8B0000;">**NEW: Starting this year and for practical reasons, all presenters will be required to register at least two weeks before the Sunday Symposium. Failure to comply with this rule will result in withdrawal from the program, and the corresponding paper will not be published. In case of any difficulties, please contact program@cinc.org.**</span>
 
-## Registration Fees 2026 in €
+## [Complete Registration Fees Information](https://cinc.org/registration_fees_2026/){: target="_blank"}
+
+<!--## Registration Fees 2026 in €
 
 ### Early bird rates (until July 31)
 
@@ -61,12 +63,12 @@ Each person who will attend CinC must register as a participant one time, even i
 |---|---:|
 | Standard-No social events | €850 |
 | Social event | €180 |
-| Single Day-No social events | €205 |
+| Single Day-No social events | €205 |-->
 
 
 In addition to registering to the conference you will also need to arrange your travel and accommodation. You will find a wealth of general information on the CinC 2026 local site for travel info by [clicking here](https://cinc2026.org/travel/){: target="_blank"}.
 
-More details about registration fees on the main CinC website [www.cinc.org/registration_fees_2025/](https://cinc.org/registration_fees_2025/){: target="_blank"}
+<!--More details about registration fees on the main CinC website [www.cinc.org/registration_fees_2025/](https://cinc.org/registration_fees_2025/){: target="_blank"}-->
 
 
 To register [click here](https://softconf.com/p/cinc2026/login/){: target="_blank"}
