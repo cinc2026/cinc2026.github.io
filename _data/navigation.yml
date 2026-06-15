@@ -17,7 +17,9 @@ main:
   - title: "Sponsors"
     url: "/sponsors/"
   - title: "PhysioNet Challenge"
-    url: "/challenge/"
+    url: "https://moody-challenge.physionet.org/2026/"
+    target: _blank
+    rel: noopener noreferrer
   - title: "FAQ"
     url: "/faq/"
   - title: "CinC Home"

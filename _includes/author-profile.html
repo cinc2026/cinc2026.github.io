@@ -36,8 +36,7 @@
       {% if author.links %}
       {% for link in author.links %}
       {% if link.label and link.url %}
-      <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer me" {% if link.url contains 'http' %}
-          itemprop="sameAs" {% endif %}>
+      <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer me" {% if link.url contains 'http' %}itemprop="sameAs" {% endif %}{% if link.target %}target="{{ link.target }}" {% endif %}>
           {% if link.image %}
           <img src="{{ link.image | relative_url }}" alt=""
             style="width: 1.25em; height: 1.25em; vertical-align: middle; margin-right: 0.5em;">

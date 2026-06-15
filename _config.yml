@@ -139,7 +139,8 @@ author:
       url: "/sponsors/"
     - label: "PhysioNet Challenge"
       icon: "fas fa-fw fa-puzzle-piece"
-      url: "/challenge/"
+      url: "https://moody-challenge.physionet.org/2026/"
+      target: _blank
     - label: "FAQ"
       icon: "fas fa-fw fa-question"
       url: "/faq/"
