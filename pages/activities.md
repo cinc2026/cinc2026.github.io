@@ -18,15 +18,16 @@ You will find information about Monday networking afternoon activities. CinC 202
 
 ## For Activists
 
-<!-- ### 🥾 Sierra de Guadarrama Hike -->
+### 🥾 Sierra de Guadarrama Hike
 ### Option 1. Hike
 
-<!--**Breathe the mountain air above Madrid!** - *limited to 50 participants* -->
-*limited to 100 participants: 50 each route*.
 
-Select one of the following routes.
+**Breathe the mountain air above Madrid!** - <span style="color: red; font-style: italic;">limited to 100 participants: 50 each route</span>.
 
-<!--<div id="sierra-carousel" class="splide" aria-label="Sierra de Guadarrama" style="max-width: 600px; margin: 1em 0;">
+Escape the city and discover the stunning landscapes of the **Sierra de Guadarrama**, just an hour from Madrid. Two routes are on offer:
+{: .text-justify}
+
+<div id="sierra-carousel" class="splide" aria-label="Sierra de Guadarrama" style="max-width: 600px; margin: 1em 0;">
   <div class="splide__track">
     <ul class="splide__list">
       <li class="splide__slide">
@@ -37,10 +38,10 @@ Select one of the following routes.
       </li>
     </ul>
   </div>
-</div> -->
+</div>
 
 
-<!--<script>
+<script>
   document.addEventListener('DOMContentLoaded', function () {
     new Splide('#sierra-carousel', {
       type: 'fade',
@@ -53,22 +54,16 @@ Select one of the following routes.
       arrows: true,
     }).mount();
   });
-</script>-->
-
-<!--Escape the city and discover the stunning landscapes of the **Sierra de Guadarrama**, just an hour from Madrid. Two routes are on offer:
-{: .text-justify}-->
+</script>
 
 
 **Puerto de La Morcuera** *(1,796 m)*: Two route options are available:
 
 #### Option 1-Route A:
-From Puerto de la Morcuera, a steep ascent to Pico Najarra (2,120 m). Traverse along Cuerda Larga to the Najarra refuge.
-<!--Magnificent views on both sides of the ridge: Madrid to the south, the Peñalara massif to the north. Descent to Collado de la Najarra and a moderate ascent to Pico Bailanderos (2,130 m). Return to the pass via the valley on an easy and fast traverse.-->
+From Puerto de la Morcuera, a steep ascent to Pico Najarra (2,120 m). Traverse along Cuerda Larga to the Najarra refuge. Magnificent views on both sides of the ridge: Madrid to the south, the Peñalara massif to the north. Descent to Collado de la Najarra and a moderate ascent to Pico Bailanderos (2,130 m). Return to the pass via the valley on an easy and fast traverse.
 
 #### Option 1-Route B:
-From Puerto de la Morcuera, a gentle ascending traverse to Collado de la Najarra.
-
-<!-- Spectacular views of the rocky formations above the Hueco de San Blas and of the foothills of the Sierra. Continued ascent to the top of Cuerda Larga toward the Najarra refuge. Flat traverse to Pico Najarra with time for photos. Impressive views of the Ayllón and Peñalara mountain ranges. Steep descent back to Puerto de la Morcuera.-->
+From Puerto de la Morcuera, a gentle ascending traverse to Collado de la Najarra. Spectacular views of the rocky formations above the Hueco de San Blas and of the foothills of the Sierra. Continued ascent to the top of Cuerda Larga toward the Najarra refuge. Flat traverse to Pico Najarra with time for photos. Impressive views of the Ayllón and Peñalara mountain ranges. Steep descent back to Puerto de la Morcuera.
 
 *Bus time: 1.5 hours each way — Estimated hiking time: 3 hours*
 
@@ -82,23 +77,21 @@ From Puerto de la Morcuera, a gentle ascending traverse to Collado de la Najarra
 
 ---
 
-<!--### 🛶 [Tajo River Kayak Tour in Aranjuez](https://www.piraguismoaranjuez.com/){: target='blank'} -->
+<!--### 🛶 [Tajo River Kayak Tour in Aranjuez](https://www.piraguismoaranjuez.com/){: target='blank'}-->
 
 ### Option 2. 🛶 [Kayak in Aranjuez](https://www.piraguismoaranjuez.com/){: target='blank'} 
 
 
 <img src="/assets/img/cinc_2026/activities/logo_cepa.jpg" alt="CEPA Logo" style="max-width: 200px; display: block; margin-bottom: 1em;">
 
-<!--**Discover the Tagus River from the water!** - -->
+**Discover the Tagus River from the water!** - <span style="color: red; font-style: italic;">limited to 50 participants</span>
 
-*limited to 50 participants*
+<img src="/assets/img/cinc_2026/activities/kayak_aranjuez.jpg" alt="Kayak Aranjuez" style="float: left; max-width: 50%; margin: 0 1.5em 1em 0;">
 
-<!--<img src="/assets/img/cinc_2026/activities/kayak_aranjuez.jpg" alt="Kayak Aranjuez" style="float: left; max-width: 50%; margin: 0 1.5em 1em 0;">-->
+Enjoy a unique guided tour along the **Tagus River as it flows through the Royal Site of Aranjuez, a UNESCO World Heritage landscape**. Navigate the calm waters surrounded by lush riverside gardens and the iconic royal palaces, while expert guides share the rich history and natural heritage of this exceptional setting. This is a perfect way to experience Aranjuez from a completely different perspective.
+{: .text-justify}
 
-<!--Enjoy a unique guided tour along the **Tagus River as it flows through the Royal Site of Aranjuez, a UNESCO World Heritage landscape**. Navigate the calm waters surrounded by lush riverside gardens and the iconic royal palaces, while expert guides share the rich history and natural heritage of this exceptional setting. This is a perfect way to experience Aranjuez from a completely different perspective.
-{: .text-justify}-->
-
-<!--<div style="clear: both;"></div>-->
+<div style="clear: both;"></div>
 
 <div style="background-color: #e8f5e9; border-left: 4px solid #66bb6a; padding: 0.8em 1.2em; border-radius: 4px;">
 <strong>👕 What to wear:</strong> Please bring comfortable clothing suitable for water activities — swimwear or sport shorts, a light t-shirt, flip-flops or water shoes, and a change of clothes for afterwards. Changing rooms, lockers, and waterproof containers are available on site.
@@ -117,13 +110,13 @@ A guided stadium tour.
 
 
 
-<!--**Experience one of Europe's finest football cathedrals!** - -->
+**Experience one of Europe's finest football cathedrals!**
 
 
-<!--<img src="/assets/img/cinc_2026/activities/metropolitano.jpg" alt="Cívitas Metropolitano Stadium" style="float: left; max-width: 50%; margin: 0 1.5em 1em 0;"> -->
+<img src="/assets/img/cinc_2026/activities/metropolitano.jpg" alt="Cívitas Metropolitano Stadium" style="float: left; max-width: 50%; margin: 0 1.5em 1em 0;">
 
-<!-- Discover **Cívitas Metropolitano**, the home of Atlético de Madrid and one of the most impressive football stadiums in Europe, with a capacity of over 68,000 spectators. The guided stadium tour takes you through the players' tunnel, the dressing rooms, the press room, and the pitch side, offering an unforgettable behind-the-scenes experience. The stadium also hosted the 2019 UEFA Champions League Final.
-{: .text-justify} -->
+Discover **Cívitas Metropolitano**, the home of Atlético de Madrid and one of the most impressive football stadiums in Europe, with a capacity of over 68,000 spectators. The guided stadium tour takes you through the players' tunnel, the dressing rooms, the press room, and the pitch side, offering an unforgettable behind-the-scenes experience. The stadium also hosted the 2019 UEFA Champions League Final.
+{: .text-justify}
 
 <div style="clear: both;"></div>
 
@@ -134,19 +127,8 @@ A guided stadium tour.
 
 Madrid walking tour. Select one of the following routes.
 
-#### Option 4-Route A:
-Madrid de los Austrias Walking Tour. 
 
-
-#### Option 4-Route B:
-Madrid Highlights: A walking tour from Royal Palace to Prado.
-
-
-
-
-<!-- **Step back into the Golden Age of Spain!** -->
-
-<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css">
 
 <div id="austrias-carousel" class="splide" aria-label="Habsburg Madrid Photos" style="max-width: 600px; margin: 1em 0;">
   <div class="splide__track">
@@ -177,12 +159,39 @@ Madrid Highlights: A walking tour from Royal Palace to Prado.
   });
 </script>
 
-Explore the historic heart of Madrid on a guided walking tour through the **Habsburg quarter**, one of the best-preserved Renaissance and Baroque urban ensembles in Europe. Stroll through the iconic **Plaza Mayor**, wander the narrow streets of the old city, and admire the grandeur of the **Royal Palace**, official residence of the Spanish Crown. Your guide will bring to life the fascinating stories of the Spanish Empire and the monarchs who shaped the city's identity during the 16th and 17th centuries.
-{: .text-justify} -->
+#### Option 4-Route A:
+Madrid de los Austrias Walking Tour. 
+The tour begins at the outstanding Plaza de Oriente, near the majestic Royal Palace, and explores the historic center of the city developed during the Habsburg period. Along the way, visitors see important landmarks such as the Royal Palace, Almudena Cathedral, and Plaza Mayor, while learning about history, legends and the Madrilenian way of life. Of course, some tips about our gastronomy will be provided. The tour finishes at Puerta del Sol, the lively heart of Madrid. Overall, it´s a very entertaining way to provide an  insight into the city’s history, architecture, and cultural importance during the 16th and 17th centuries while getting to know some restaurants and taverns to enjoy some tapas.
+
+Duration: 2 hours 
+
+
+
+#### Option 4-Route B:
+Madrid Highlights: A walking tour from Royal Palace to Prado.
+
+This journey through history begin at Plaza de Oriente, surrounded by gardens and the imposing Royal Palace. From there, a walk along Calle Mayor, full of history and centuries-old buildings will take us to Plaza de la Villa, a medieval corner that preserves the charm of old Madrid. The nearby Plaza Mayor is the Habsburgh neiborhood heart, always lively. These  streets are an amazing point to talk about Tapas and Spanish Gastronomy. Crossing Puerta del Sol, the central hub where Madrid’s rhythm beats, we will be surprised by the elegance of Calle Alcalá, Plaza de  Cibeles and the museums of Paseo del Prado. This area of Paseo del Prado is part of the Landscape of Light, recognized as a UNESCO World Heritage Site.
+
+Duration: 2 hours 
+
+
+
 
 ### Option 5. Prado Museum Highlights Tour
 
-Limited to 19 people.  Duration: 2 hours
+<span style="color: red; font-style: italic;">limited to 19 participants</span>
+
+
+Step into one of the world’s greatest art museums, where centuries of European masterpieces come to life in an unforgettable journey through art history. The Prado Museum is a treasure trove of artistic genius and cultural heritage. Outstands  Velázquez’s iconic works, including Las Meninas, a true jewel of Spanish painting and 
+Goya’s powerful and evocative pieces, from royal portraits to the haunting Black Paintings. We will also explore masterpieces that reflects the brilliance of the Renaissance and Baroque periods. And, of course we won´t forget the Bosch’s extraordinary Garden of Earthly Delights, rich in symbolism and imagination.
+
+<div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 1em 0;">
+  <img src="/assets/img/cinc_2026/activities/Las_Meninas_01.jpg" alt="Las Meninas by Velázquez" style="max-width: 400px; border-radius: 6px;">
+  <img src="/assets/img/cinc_2026/activities/Museo_del_Prado_2016_(25185969599).jpg" alt="Museo del Prado" style="max-width: 400px; border-radius: 6px;">
+</div>
+
+Duration: 2 hours
+
 
 Meet at the North Entrance (Puerta de Goya).
 

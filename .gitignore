@@ -20,3 +20,8 @@ vendor/
 *.ZoneIdentifier
 .DS_Store
 Thumbs.db
+Gemfile
+.ruby-version
+bin/jekyll
+Gemfile
+Gemfile
