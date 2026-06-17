@@ -56,7 +56,7 @@ We warmly invite you to the **53rd Computing in Cardiology conference** in **Mad
   <h3 style="margin-top: 0; color: #856404; font-size: 1.3em;">📰 Latest News &amp; Updates</h3>
   <ul style="margin-bottom: 0;">
     <li><strong>[March 15, 2026]</strong>: Submission site for abstracts and 4-page papers is <a href="http://softconf.com/p/cinc2026/login" target="_blank"><strong>now open</strong></a>. <strong>Deadline April 15, 2026</strong> </li>
-     <li>🎫 <strong>Book your stay at the venue, Hotel Novotel, with an exclusive discount for all attendees</strong> on <a href="(https://all.accor.com/lien_externe.svlt?goto=rech_resa&destination=9298&sourceid=FOODEU&dayIn=19&monthIn=09&yearIn=2026&nightNb=4&preferredCode=FOODEU&merchantid=par-accorFR"><strong>Novotel</strong></a></li>
+     <li>🎫 <strong>Book your stay at the venue, Hotel Novotel, with an exclusive discount for all attendees</strong> on <a href="https://all.accor.com/lien_externe.svlt?goto=rech_resa&destination=9298&sourceid=FOODEU&dayIn=19&monthIn=09&yearIn=2026&nightNb=4&preferredCode=FOODEU&merchantid=par-accorFR" target="_blank"><strong>Novotel</strong></a></li>
     <li>🎫 <strong>Exclusive discounts available</strong> on <a href="../midtown/#train"><strong>train tickets</strong></a> for registered attendees.</li>
     <!-- <li><strong>[Date]</strong>: Second important news placeholder here.</li> -->
   </ul>
