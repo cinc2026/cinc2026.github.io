@@ -344,8 +344,7 @@ Please see the below options and walking distances.
 **6. [Hotel Luze Castellana](https://www.luzehoteles.com/luze-castellana/){: target="_blank"}<span style="font-size: 1.3em; color: #FFD700;">★★★☆☆</span>** 
 - 25 minutes by public transport (Metro Line 13 (gray): Cuzco/Manuel Becerra route or Metro L10/L6 combo).
 - Address: [C. de Julián Besteiro, 37, Tetuán, 28020 Madrid](https://maps.app.goo.gl/uXv4B79Cezm9H1VWA){: target="_blank"}
-- Discount code: **CINC2026**
-- Booking link for the conference: [RESERVATION LINK for CinC](https://www.luzehoteles.com/luze-castellana/){: .btn .btn--info .btn--small}{: target="_blank"}
+- Please contact [castellana@bypillow.com](mailto:castellana@bypillow.com), mentioning CINC2026. Discount code: **CINC2026**
 
 <div style="display: flex; justify-content: flex-start; align-items: flex-start; gap: 30px; flex-wrap: wrap; margin-bottom: 2em;">
   <div style="flex: 0 0 auto;">
