@@ -341,7 +341,7 @@ Please see the below options and walking distances.
 
 <hr style="border: none; border-top: 2px solid #d0d0d0; margin: 2rem 0;">
 
-**6. [Hotel Luze Castellana](https://www.luzehoteles.com/luze-castellana/){: target="_blank"}<span style="font-size: 1.3em; color: #FFD700;">★★★☆☆</span>** 
+**6. [Hotel BYPILLOW Castellana](https://www.bypillow.com/alojamientos/hoteles-en-madrid/castellana/){: target="_blank"}<span style="font-size: 1.3em; color: #FFD700;">★★★☆☆</span>** 
 - 25 minutes by public transport (Metro Line 13 (gray): Cuzco/Manuel Becerra route or Metro L10/L6 combo).
 - Address: [C. de Julián Besteiro, 37, Tetuán, 28020 Madrid](https://maps.app.goo.gl/uXv4B79Cezm9H1VWA){: target="_blank"}
 - Please contact [castellana@bypillow.com](mailto:castellana@bypillow.com), mentioning CINC2026. Discount code: **CINC2026**
