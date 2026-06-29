@@ -5,7 +5,14 @@ author_profile: true
 permalink: /authors/
 ---
 <a name="top"></a>
-This page will provide information about [abstract submission](../authors/#abstracSubmission), [onsite speaker guideline](../authors/#speaker).<!-- and [onsite poster printing store](../authors/#poster). -->
+This page provides a quick overview of the main author instructions. Use the index below to jump directly to the section you need:
+
+- [Abstract submission](#abstractSubmission)
+- [Onsite speaker guidelines](#speaker)
+- [Poster upload instructions](#posterUpload)
+- [Poster printing](#posterPrinting)
+
+<!-- and [onsite poster printing store](../authors/#poster). -->
 
 <!--Despite CinC adopting a hybrid format once again this year, oral presentations are required to be delivered onsite and will be streamed through Whova. In contrast, poster presentations have the flexibility to be either onsite or remote. The online platform is accessible to all registrants.-->
 
@@ -19,6 +26,69 @@ Computing in Cardiology publishes short papers (4 pages maximum) that have been 
 
 Detailed information for abstract submission is available on **[CinC webpage information for authors](https://cinc.org/inf_authors/){: target="_blank"}**.
 
+## <a name="posterUpload"></a> Poster upload instructions
+
+Please upload your poster on the conference platform by the deadline communicated by the organizers so it is available to attendees before the event. If you need a step-by-step guide, please follow the instructions below.
+{: .text-justify}
+
+For additional guidance, you can also consult the **[Whova Artifact Center Presenter Guide](https://whova.com/pages/whova-app-artifact-center-presenter-guide/){: target="_blank"}**.
+
+<p class="notice--warning">
+<strong>File size limits:</strong> PDF files should not exceed <strong>10 MB</strong>. Video files (mp4 recommended) should not exceed <strong>50 MB</strong>. If your PDF is too large, consider uploading a compressed PDF or a JPG/PNG version instead. For video, linking from YouTube, Vimeo, DailyMotion, or SlidesLive is the most reliable option.
+</p>
+
+### <a name="desktop"></a> On a desktop computer
+
+#### Option 1
+
+* **Step 1: Open your personal link**  
+As a registered poster presenter, you will receive a personal link from the conference organizers. Opening this link will take you to your poster booth. At the top of the page you will see the conference title followed by your poster title. No sign-in is required to set up your booth.
+{: .text-justify}
+
+* **Step 2: Edit your poster booth**  
+Once you are inside your booth, you will be able to add your information, include your abstract, upload your poster, and optionally add a short video presentation. If you have additional presenters registered for the conference, you can also add them to help manage the poster.
+{: .text-justify}
+
+<p class="notice--warning">
+<strong>Note:</strong> SoftConf and Whova are not synchronized. If you update your poster title in SoftConf, please also update it in the Whova mobile app. The web portal does not allow you to change the poster title, but the mobile app does.
+</p>
+
+**Recommendations**
+
+* PDF files should not exceed **10 MB**, and video files should not exceed **50 MB** (mp4 format recommended).
+* If the PDF is too large, consider exporting it as a compressed PDF or uploading a JPG, JPEG, or PNG version instead.
+* If you want to upload a prerecorded video, using a link from a third-party video hosting service is often the most reliable option.
+* Common video hosting services supported by Whova include YouTube, Vimeo, DailyMotion, SlidesLive, and similar platforms.
+
+#### Option 2
+
+* **Step 1: Sign up to Whova**  
+You will receive a web portal access link from the conference organizers. If you do not have an account yet, click **Sign up here** and provide your email and password. To log in automatically, make sure you use the same email address to which the invitation link was sent. Otherwise, you may need to enter the event invitation code.
+{: .text-justify}
+
+* **Step 2: Access your poster booth**  
+After signing in, go to the **Poster** tab under **Agenda** in the left-hand side menu. Search for your name or poster title and click **Edit** under your poster booth.
+{: .text-justify}
+
+* **Step 3: Edit your poster booth**  
+You will be able to update your information, add your abstract, and upload your poster and a short video. If you have additional presenters registered for the conference, you can add them to help manage the poster.
+{: .text-justify}
+
+
+
+### <a name="mobile"></a> On the mobile app 
+
+* **Step 1: Download the Whova app**  
+Search for and download the Whova app from Google Play or the App Store, or visit the **[Whova App download page](https://whova.com/faq/why-should-i-download-whova-app/){: target="_blank"}**.
+{: .text-justify}
+
+* **Step 2: Sign up to Whova**  
+Follow the same steps described above to access your poster booth and upload your poster and videos from the app.
+{: .text-justify}
+
+## <a name="posterPrinting"></a> Poster Printing
+
+*Under development*
 
 ## <a name="speaker"></a>Onsite speaker guidelines
 ### Oral Presentations
