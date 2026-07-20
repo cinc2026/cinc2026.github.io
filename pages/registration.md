@@ -17,7 +17,7 @@ This page provides information about registration.
 
 Each person who will attend CinC must register as a participant one time, even if you will present more than one submission. The cost of attending the conference is the same regardless of whether you are presenting or not.
 
-<span style="color: #8B0000;">**NEW: Starting this year and for practical reasons, all presenters will be required to register at least two weeks before the Sunday Symposium. Failure to comply with this rule will result in withdrawal from the program, and the corresponding paper will not be published. In case of any difficulties, please contact program@cinc.org.**</span>
+<span style="color: #8B0000;">**NEW: Starting this year and for practical reasons, all presenters will be required to register at least two weeks before the Sunday Symposium. Failure to comply with this rule will result in withdrawal from the programme, and the corresponding paper will not be published. In case of any difficulties, please contact program@cinc.org.**</span>
 
 ## [Complete Registration Fees Information](https://cinc.org/registration_fees_2026/){: target="_blank"}
 

@@ -7,11 +7,114 @@ permalink: /sunday/
 
 
 <a name="top"></a>
-## Sunday Symposium
-The Sunday Symposium will address **arrhythmias and cardiovascular challenges in sports**.
 
-## Program
+The Sunday Symposium will address **arrhythmias and cardiovascular challenges in sports**. 
 
+It will take place in the magnificent setting of the **Universidad Rey Juan Carlos Aranjuez Campus**. **Aranjuez** is a **UNESCO World Heritage Cultural Landscape**.
+
+The Cultural Landscape of Aranjuez was declared a World Heritage Site by UNESCO in Helsinki on December 14, 2001. The **Sunday Symposium** will be held at the recently renovated **Hospital San Carlos**.
+
+- [Programme](#programme)
+- [Speakers](#speakers)
+- [Venue & Logistics](#venue)
+- [How to get there](#getting-there)
+- [Reserve your bus seat](#by-bus)
+
+<p class="notice--warning">
+  <strong>&#x26A0; Action required:</strong> To plan logistics accordingly, please <a href="#by-bus"><strong>indicate your preference to attend the Sunday Symposium and your shuttle choice</strong></a>.
+</p>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css">
+
+<div id="aranjuez-carousel" class="splide" aria-label="Aranjuez">
+  <div class="splide__track">
+    <ul class="splide__list">
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/sunday_simp/Palacio_Real_de_Aranjuez_(5).jpg" alt="Palacio Real de Aranjuez" style="width:100%; max-height:450px; object-fit:cover;">
+      </li>
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/sunday_simp/Aranjuez_PalacioDesdePuenteBarcas.jpg" alt="Palacio Real de Aranjuez desde el Puente de Barcas" style="width:100%; max-height:450px; object-fit:cover;">
+      </li>
+      <li class="splide__slide">
+        <img src="/assets/img/cinc_2026/sunday_simp/estanque.jpg" alt="Estanque Chinesco, Jardín del Príncipe, Aranjuez" style="width:100%; max-height:450px; object-fit:cover;">
+      </li>
+    </ul>
+  </div>
+</div>
+
+<a name="programme"></a>
+## Programme
+
+<style>
+.program-table { width:100%; border-collapse:collapse; margin:1.5rem 0; font-size:0.95rem; }
+.program-table th { background-color:#8b1a1a; color:#fff; padding:0.6rem 0.8rem; text-align:left; }
+.program-table td { padding:0.55rem 0.8rem; border-bottom:1px solid #ddd; vertical-align:top; }
+.program-table tr:nth-child(even) td { background-color:#f8f8f8; }
+.program-table tr.break-row td { background-color:#f0e8e8; color:#777; font-style:italic; }
+.program-table .t { white-space:nowrap; font-weight:600; color:#8b1a1a; }
+.program-table a { color:#8b1a1a; }
+</style>
+
+<table class="program-table">
+  <thead>
+    <tr><th>Time</th><th>Event</th><th>Speaker(s)</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="t">13:45</td>
+      <td>Opening Welcome</td>
+      <td>Vicerrector para Hospitales URJC · Directora General Salud Digital</td>
+    </tr>
+    <tr>
+      <td class="t">14:00</td>
+      <td><a href="#speaker-rudy">Multi-Scale Integration from Molecular Structure to Whole-Cell Function — Examples from Cardiac Electrophysiology</a></td>
+      <td>Yoram Rudy</td>
+    </tr>
+    <tr>
+      <td class="t">14:45</td>
+      <td><a href="#speaker-arbelo">Cardiomyopathy with arrhythmic risk: when can sport be resumed?</a></td>
+      <td>Elena Arbelo</td>
+    </tr>
+    <tr class="break-row">
+      <td class="t">15:30</td>
+      <td>Coffee Break</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="t">16:00</td>
+      <td><a href="#speaker-brugada">Inherited Arrhythmia Syndromes and Sudden Cardiac Death</a></td>
+      <td>Ramón Brugada</td>
+    </tr>
+    <tr>
+      <td class="t">16:45</td>
+      <td><a href="#speaker-marina">AI-Powered ECG Analysis for Arrhythmia Detection and Cardiovascular Risk Assessment in Athletes</a></td>
+      <td>Manuel Marina</td>
+    </tr>
+    <tr>
+      <td class="t">17:30</td>
+      <td>Round table</td>
+      <td>All speakers</td>
+    </tr>
+    <tr class="break-row">
+      <td class="t">18:15</td>
+      <td>Free time to explore Aranjuez</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="t">19:15</td>
+      <td>Welcome Reception - Vino Español</td>
+      <td>Mayor of Aranjuez</td>
+
+    </tr>
+    <tr class="break-row">
+      <td class="t">20:00</td>
+      <td>Buses to Novotel</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<a name="speakers"></a>
 ## Speakers
 
 <style>
@@ -85,7 +188,7 @@ The Sunday Symposium will address **arrhythmias and cardiovascular challenges in
 }
 </style>
 
-<div class="speaker-card">
+<div id="speaker-rudy" class="speaker-card">
   <img class="speaker-photo" src="/assets/img/cinc_2026/sunday_simp/speakers/yoram_rudy.jpg" alt="Prof. Yoram Rudy">
   <div class="speaker-info">
     <h3>Dr. Yoram Rudy</h3>
@@ -101,7 +204,7 @@ The Sunday Symposium will address **arrhythmias and cardiovascular challenges in
   </div>
 </div>
 
-<div class="speaker-card">
+<div id="speaker-arbelo" class="speaker-card">
   <img class="speaker-photo" src="/assets/img/cinc_2026/sunday_simp/speakers/elena_arbelo.jpg" alt="Dr. Elena Arbelo">
   <div class="speaker-info">
     <h3>Dr. Elena Arbelo</h3>
@@ -117,7 +220,7 @@ The Sunday Symposium will address **arrhythmias and cardiovascular challenges in
   </div>
 </div>
 
-<div class="speaker-card">
+<div id="speaker-marina" class="speaker-card">
   <img class="speaker-photo" src="/assets/img/cinc_2026/sunday_simp/speakers/manuel_marina.jpg" alt="Dr. Manuel Marina Breysse">
   <div class="speaker-info">
     <h3>Dr. Manuel Marina Breysse</h3>
@@ -131,7 +234,7 @@ The Sunday Symposium will address **arrhythmias and cardiovascular challenges in
   </div>
 </div>
 
-<div class="speaker-card">
+<div id="speaker-brugada" class="speaker-card">
   <img class="speaker-photo" src="/assets/img/cinc_2026/sunday_simp/speakers/ramon_brugada.webp" alt="Dr. Ramón Brugada Terradellas">
   <div class="speaker-info">
     <h3>Dr. Ramon Brugada Terradellas</h3>
@@ -148,14 +251,13 @@ The Sunday Symposium will address **arrhythmias and cardiovascular challenges in
 </div>
 
 
+## Venue & Logistics <a name="venue"></a>
 
 
 1. When: Sunday, September 20, 2026 <!--at 12pm-5:30pm-->
 1. Where: [Hospital San Carlos](https://www.urjc.es/grado/591-situacion-planos-campus-aranjuez){: target="_blank"},  Universidad Rey Juan Carlos - Aranjuez Campus
 1. Address: [C/ Capitán Angosto Gómez Castrillón 91, 28300 Aranjuez-Madrid](https://maps.app.goo.gl/T84i8sHBrJ2vLaqx7){: target="_blank"}
 
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css">
 
 <div id="hospital-carousel" class="splide" aria-label="Hospital San Carlos Photos">
   <div class="splide__track">
@@ -182,7 +284,7 @@ The Sunday Symposium will address **arrhythmias and cardiovascular challenges in
 <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js"></script>
 <script>
   document.addEventListener('DOMContentLoaded', function () {
-    new Splide('#hospital-carousel', {
+    var opts = {
       type: 'fade',
       rewind: true,
       autoplay: true,
@@ -191,57 +293,63 @@ The Sunday Symposium will address **arrhythmias and cardiovascular challenges in
       pauseOnHover: true,
       pagination: true,
       arrows: true,
-    }).mount();
+    };
+    new Splide('#aranjuez-carousel', opts).mount();
+    new Splide('#hospital-carousel', opts).mount();
   });
 </script>
 
 
 
- 
+<a name="getting-there"></a>
+## How to get to the Sunday Symposium
+
+The symposium takes place at **Hospital San Carlos**, Universidad Rey Juan Carlos – Aranjuez Campus, located approximately 50 km south of Madrid.
+
+<iframe src="https://maps.google.com/maps?q=Hospital+San+Carlos,+C%2F+Capit%C3%A1n+Angosto+G%C3%B3mez+Castrill%C3%B3n+91,+28300+Aranjuez&output=embed&z=15" width="100%" height="400" style="border:0; border-radius:6px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+### By conference bus <a name="by-bus"></a>
+
+Dedicated shuttles depart from the exit of **Novotel Madrid Center**, **Calle del Duque de Sesto 47, Madrid**. Return buses depart from Hospital San Carlos at **20:00**.
+
+| Departure | Bus | Notes |
+|-----------|-----|-------|
+| **11:45-12:00** | Full coach | Recommended |
+| **13:00** | Minibus | Limited seats for people arriving late |
+| **14:00** | Minibus | Limited seats for people arriving late|
+
+[Indicate your shuttle preference](https://forms.gle/i9hwURkmiSv5131y7){: .btn .btn--warning target="_blank"}
+
+Look for the **CinC 2026** sign at the hotel exit:
+
+<img src="/assets/img/cinc_2026/sunday_simp/get_on_buses.png" alt="Meeting point — Novotel Madrid Center exit, Calle del Duque de Sesto 47" style="max-width:100%; border-radius:6px; margin:0.5rem 0 1rem;">
+
+<iframe src="https://maps.google.com/maps?q=Calle+del+Duque+de+Sesto+47,+Madrid&output=embed&z=16" width="100%" height="350" style="border:0; border-radius:6px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+### Registration in Aranjuez
+
+Registration on Sunday Symposium will take place at Aranjuez:
+
+- **Location:** Hospital San Carlos entrance hall
+
+There will be signs indicating the registration desk.
 
 
+### By train (Cercanías)
+
+The train is a convenient and scenic option from Madrid city centre.
+
+1. Take **Cercanías line C-3** from Madrid Atocha (or Chamartín / Sol) towards Aranjuez.
+2. Journey time from Atocha: approx. **45–50 minutes**.
+3. From Aranjuez station walk (approx. 20 min) to Hospital San Carlos.
+
+Trains run every 30-45 minutes. Check timetables at **[Renfe Cercanías](https://www.renfe.com/es/es/cercanias/cercanias-madrid/){: target="_blank"}**.
+
+### By car
+
+Aranjuez is located on the **A-4 motorway** (Madrid–Córdoba), exit **km 47** (Aranjuez Norte). Journey time from Madrid city centre: approx. **40–50 minutes** depending on traffic. 
 
 
-
-<!--1. Transportation: -->
-
-<!--* **CinC 2023 designated bus:** Transportation designated for the CinC 2023 Sunday Symposium will be provided to all conference attendees for the entire day. On the Emory [TransLoc.com](https://emory.transloc.com/m/){: target="_blank"} site or [TransLoc app](https://emory.transloc.com/info/mobile){: target="_blank"} go to search box and find **"Biomedical Informatics"** shuttle. This feature offers real-time location tracking and a concise map of the route for transportation to the Sunday Symposium venue. [CinC 2023 designated bus schedule](https://cinc2023.github.io/assets/img/sunday_transportation.pdf).-->
-<!-- * **Getting On:** [Georgia Tech Hotel entrance](https://maps.app.goo.gl/4on2MC8iAbRpJufb6).\-->
-<!-- <img src="/assets/img/gt_hotel.png" alt="GT Hotel" width="400" height="400"> -->
-
-<!--* **Shuttles:** Take one of the charters that you see. **"CinC2023 Sunday Symposium"** sign will be on the charter door and window.\
-<!--<img src="/assets/img/emory shuttle1.png" alt="Shuttle1" width="300" height="300"> 
-<!--<img src="/assets/img/emory shuttle2.png" alt="Shuttle1" width="310" height="310">
-
-<!--* **Taking Off:** Take off the shuttle at "Woodruff Circle" in Emory campus, and Emory School of Medicine building will be on your right.\
-<!--<img src="/assets/img/som.png" alt="Shuttle1" width="400" height="400">
-
-<!--* **Public transportation:** -->
-<!--Getting on MARTA 36: Midtown Station\-->
-<!--Getting off MARTA 36: N Decatur Rd NE & Clifton Rd\-->
-<!--MARTA 36 [bus route](https://www.itsmarta.com/pdfs/maps/36.pdf) and [schedule](https://www.itsmarta.com/36.aspx)-->
-
-
-<!-- ## Sunday evening reception--> 
-<!--The reception will be ready at the Michael C. Carlos Museum on the Emory University campus, 10 minutes walk from the Sunday Symposium venue, James B. Williams Medical Education Building (map below). -->
-<!--1. When: Sunday, October 1st, 2023 at 6:30pm-8:30pm-->
-<!--2. Where: [Michael C. Carlos Museum](https://carlos.emory.edu/){: target="_blank"} on the Emory University campus-->
-<!--3. Address: [571 South Kilgo Circle Atlanta, GA 30322](https://goo.gl/maps/199kRV6W3es9JHre7){: target="_blank"}-->
-<!--4. Transportation: Transportation designated for the CinC 2023 Sunday Symposium will be provided to all conference attendees for the entire day. On the Emory [TransLoc.com](https://emory.transloc.com/m/){: target="_blank"} site or [TransLoc app](https://emory.transloc.com/info/mobile){: target="_blank"} you will find a dedicated CinC 2023 vehicle to select. This feature offers real-time location tracking and a concise map of the route for transportation to the evening reception venue. [CinC 2023 designated bus schedule](https://cinc2023.github.io/assets/img/sunday_transportation.pdf)-->
-
-<!--* **Getting On:** [Georgia Tech Hotel entrance](https://maps.app.goo.gl/4on2MC8iAbRpJufb6).\-->
-<!--<img src="/assets/img/gt_hotel.png" alt="GT Hotel" width="400" height="400">-->
-
-<!--* **Shuttles:** Take one of the charters that you see. **"CinC2023 Sunday Symposium"** sign will be on the charter door and window.\-->
-<!--<img src="/assets/img/emory shuttle1.png" alt="Shuttle1" width="300" height="300"> -->
-<!--<img src="/assets/img/emory shuttle2.png" alt="Shuttle1" width="310" height="310">-->
-
-<!--* **Taking off:** Your stop is on Fishburne Dr., as shown in the image below. Walk for a minute to Mizell Dr. to reach the entrance of the Carlos Museum.\-->
-<!--<img src="/assets/img/museum_stop.png" alt="Shuttle1" width="400" height="400"> -->
-
-<!--### Map to the Carlos Museum from Emory School of Medicine Building-->
-
-<!--<iframe src="https://www.google.com/maps/embed?pb=!1m30!1m12!1m3!1d3315.791437592353!2d-84.32575377429465!3d33.79188362325614!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m15!3e2!4m3!3m2!1d33.7933269!2d-84.3216636!4m3!3m2!1d33.792624499999995!2d-84.32401759999999!4m5!1s0x88f506f030d8c67f%3A0xe19cbc6584c08754!2sMichael%20C.%20Carlos%20Museum%2C%20South%20Kilgo%20Circle%20Northeast%2C%20Atlanta%2C%20GA!3m2!1d33.790344999999995!2d-84.3243433!5e0!3m2!1sen!2sus!4v1696163672796!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>-->
 
 [Top of Page](#top){: .btn}
 

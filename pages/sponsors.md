@@ -72,7 +72,7 @@ We offer several sponsorship levels designed to align with your marketing and vi
 - **Expected 400+ on-site** attendees from all over the world
 - **Visitors represent** biomedical researchers, engineers, clinicians, and policymakers from across the industry and academia
 - **Sessions and poster exhibition** provide an outlook into the emerging R&D
-- **State of the art scientific program** and great events for personal interactions
+- **State of the art scientific programme** and great events for personal interactions
 
 ## Sponsorship Levels
 
@@ -84,7 +84,7 @@ We offer several sponsorship levels designed to align with your marketing and vi
 
 ### Silver Partners
 - All benefits of the Bronze partnership
-- Full participation in the scientific program for one person
+- Full participation in the scientific programme for one person
 - Printed materials and small items (provided by the partner) included in the conference bags
 - Placing company roll-up (provided by the partner) at the event venue
 - **Fee:** 2,000€
@@ -98,7 +98,7 @@ We offer several sponsorship levels designed to align with your marketing and vi
 
 ### Platinum Partners
 - All benefits of the Gold partnership
-- Full participation in the scientific program for two additional persons
+- Full participation in the scientific programme for two additional persons
 - 15-minute presentation during lunch break to present your products and services (if interested)
 - **Fee:** 6,000€
 
