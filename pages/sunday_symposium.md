@@ -221,20 +221,6 @@ The Cultural Landscape of Aranjuez was declared a World Heritage Site by UNESCO 
   </div>
 </div>
 
-<div id="speaker-marina" class="speaker-card" onclick="window.location.href='/sunday/speakers/manuel-marina/'">
-  <img class="speaker-photo" src="/assets/img/cinc_2026/sunday_simp/speakers/manuel_marina.jpg" alt="Dr. Manuel Marina Breysse">
-  <div class="speaker-info">
-    <h3>Dr. Manuel Marina Breysse</h3>
-    <div class="speaker-affiliation">
-      CEO &amp; Co-founder · Idoven<br>
-      Cardiologist · Specialized in Signal Processing, Arrhythmias &amp; Sports Cardiology<br>
-      Former Researcher · Centro Nacional de Investigaciones Cardiovasculares Carlos III (CNIC), Spain
-    </div>
-    <div class="talk-title">Artificial Intelligence in Cardiology: Expanding the Diagnostic Potential of the ECG</div>
-    <span class="speaker-read-more">Read abstract &amp; bio →</span>
-  </div>
-</div>
-
 <div id="speaker-brugada" class="speaker-card" onclick="window.location.href='/sunday/speakers/ramon-brugada/'">
   <img class="speaker-photo" src="/assets/img/cinc_2026/sunday_simp/speakers/ramon_brugada.webp" alt="Dr. Ramón Brugada Terradellas">
   <div class="speaker-info">
@@ -247,6 +233,20 @@ The Cultural Landscape of Aranjuez was declared a World Heritage Site by UNESCO 
       Past President · Catalan Society of Cardiology
     </div>
     <div class="talk-title">Inherited Arrhythmia Syndromes and Sudden Cardiac Death</div>
+    <span class="speaker-read-more">Read abstract &amp; bio →</span>
+  </div>
+</div>
+
+<div id="speaker-marina" class="speaker-card" onclick="window.location.href='/sunday/speakers/manuel-marina/'">
+  <img class="speaker-photo" src="/assets/img/cinc_2026/sunday_simp/speakers/manuel_marina.jpg" alt="Dr. Manuel Marina Breysse">
+  <div class="speaker-info">
+    <h3>Dr. Manuel Marina Breysse</h3>
+    <div class="speaker-affiliation">
+      CEO &amp; Co-founder · Idoven<br>
+      Cardiologist · Specialized in Signal Processing, Arrhythmias &amp; Sports Cardiology<br>
+      Former Researcher · Centro Nacional de Investigaciones Cardiovasculares Carlos III (CNIC), Spain
+    </div>
+    <div class="talk-title">Artificial Intelligence in Cardiology: Expanding the Diagnostic Potential of the ECG</div>
     <span class="speaker-read-more">Read abstract &amp; bio →</span>
   </div>
 </div>
