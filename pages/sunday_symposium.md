@@ -87,7 +87,7 @@ The Cultural Landscape of Aranjuez was declared a World Heritage Site by UNESCO 
     </tr>
     <tr>
       <td class="t">16:45</td>
-      <td><a href="#speaker-marina">AI-Powered ECG Analysis for Arrhythmia Detection and Cardiovascular Risk Assessment in Athletes</a></td>
+      <td><a href="#speaker-marina">Artificial Intelligence in Cardiology: Expanding the Diagnostic Potential of the ECG</a></td>
       <td>Manuel Marina</td>
     </tr>
     <tr>
@@ -128,11 +128,15 @@ The Cultural Landscape of Aranjuez was declared a World Heritage Site by UNESCO 
   padding: 1.5rem;
   margin-bottom: 1.5rem;
   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-  transition: box-shadow 0.3s ease;
+  position: relative;
+  cursor: pointer;
+  transition: box-shadow 0.3s ease, transform 0.2s ease;
 }
 .speaker-card:hover {
-  box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+  box-shadow: 0 6px 24px rgba(0,0,0,0.18);
+  transform: translateY(-3px);
 }
+.speaker-read-more { display:inline-block; margin-top:0.8rem; font-size:0.85rem; color:#8b1a1a; font-weight:600; }
 .speaker-photo {
   flex-shrink: 0;
   width: 160px;
@@ -188,7 +192,7 @@ The Cultural Landscape of Aranjuez was declared a World Heritage Site by UNESCO 
 }
 </style>
 
-<div id="speaker-rudy" class="speaker-card">
+<div id="speaker-rudy" class="speaker-card" onclick="window.location.href='/sunday/speakers/yoram-rudy/'">
   <img class="speaker-photo" src="/assets/img/cinc_2026/sunday_simp/speakers/yoram_rudy.jpg" alt="Prof. Yoram Rudy">
   <div class="speaker-info">
     <h3>Dr. Yoram Rudy</h3>
@@ -197,14 +201,11 @@ The Cultural Landscape of Aranjuez was declared a World Heritage Site by UNESCO 
       Member, US National Academy of Engineering · Fellow, US National Academy of Inventors
     </div>
     <div class="talk-title">Multi-Scale Integration from Molecular Structure to Whole-Cell Function — Examples from Cardiac Electrophysiology</div>
-    <!-- talk-summary: Mutations and many disease-causing processes occur at the molecular scale, but their manifestation (e.g., cardiac arrhythmias) occurs at the cellular, tissue, organ and organism levels. Integration across scales and understanding of processes that determine emergent behaviors at higher scales are essential for mechanism-based "precision medicine". Examples from cardiac electrophysiology will be shown, where computer modeling has been used to relate an ion-channel protein structure/function to the whole-cell action potential. The presentation will focus on I<sub>Ks</sub>, an ionic current that underlies rate dependence of the cardiac action potential. -->
-    <div class="speaker-contact">
-      <a href="https://rudylab.wustl.edu/" target="_blank">rudylab.wustl.edu</a> · <a href="http://cbac.wustl.edu" target="_blank">cbac.wustl.edu</a>
-    </div>
+    <span class="speaker-read-more">Read abstract &amp; bio →</span>
   </div>
 </div>
 
-<div id="speaker-arbelo" class="speaker-card">
+<div id="speaker-arbelo" class="speaker-card" onclick="window.location.href='/sunday/speakers/elena-arbelo/'">
   <img class="speaker-photo" src="/assets/img/cinc_2026/sunday_simp/speakers/elena_arbelo.jpg" alt="Dr. Elena Arbelo">
   <div class="speaker-info">
     <h3>Dr. Elena Arbelo</h3>
@@ -213,28 +214,28 @@ The Cultural Landscape of Aranjuez was declared a World Heritage Site by UNESCO 
       Coordinator, Cardiac Genetic Diseases and Sudden Arrhythmic Death Unit<br>
       Cardiovascular Institute Coordinator for Quality and Safety<br>
       Clinical Professor · Universitat de Barcelona<br>
-      Committee Member · ESC · EHRA · HRS<br>
+      Committee Member · ESC · EHRA · HRS
     </div>
     <div class="talk-title">Cardiomyopathy with arrhythmic risk: when can sport be resumed?</div>
-    <!-- talk-summary: TBD -->
+    <span class="speaker-read-more">Read abstract &amp; bio →</span>
   </div>
 </div>
 
-<div id="speaker-marina" class="speaker-card">
+<div id="speaker-marina" class="speaker-card" onclick="window.location.href='/sunday/speakers/manuel-marina/'">
   <img class="speaker-photo" src="/assets/img/cinc_2026/sunday_simp/speakers/manuel_marina.jpg" alt="Dr. Manuel Marina Breysse">
   <div class="speaker-info">
     <h3>Dr. Manuel Marina Breysse</h3>
     <div class="speaker-affiliation">
-      CEO &amp; Co-founder · <a href="https://es.idoven.ai/" target="_blank">Idoven</a><br>
+      CEO &amp; Co-founder · Idoven<br>
       Cardiologist · Specialized in Signal Processing, Arrhythmias &amp; Sports Cardiology<br>
       Former Researcher · Centro Nacional de Investigaciones Cardiovasculares Carlos III (CNIC), Spain
     </div>
-    <div class="talk-title">AI-Powered ECG Analysis for Arrhythmia Detection and Cardiovascular Risk Assessment in Athletes</div>
-    <!-- talk-summary: TBD -->
+    <div class="talk-title">Artificial Intelligence in Cardiology: Expanding the Diagnostic Potential of the ECG</div>
+    <span class="speaker-read-more">Read abstract &amp; bio →</span>
   </div>
 </div>
 
-<div id="speaker-brugada" class="speaker-card">
+<div id="speaker-brugada" class="speaker-card" onclick="window.location.href='/sunday/speakers/ramon-brugada/'">
   <img class="speaker-photo" src="/assets/img/cinc_2026/sunday_simp/speakers/ramon_brugada.webp" alt="Dr. Ramón Brugada Terradellas">
   <div class="speaker-info">
     <h3>Dr. Ramon Brugada Terradellas</h3>
@@ -246,7 +247,7 @@ The Cultural Landscape of Aranjuez was declared a World Heritage Site by UNESCO 
       Past President · Catalan Society of Cardiology
     </div>
     <div class="talk-title">Inherited Arrhythmia Syndromes and Sudden Cardiac Death</div>
-    <!-- talk-summary: TBD -->
+    <span class="speaker-read-more">Read abstract &amp; bio →</span>
   </div>
 </div>
 
