@@ -263,6 +263,10 @@ We gratefully acknowledge the support of our sponsors and partners:
     <a href="https://corify.es/" target="_blank" title="Corify"><img src="{{'/assets/img/cinc_2026/sponsors/corify.jpg' | relative_url}}" alt="Corify" class="sponsor-logo-item" style="height: 120px;"></a>
     <div class="sponsor-badge">Gold Sponsor</div>
   </div>
+  <div class="sponsor-item">
+    <a href="https://microcard.eu/" target="_blank" title="MICROCARD"><img src="{{'/assets/img/cinc_2026/sponsors/MICROCARD2.png' | relative_url}}" alt="MICROCARD – Co-funded by the European Union / EuroHPC Joint Undertaking" class="sponsor-logo-item" style="height: 120px;"></a>
+    <div class="sponsor-badge">Gold Sponsor</div>
+  </div>
 </div>
 
 [**View all sponsors and sponsorship opportunities**](../sponsors/){: .btn}
