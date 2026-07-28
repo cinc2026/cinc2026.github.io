@@ -51,7 +51,7 @@ See details [Travel](../travel).
 See details [Visa](../visa)
 
 ## <a name="paying"></a>Paying in Spain
-Spain uses the Euro (€) as currency. Most places accept VISA and MasterCard, but some smaller shops might not accept cards or have a minimum purchase amount to accept a credit card. You cand withdraw Euros at ATM wich are quite [ubiquitous](https://maps.app.goo.gl/QBkNZAwSUjpEG45u6){: target="_blank"}. Tips are not mandatory and are closely linked to customer satisfaction with the service recieved. You can consult more details in the official tourism website about [Money in Madrid](https://www.esmadrid.com/en/money-madrid){: target="_blank"}.
+Spain uses the Euro (€) as currency. Most places accept VISA and MasterCard, but some smaller shops might not accept cards or have a minimum purchase amount to accept a credit card. You can withdraw Euros at ATM which are quite [ubiquitous](https://maps.app.goo.gl/QBkNZAwSUjpEG45u6){: target="_blank"}. Tips are not mandatory and are closely linked to customer satisfaction with the service received. You can consult more details in the official tourism website about [Money in Madrid](https://www.esmadrid.com/en/money-madrid){: target="_blank"}.
 {: .text-justify}
 
 ## <a name="healthcare"></a>How do I access healthcare in Spain?
