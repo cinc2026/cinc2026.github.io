@@ -10,7 +10,7 @@ permalink: /faq/
 * [Weather](#weather)
 * [Travel](#travel)
 <!-- * [Arriving by car](#bycar)-->
-* [Visa](#visa)
+* [Visa](#Visa)
 * [Paying in Spain](#paying)
 * [How long do I have for my talk?](#talk-duration)
 * [How big should my poster be?](#poster-size)
@@ -25,7 +25,7 @@ permalink: /faq/
 <!--* [Why does my poster show up as (remote) presentation?](#poster-remote)-->
 
 ## <a name="electric"></a>Electric standards
-The standar electric voltage in Spain is 230 volts at a frequency 50 Hz. Type F sockets are commonly used. You might need a plug adapter and pontetially a voltage converter to ensure your electronic devices work properly.
+The standard electric voltage in Spain is 230 volts at a frequency of 50 Hz. Type F sockets are commonly used. You might need a plug adapter and potentially a voltage converter to ensure your electronic devices work properly.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: nowrap;">
   <img src="{{'/assets/img/cinc_2026/plugs.png' | relative_url}}" alt="plug" style="width: 450px; height: auto;">
@@ -44,18 +44,18 @@ The weather is pleasant and mild. During the day, it can get warm, so light clot
 
 ## <a name="travel"></a>Travel
 
-See details [Travel](../travel).
+For more details, see [Travel](../travel).
 
 ## <a name="Visa"></a>Visa
 
-See details [Visa](../visa)
+For more details, see [Visa](../visa).
 
 ## <a name="paying"></a>Paying in Spain
-Spain uses the Euro (€) as currency. Most places accept VISA and MasterCard, but some smaller shops might not accept cards or have a minimum purchase amount to accept a credit card. You can withdraw Euros at ATM which are quite [ubiquitous](https://maps.app.goo.gl/QBkNZAwSUjpEG45u6){: target="_blank"}. Tips are not mandatory and are closely linked to customer satisfaction with the service received. You can consult more details in the official tourism website about [Money in Madrid](https://www.esmadrid.com/en/money-madrid){: target="_blank"}.
+Spain uses the Euro (€) as currency. Most places accept VISA and MasterCard, but some smaller shops might not accept cards or have a minimum purchase amount to accept a credit card. You can withdraw Euros at ATMs, which are quite [ubiquitous](https://maps.app.goo.gl/QBkNZAwSUjpEG45u6){: target="_blank"}. Tips are not mandatory and are closely linked to customer satisfaction with the service received. You can consult more details on the official tourism website about [Money in Madrid](https://www.esmadrid.com/en/money-madrid){: target="_blank"}.
 {: .text-justify}
 
 ## <a name="healthcare"></a>How do I access healthcare in Spain?
-In case of emergency call 112. As a European citizen, you can receive healthcare services using a European Health Insurance Card (EHIC) issued in your country of origin. 
+In case of emergency, call 112. As a European citizen, you can receive healthcare services using a European Health Insurance Card (EHIC) issued in your country of origin. 
 
 ## <a name="lgbtq"></a>LGBTQ+
 Madrid is an open and welcoming city for the LGBTQ+ community, where diversity is fully celebrated and respected in public and social life. See [Madrid LGTBIQA+](https://www.esmadrid.com/lgtbi-madrid){: target="_blank"}.
@@ -63,7 +63,7 @@ Madrid is an open and welcoming city for the LGBTQ+ community, where diversity i
 
 ## <a name="safety"></a>Is Madrid a safe place?
 
-Madrid is a safe city with a violent crime rate low compared with other cities ([comparative data](https://www.epdata.es/comparacion-crimen-municipio-comparacion-ciudades-espanolas-mas-grandes/305e20b9-15c6-4702-becd-8f4c8c62f856/madrid/4245){: target="_blank"}), however petty crime (especially pickpocketing) is common, especially in tourist areas. Madrid is generally safe at night, event in the center. 
+Madrid is a safe city with a low violent crime rate compared to other cities ([comparative data](https://www.epdata.es/comparacion-crimen-municipio-comparacion-ciudades-espanolas-mas-grandes/305e20b9-15c6-4702-becd-8f4c8c62f856/madrid/4245){: target="_blank"}); however, petty crime (especially pickpocketing) is common, especially in tourist areas. Madrid is generally safe at night, even in the center. 
 {: .text-justify}
 
 The [Foreign Tourist Assistance Service](https://www.esmadrid.com/en/tourist-information/sate){: target="_blank"}, SATE, is a specialised service run by the MADRID DESTINO municipal organisation in collaboration with members of the national police force. Its purpose is to attend to the needs of tourists who, during their stay in Madrid, are involved in incidents that require police intervention.
