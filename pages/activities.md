@@ -115,7 +115,7 @@ A guided stadium tour.
 
 <img src="/assets/img/cinc_2026/activities/metropolitano.jpg" alt="Cívitas Metropolitano Stadium" style="float: left; max-width: 50%; margin: 0 1.5em 1em 0;">
 
-Discover **Cívitas Metropolitano**, the home of Atlético de Madrid and one of the most impressive football stadiums in Europe, with a capacity of over 68,000 spectators. The guided stadium tour takes you through the players' tunnel, the dressing rooms, the press room, and the pitch side, offering an unforgettable behind-the-scenes experience. The stadium also hosted the 2019 UEFA Champions League Final.
+Discover **Riyadh Air Metropolitano**, the home of Atlético de Madrid and one of the most impressive football stadiums in Europe, with a capacity of over 68,000 spectators. The guided stadium tour takes you through the players' tunnel, the dressing rooms, the press room, and the pitch side, offering an unforgettable behind-the-scenes experience. The stadium also hosted the 2019 UEFA Champions League Final.
 {: .text-justify}
 
 <div style="clear: both;"></div>
