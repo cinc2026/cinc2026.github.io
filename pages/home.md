@@ -205,7 +205,7 @@ blockquote {
 
 ## Organizers
 
-| <a href="https://www.urjc.es/" target="_blank"> <img src="{{'/assets/img/cinc_2026/logos_madrid/URJC.jpg' | relative_url}}" width="220" height="220">  || <a href="https://www.urjc.es/eif" target="_blank"> <img src="{{'/assets/img/cinc_2026/logos_madrid/EIF.jpg' | relative_url}}" width="320" height="320">  |
+| <a href="https://www.urjc.es/" target="_blank"> <img src="{{'/assets/img/cinc_2026/logos_madrid/URJC.jpg' | relative_url}}" width="220" height="220">  || <a href="https://www.urjc.es/eif" target="_blank"> <img src="{{'/assets/img/cinc_2026/logos_madrid/EIF.jpg' | relative_url}}" width="320" height="320">  || <a href="https://eventsgb.com/" target="_blank"> <img src="{{'/assets/img/cinc_2026/logos_madrid/Logo_Events_GB.png' | relative_url}}" width="130" height="130">  |
 
 <!-- | <img src="/assets/img/urjc.jpg" alt="" height=150 width=150/> || <img src="/assets/img/eif.jpg" alt="" height=150 width=150/> | -->
 
