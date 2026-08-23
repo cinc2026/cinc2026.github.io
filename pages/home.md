@@ -59,6 +59,8 @@ We warmly invite you to the **53rd Computing in Cardiology conference** in **Mad
     <li><s><strong>[March 15, 2026]</strong>: Submission site for abstracts and 4-page papers is <a href="http://softconf.com/p/cinc2026/login" target="_blank"><strong>now open</strong></a>. <strong>Deadline April 15, 2026</strong></s></li>
      <li>🎫 <strong>Book your stay at the venue, Hotel Novotel, with an exclusive discount for all attendees</strong> on <a href="https://all.accor.com/lien_externe.svlt?goto=rech_resa&destination=9298&sourceid=FOODEU&dayIn=19&monthIn=09&yearIn=2026&nightNb=4&preferredCode=FOODEU&merchantid=par-accorFR" target="_blank"><strong>Novotel</strong></a></li>
     <li>🎫 <strong>Exclusive discounts available</strong> on <a href="../midtown/#train" target="_blank"><strong>train tickets</strong></a> for registered attendees.</li>
+    <li>🚌 <strong>Attending the Sunday Symposium?</strong> Please <a href="https://forms.gle/i9hwURkmiSv5131y7" target="_blank"><strong>indicate your preference and shuttle choice</strong></a> to help us plan logistics.</li>
+    <li>🎫 <strong>Exclusive discounts available</strong> for CinC 2026 attendees on <a href="../cabify/" target="_blank"><strong>Cabify</strong></a> rides in Madrid.</li>
     <!-- <li><strong>[Date]</strong>: Second important news placeholder here.</li> -->
   </ul>
 </div>

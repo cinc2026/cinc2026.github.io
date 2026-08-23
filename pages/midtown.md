@@ -99,7 +99,9 @@ The best way to move around Madrid is by using its comprehensive [public transpo
 Attendees can also take Uber, Cabify, Bolt and Taxi, or other private services, which typically take 15-30 minutes.
 {: .text-justify}
 
-
+<p class="notice--success">
+  🚕 <strong>Cabify — official VTC of CinC 2026!</strong> Attendees can benefit from an exclusive discount on Cabify rides in Madrid. See <a href="../cabify/">how to use your discount</a>.
+</p>
 
 [Top of Page](#top){: .btn}
 

@@ -327,13 +327,13 @@ Look for the **CinC 2026** sign at the hotel exit:
 
 <iframe src="https://maps.google.com/maps?q=Calle+del+Duque+de+Sesto+47,+Madrid&output=embed&z=16" width="100%" height="350" style="border:0; border-radius:6px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-### Registration in Aranjuez
+<!--### Registration in Aranjuez
 
 Registration on Sunday Symposium will take place at Aranjuez:
 
 - **Location:** Hospital San Carlos entrance hall
 
-There will be signs indicating the registration desk.
+There will be signs indicating the registration desk.-->
 
 
 ### By train (Cercanías)
