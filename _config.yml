@@ -160,6 +160,9 @@ author:
     - name: "MICCAI"
       image: "assets/img/cinc_2026/endorsement/MICCAI-Logo-Vert_Light.png"
       url: "https://miccai.org/"
+    - name: "ESC"
+      image: "assets/img/cinc_2026/endorsement/esc-logo.png"
+      url: "https://www.escardio.org/"
   support:
     - name: "The Physiological Society"
       image: "assets/img/cinc_2026/endorsement/psl_logo.jpg"
