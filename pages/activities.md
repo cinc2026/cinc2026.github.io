@@ -21,6 +21,12 @@ You will find information about Monday networking afternoon activities. CinC 202
 ### 🥾 Sierra de Guadarrama Hike
 ### Option 1. Hike
 
+<div style="border: 1px solid #777; padding: 0.65em 0.8em; margin: 1em 0; line-height: 1.5;">
+<strong>Where:</strong> Puerto de la Morcuera, Madrid.<br>
+<strong>Address:</strong> Carretera M-611, 28740 Rascafría, Madrid, Spain.<br>
+<strong>Time:</strong> 13:00, september 21st.<br>
+<strong>Meeting Point:</strong> 🚌 Bus in Novotel Venue, C/ del Duque Sesto 47, Madrid.
+</div>
 
 **Breathe the mountain air above Madrid!** - <span style="color: red; font-style: italic;">limited to 100 participants: 50 each route</span>.
 
@@ -81,6 +87,12 @@ From Puerto de la Morcuera, a gentle ascending traverse to Collado de la Najarra
 
 ### Option 2. 🛶 [Kayak in Aranjuez](https://www.piraguismoaranjuez.com/){: target='blank'} 
 
+<div style="border: 1px solid #777; padding: 0.65em 0.8em; margin: 1em 0; line-height: 1.5;">
+<strong>Where:</strong> Río Tajo - Aranjuez.<br>
+<strong>Address:</strong> Carretera de Madrid n° 6. Aranjuez (Madrid).<br>
+<strong>Time:</strong> 13:30, September 21st.<br>
+<strong>Meeting Point:</strong> 🚌 Bus in Novotel Venue, C/ del Duque Sesto 47, Madrid.
+</div>
 
 <img src="/assets/img/cinc_2026/activities/logo_cepa.jpg" alt="CEPA Logo" style="max-width: 200px; display: block; margin-bottom: 1em;">
 
@@ -106,6 +118,14 @@ Enjoy a unique guided tour along the **Tagus River as it flows through the Royal
 
 ### Option 3. Visit to Metropolitano Stadium
 
+<div style="border: 1px solid #777; padding: 0.65em 0.8em; margin: 1em 0; line-height: 1.5;">
+<strong>Where:</strong> Riyadh Air Metropolitano Stadium.<br>
+<strong>Address:</strong> Avenida de Luis Aragones, 4, 28022 Madrid.<br>
+<strong>Time:</strong> 15:00, September 21st.<br>
+<strong>Meeting Point:</strong> Museum Entrance and Stadium Tours (next to the store).<br>
+<strong>How to get there:</strong> Metro Station <em>Estadio Metropolitano</em> <strong style="color: #f57c00;">Line 7</strong>. From the venue (Novotel Madrid Center), take Line 6 at metro station <strong>O'Donnell</strong> to station <strong>Avenida de América</strong>. Change to <strong style="color: #f57c00;">Line 7</strong> direction <strong>Estadio Metropolitano.</strong>
+</div>
+
 A guided stadium tour.
 
 
@@ -124,6 +144,14 @@ Discover **Riyadh Air Metropolitano**, the home of Atlético de Madrid and one o
 
 <!-- ### 🏛️ Walking Tour: Habsburg Madrid -->
 ### Option 4. Walking Tour
+
+<div style="border: 1px solid #777; padding: 0.65em 0.8em; margin: 1em 0; line-height: 1.5;">
+<strong>Where:</strong> Madrid de los Austrias.<br>
+<strong>Address:</strong> Plaza de Oriente, C/ Bailén s/n 28013, Madrid.<br>
+<strong>Time:</strong> 15:00, September 21st.<br>
+<strong>Meeting Point:</strong> <strong>Route A</strong> - Plaza Mayor near the equestrian statue of Philip III. <strong>Route B</strong> - Plaza Oriente in front of the Royal Palace.<br>
+<strong>How to get there:</strong> From the venue (Novotel Madrid Center), take <strong style="color: #f00;">Line 2</strong> at metro station <strong>Goya</strong> to station <strong>Ópera</strong>, then walk to <strong>Plaza de Oriente</strong> or <strong>Plaza Mayor</strong>.
+</div>
 
 Madrid walking tour. Select one of the following routes.
 
@@ -178,6 +206,14 @@ Duration: 2 hours
 
 
 ### Option 5. Prado Museum Highlights Tour
+
+<div style="border: 1px solid #777; padding: 0.65em 0.8em; margin: 1em 0; line-height: 1.5;">
+<strong>Where:</strong> Museo del Prado.<br>
+<strong>Address:</strong> Paseo del Prado, s/n, 28014, Madrid.<br>
+<strong>Time:</strong> 15:00, September 21st.<br>
+<strong>Meeting Point:</strong> Puerta de Goya - north facade.<br>
+<strong>How to get there:</strong> From the venue (Novotel Madrid Center), take <strong style="color: #f00;">Line 2</strong> at metro station <strong>Goya</strong> to station <strong>Banco de España</strong>, then walk to <em>Museo del Prado</em>.
+</div>
 
 <span style="color: red; font-style: italic;">limited to 19 participants</span>
 

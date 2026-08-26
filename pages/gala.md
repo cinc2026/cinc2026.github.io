@@ -8,6 +8,14 @@ permalink: /gala/
 
 ## 🍽️ CinC 2026 Gala Dinner — Meliá Castilla Madrid
 
+<div style="border: 1px solid #777; padding: 0.65em 0.8em; margin: 1em 0; line-height: 1.5;">
+<strong>Where:</strong> Hotel Meliá Castilla.<br>
+<strong>Address:</strong> Calle del Poeta Joan Maragall, 43, Madrid. Metro station <strong style="color: #0563a6;">Line 10</strong> <strong>Cuzco</strong>.<br>
+<strong>Time:</strong> 21:00, September 21st.<br>
+<strong>Meeting Point:</strong> Hotel Meliá Castilla - Restaurante L’Albufera.<br>
+<strong>How to get there:</strong> From the venue (Novotel Madrid Center), take <strong style="color: #555;">Line 6</strong> at metro station <strong>O'Donnell</strong> to station <strong>Nuevos Ministerios</strong>. There, change to <strong style="color: #0563a6;">Line 10</strong> direction <strong>Hospital Infanta Sofía</strong> to reach <strong>Cuzco</strong>.
+</div>
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css">
 
 <div id="gala-carousel" class="splide" aria-label="Gala Dinner at Meliá Castilla" style="max-width: 700px; margin: 1em 0;">
