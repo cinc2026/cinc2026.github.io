@@ -25,7 +25,7 @@ permalink: /gala/
         <img src="/assets/img/cinc_2026/activities/melia.avif" alt="Hotel Meliá Castilla" style="width:100%; max-height:400px; object-fit:cover; border-radius:6px;">
       </li>
       <li class="splide__slide">
-        <img src="/assets/img/cinc_2026/activities/gala_dinner.avif" alt="Gala Dinner" style="width:100%; max-height:400px; object-fit:cover; border-radius:6px;">
+        <img src="/assets/img/cinc_2026/activities/salon_tapices.JPG" alt="Gala Dinner" style="width:100%; max-height:400px; object-fit:cover; border-radius:6px;">
       </li>
     </ul>
   </div>

@@ -88,7 +88,33 @@ Follow the same steps described above to access your poster booth and upload you
 
 ## <a name="posterPrinting"></a> Poster Printing
 
-*Under development*
+**PRINT YOUR POSTER**
+
+**Skip the hassle. Print your poster in Madrid and collect it on arrival!**
+
+Forget about travelling with a poster tube or worrying about printing and transportation. With this convenient service, your poster will be professionally printed and ready for you when you arrive in Madrid.
+
+You can collect it during the accreditation process from Sunday to Wednesday at Novotel Madrid Center.
+
+**How does it work?**
+
+**1. Send your poster**
+
+Email your final poster file, together with your first name, last name, and number of copies, to [Quinteral Servicios Gráficos](https://quinteral.com/): [angel@quinteral.com](mailto:angel@quinteral.com).
+
+**2. Complete your payment**
+
+Make the payment using the following link: [https://eventsgb.com/product/posters-cinc26/](https://eventsgb.com/product/posters-cinc26/)
+
+**3. Printing process**
+
+Once your payment has been received, your poster will be prepared for printing (A0 format).
+
+**Arrive in Madrid. Collect your poster. You're ready to go!**
+
+<span style="color: red;"><strong>Please note:</strong> Posters will only be printed once payment has been received.</span>
+
+**The deadline for submissions is Tuesday 15.**
 
 ## <a name="speaker"></a>Onsite speaker guidelines
 ### Oral Presentations
