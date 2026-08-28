@@ -100,11 +100,11 @@ You can collect it during the accreditation process from Sunday to Wednesday at 
 
 **1. Send your poster**
 
-Email your final poster file, together with your first name, last name, and number of copies, to [Quinteral Servicios Gráficos](https://quinteral.com/): [angel@quinteral.com](mailto:angel@quinteral.com).
+Email your final poster file, together with your first name, last name, and number of copies, to [Quinteral Servicios Gráficos](https://quinteral.com/){: target="_blank"}: [angel@quinteral.com](mailto:angel@quinteral.com).
 
 **2. Complete your payment**
 
-Make the payment using the following link: [https://eventsgb.com/product/posters-cinc26/](https://eventsgb.com/product/posters-cinc26/)
+Make the payment using the following link: [https://eventsgb.com/product/posters-cinc26/](https://eventsgb.com/product/posters-cinc26/){: target="_blank"}
 
 **3. Printing process**
 
