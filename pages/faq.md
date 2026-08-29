@@ -12,6 +12,7 @@ permalink: /faq/
 <!-- * [Arriving by car](#bycar)-->
 * [Visa](#Visa)
 * [Paying in Spain](#paying)
+* [Meals times in Spain](#meals)
 * [How long do I have for my talk?](#talk-duration)
 * [How big should my poster be?](#poster-size)
 <!--* [Where can I print my poster?](#poster-printing)-->
@@ -53,6 +54,23 @@ For more details, see [Visa](../visa).
 ## <a name="paying"></a>Paying in Spain
 Spain uses the Euro (€) as currency. Most places accept VISA and MasterCard, but some smaller shops might not accept cards or have a minimum purchase amount to accept a credit card. You can withdraw Euros at ATMs, which are quite [ubiquitous](https://maps.app.goo.gl/QBkNZAwSUjpEG45u6){: target="_blank"}. Tips are not mandatory and are closely linked to customer satisfaction with the service received. You can consult more details on the official tourism website about [Money in Madrid](https://www.esmadrid.com/en/money-madrid){: target="_blank"}.
 {: .text-justify}
+
+## <a name="meals"></a>Meals times in Spain
+
+Food is a central part of life in Spain. It is not simply the act of eating: it is what structures social life, and the various meals throughout the day are all opportunities to connect with friends, family and strangers alike. Madrid offers a huge range of venues for every meal of the day, as well as a rich culinary scene.
+{: .text-justify}
+
+One thing worth bearing in mind is when people eat. Meal times in Spain are very different from those elsewhere in Europe. It is common to eat five times a day. Breakfast tends to be early in the morning and is often eaten out, at a café or bar. Around midday, people usually stop for a bite, either savoury or sweet. Then, <span style="color: red;">**between 2 and 4 pm, comes lunch**</span>. Mid-afternoon there is the *merienda*, a light snack, and <span style="color: red;">**dinner is at around 9 pm**</span>.
+{: .text-justify}
+
+That said, Madrid is a cosmopolitan city, and in the central districts it is easy to find places serving food throughout the day. The markets are a fantastic option for sampling the culinary variety of both the city and the country.
+{: .text-justify}
+
+You will find more information in the guides below:
+
+[https://www.esmadrid.com/sites/default/files/comer_en_madrid_2019.pdf](https://www.esmadrid.com/sites/default/files/comer_en_madrid_2019.pdf)
+
+[https://www.esmadrid.com/comer-beber-madrid](https://www.esmadrid.com/comer-beber-madrid)
 
 ## <a name="healthcare"></a>How do I access healthcare in Spain?
 In case of emergency, call 112. As a European citizen, you can receive healthcare services using a European Health Insurance Card (EHIC) issued in your country of origin. 
