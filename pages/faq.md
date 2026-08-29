@@ -63,7 +63,7 @@ Food is a central part of life in Spain. It is not simply the act of eating: it 
 One thing worth bearing in mind is when people eat. Meal times in Spain are very different from those elsewhere in Europe. It is common to eat five times a day. Breakfast tends to be early in the morning and is often eaten out, at a café or bar. Around midday, people usually stop for a bite, either savoury or sweet. Then, <span style="color: red;">**between 2 and 4 pm, comes lunch**</span>. Mid-afternoon there is the *merienda*, a light snack, and <span style="color: red;">**dinner is at around 9 pm**</span>.
 {: .text-justify}
 
-That said, Madrid is a cosmopolitan city, and in the central districts it is easy to find places serving food throughout the day. The markets are a fantastic option for sampling the culinary variety of both the city and the country.
+That said, Madrid is a cosmopolitan city, and in the central districts it is easy to find places serving food throughout the day. The *mercados* are a fantastic option for sampling the culinary variety of both the city and the country. Two worth visiting: [Mercado San Miguel](https://mercadodesanmiguel.es/en/) and [Mercado de la Cebada](https://www.mercadodelacebada.com/)
 {: .text-justify}
 
 You will find more information in the guides below:
