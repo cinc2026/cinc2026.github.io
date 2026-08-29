@@ -57,7 +57,7 @@ Spain uses the Euro (€) as currency. Most places accept VISA and MasterCard, b
 
 ## <a name="meals"></a>Meals times in Spain
 
-Food is a central part of life in Spain. It is not simply the act of eating: it is what structures social life, and the various meals throughout the day are all opportunities to connect with friends, family and strangers alike. Madrid offers a huge range of venues for every meal of the day, as well as a rich culinary scene.
+Food is a central part of life in Spain. It is not simply the act of eating: it is what structures social life, and the various meals throughout the day are all opportunities to connect with friends, family and even make new friends. Madrid offers a huge range of venues for every meal of the day, as well as a rich culinary scene.
 {: .text-justify}
 
 One thing worth bearing in mind is when people eat. Meal times in Spain are very different from those elsewhere in Europe. It is common to eat five times a day. Breakfast tends to be early in the morning and is often eaten out, at a café or bar. Around midday, people usually stop for a bite, either savoury or sweet. Then, <span style="color: red;">**between 2 and 4 pm, comes lunch**</span>. Mid-afternoon there is the *merienda*, a light snack, and <span style="color: red;">**dinner is at around 9 pm**</span>.
