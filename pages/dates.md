@@ -10,10 +10,10 @@ permalink: /dates/
 {: .text-justify}
 
 * <span style="color: #999; text-decoration: line-through;">March 15, 2026. Special session submission proposal.</span>
-* April 15, 2026. **Abstract and early paper submission deadline.** [**Click here!**](http://softconf.com/p/cinc2026/login){: target="_blank"}
-* From June 15, 2026. **Acceptance notificacion**
+* <span style="color: #999; text-decoration: line-through;">April 15, 2026. **Abstract and early paper submission deadline.** [**Click here!**](http://softconf.com/p/cinc2026/login){: target="_blank"}</span>
+* <span style="color: #999; text-decoration: line-through;">From June 15, 2026. **Acceptance notificacion**</span>
 * To Sept 20, 2026 (two weeks before for presenters, see [details](https://cinc.org/inf_authors/){: target="_blank"})  **[Register with SoftConf](https://softconf.com/p/cinc2026/login/){: target="_blank"}**
-* Sept 1, 2026 **Submit the 4 pages preprint version of your contribution.**
+* **Prepare and submit a full paper**: Authors of accepted abstracts (oral and poster) are invited to submit full papers (4 pages) to the conference. **All those submitted before the conference (deadline two weeks before the Sunday Symposium)** will be available as a preprint for the conference.
 * Sep 20, 2026, **Sunday Symposium.**
 * Sep 21-23, 2026. **53rd Computing in Cardiology Conference.**
 * Oct. 10, 2026 **Submit the final version of your 4 pages paper.**
