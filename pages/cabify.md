@@ -16,7 +16,7 @@ CinC 2026 attendees can benefit from a **10% discount** on Cabify rides in Madri
 {: .text-justify}
 
 <p class="notice--info">
-  <strong>Validity:</strong> Madrid, from <strong>September 20 to 24, 2026</strong>.
+  <strong>Validity:</strong> Madrid, from <strong>September 19 (00:00) to 24 (23:59), 2026</strong>.
 </p>
 
 ---
