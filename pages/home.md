@@ -62,6 +62,7 @@ We warmly invite you to the **53rd Computing in Cardiology conference** in **Mad
     <li>🚌 <strong>Attending the Sunday Symposium?</strong> Please <a href="https://forms.gle/i9hwURkmiSv5131y7" target="_blank"><strong>indicate your preference and shuttle choice</strong></a> to help us plan logistics.</li>
     <li>🎫 <strong>Exclusive discounts available</strong> for CinC 2026 attendees on <a href="../cabify/" target="_blank"><strong>Cabify</strong></a> rides in Madrid.</li>
     <li>🖨️ <strong>Poster printing service available</strong>: Print your poster in Madrid and collect it on arrival. See the <a href="../authors/#posterPrinting" target="_blank"><strong>poster printing instructions</strong></a>.</li>
+    <li>📍 <strong>Accreditation Desk information</strong> is available on the <a href="../registration/#accreditation-desk" target="_blank"><strong>Registration page</strong></a>.</li>
     <!-- <li><strong>[Date]</strong>: Second important news placeholder here.</li> -->
   </ul>
 </div>
