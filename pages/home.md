@@ -260,6 +260,10 @@ We gratefully acknowledge the support of our sponsors and partners:
     letter-spacing: 0.5px;
     box-shadow: 0 2px 8px rgba(212, 175, 55, 0.3);
 }
+.sponsor-badge.silver {
+  background: linear-gradient(135deg, #aeb7c2 0%, #7d8792 100%);
+  box-shadow: 0 2px 8px rgba(125, 135, 146, 0.3);
+}
 </style>
 
 <div class="sponsors-section">
@@ -270,6 +274,10 @@ We gratefully acknowledge the support of our sponsors and partners:
   <div class="sponsor-item">
     <a href="https://microcard.eu/" target="_blank" title="MICROCARD"><img src="{{'/assets/img/cinc_2026/sponsors/MICROCARD2.png' | relative_url}}" alt="MICROCARD – Co-funded by the European Union / EuroHPC Joint Undertaking" class="sponsor-logo-item" style="height: 120px;"></a>
     <div class="sponsor-badge">Gold Sponsor</div>
+  </div>
+  <div class="sponsor-item">
+    <a href="https://idoven.ai/" target="_blank" title="Idoven"><img src="{{'/assets/img/cinc_2026/sponsors/Logo_Idoven_Principal.png' | relative_url}}" alt="Idoven" class="sponsor-logo-item" style="height: 120px;"></a>
+    <div class="sponsor-badge silver">Silver Sponsor</div>
   </div>
 </div>
 
