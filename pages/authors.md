@@ -114,7 +114,7 @@ Once your payment has been received, your poster will be prepared for printing (
 
 <span style="color: red;"><strong>Please note:</strong> Posters will only be printed once payment has been received.</span>
 
-**The deadline for submissions is Tuesday 15.**
+**The deadline for submissions is Thursday 17.**
 
 ## <a name="speaker"></a>Onsite speaker guidelines
 ### Oral Presentations
