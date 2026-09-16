@@ -224,7 +224,7 @@ The Cultural Landscape of Aranjuez was declared a World Heritage Site by UNESCO 
 <div id="speaker-brugada" class="speaker-card" onclick="window.location.href='/sunday/speakers/ramon-brugada/'">
   <img class="speaker-photo" src="/assets/img/cinc_2026/sunday_simp/speakers/ramon_brugada.webp" alt="Dr. Ramón Brugada Terradellas">
   <div class="speaker-info">
-    <h3>Dr. Ramon Brugada Terradellas</h3>
+    <h3>Dr. Ramón Brugada Terradellas</h3>
     <div class="speaker-affiliation">
       MD PhD · FACC · FESC<br>
       Chief of Cardiology · Hospital Universitari Josep Trueta &amp; Hospital Santa Caterina, Girona<br>
