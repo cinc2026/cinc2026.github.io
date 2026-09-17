@@ -103,7 +103,7 @@ The Cultural Landscape of Aranjuez was declared a World Heritage Site by UNESCO 
     <tr>
       <td class="t">19:15</td>
       <td>Welcome Reception - Vino Español</td>
-      <td>Mayor of Aranjuez</td>
+      <td>Mayor of Aranjuez · Rector of URJC</td>
 
     </tr>
     <tr class="break-row">
