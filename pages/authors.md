@@ -10,7 +10,6 @@ This page provides a quick overview of the main author instructions. Use the ind
 - [Abstract submission](#abstractSubmission)
 - [Onsite speaker guidelines](#speaker)
 - [Poster upload instructions](#posterUpload)
-- [Poster printing](#posterPrinting)
 
 <!-- and [onsite poster printing store](../authors/#poster). -->
 
@@ -85,36 +84,6 @@ Search for and download the Whova app from Google Play or the App Store, or visi
 * **Step 2: Sign up to Whova**  
 Follow the same steps described above to access your poster booth and upload your poster and videos from the app.
 {: .text-justify}
-
-## <a name="posterPrinting"></a> Poster Printing
-
-**PRINT YOUR POSTER**
-
-**Skip the hassle. Print your poster in Madrid and collect it on arrival!**
-
-Forget about travelling with a poster tube or worrying about printing and transportation. With this convenient service, your poster will be professionally printed and ready for you when you arrive in Madrid.
-
-You can collect it during the accreditation process from Sunday to Wednesday at Novotel Madrid Center.
-
-**How does it work?**
-
-**1. Send your poster**
-
-Email your final poster file, together with your first name, last name, and number of copies, to [Quinteral Servicios Gráficos](https://quinteral.com/){: target="_blank"}: [angel@quinteral.com](mailto:angel@quinteral.com).
-
-**2. Complete your payment**
-
-Make the payment using the following link: [https://eventsgb.com/product/posters-cinc26/](https://eventsgb.com/product/posters-cinc26/){: target="_blank"}
-
-**3. Printing process**
-
-Once your payment has been received, your poster will be prepared for printing (A0 format).
-
-**Arrive in Madrid. Collect your poster. You're ready to go!**
-
-<span style="color: red;"><strong>Please note:</strong> Posters will only be printed once payment has been received.</span>
-
-**The deadline for submissions is Thursday 17.**
 
 ## <a name="speaker"></a>Onsite speaker guidelines
 ### Oral Presentations
