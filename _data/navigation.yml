@@ -2,6 +2,10 @@
 main:
   #- title: "&#9776;"
   # url: "/navigation/"
+  - title: "Photos"
+    url: "https://photos.app.goo.gl/BAqDZZK87vLEKSK38"
+    target: _blank
+    rel: noopener noreferrer
   - title: "Calendar"
     url: "/dates/"
   - title: "Registration"
