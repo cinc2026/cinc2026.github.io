@@ -112,9 +112,10 @@ author:
   email            :
   url              : "https://cinc.org/"
   links:
-    #- label: "CinC 2023 Photos"
-    #  icon: "fab fa-google-drive"
-    #  url: "https://photos.app.goo.gl/ugzN6ZujA6fBQdnr9"
+    - label: "CinC 2026 Photos"
+      icon: "fab fa-google-drive"
+      url: "https://photos.app.goo.gl/BAqDZZK87vLEKSK38"
+      target: _blank
     - label: "Calendar"
       icon: "fas fa-fw fa-calendar"
       url: "/dates/"
